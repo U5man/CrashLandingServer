@@ -1,0 +1,3075 @@
+2015-04-17 00:46:20 [INFO] Starting minecraft server version 1.6.4
+2015-04-17 00:46:38 [INFO] Loading properties
+2015-04-17 00:46:38 [INFO] Default game type: SURVIVAL
+2015-04-17 00:46:38 [INFO] Generating keypair
+2015-04-17 00:46:38 [INFO] Starting Minecraft server on *:25565
+2015-04-17 00:46:48 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2015-04-17 00:46:48 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2015-04-17 00:46:48 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-17 00:46:49 [INFO] Preparing start region for level 0
+2015-04-17 00:46:50 [INFO] Preparing spawn area: 4%
+2015-04-17 00:46:51 [INFO] Preparing spawn area: 5%
+2015-04-17 00:46:52 [INFO] Preparing spawn area: 10%
+2015-04-17 00:46:53 [INFO] Preparing spawn area: 14%
+2015-04-17 00:46:54 [INFO] Preparing spawn area: 19%
+2015-04-17 00:46:55 [INFO] Preparing spawn area: 26%
+2015-04-17 00:46:56 [INFO] Preparing spawn area: 29%
+2015-04-17 00:46:57 [INFO] Preparing spawn area: 36%
+2015-04-17 00:46:58 [INFO] Preparing spawn area: 38%
+2015-04-17 00:47:00 [INFO] Preparing spawn area: 40%
+2015-04-17 00:47:01 [INFO] Preparing spawn area: 43%
+2015-04-17 00:47:02 [INFO] Preparing spawn area: 44%
+2015-04-17 00:47:03 [INFO] Preparing spawn area: 47%
+2015-04-17 00:47:05 [INFO] Preparing spawn area: 47%
+2015-04-17 00:47:06 [INFO] Preparing spawn area: 48%
+2015-04-17 00:47:07 [INFO] Preparing spawn area: 50%
+2015-04-17 00:47:08 [INFO] Preparing spawn area: 51%
+2015-04-17 00:47:10 [INFO] Preparing spawn area: 52%
+2015-04-17 00:47:12 [INFO] Preparing spawn area: 52%
+2015-04-17 00:47:13 [INFO] Preparing spawn area: 54%
+2015-04-17 00:47:14 [INFO] Preparing spawn area: 55%
+2015-04-17 00:47:15 [INFO] Preparing spawn area: 55%
+2015-04-17 00:47:17 [INFO] Preparing spawn area: 55%
+2015-04-17 00:47:18 [INFO] Preparing spawn area: 56%
+2015-04-17 00:47:20 [INFO] Preparing spawn area: 57%
+2015-04-17 00:47:21 [INFO] Preparing spawn area: 58%
+2015-04-17 00:47:22 [INFO] Preparing spawn area: 59%
+2015-04-17 00:47:24 [INFO] Preparing spawn area: 59%
+2015-04-17 00:47:25 [INFO] Preparing spawn area: 59%
+2015-04-17 00:47:26 [INFO] Preparing spawn area: 60%
+2015-04-17 00:47:28 [INFO] Preparing spawn area: 60%
+2015-04-17 00:47:29 [INFO] Preparing spawn area: 61%
+2015-04-17 00:47:30 [INFO] Preparing spawn area: 61%
+2015-04-17 00:47:32 [INFO] Preparing spawn area: 61%
+2015-04-17 00:47:34 [INFO] Preparing spawn area: 63%
+2015-04-17 00:47:35 [INFO] Preparing spawn area: 63%
+2015-04-17 00:47:36 [INFO] Preparing spawn area: 63%
+2015-04-17 00:47:37 [INFO] Preparing spawn area: 63%
+2015-04-17 00:47:38 [INFO] Preparing spawn area: 63%
+2015-04-17 00:47:39 [INFO] Preparing spawn area: 64%
+2015-04-17 00:47:40 [INFO] Preparing spawn area: 64%
+2015-04-17 00:47:41 [INFO] Preparing spawn area: 64%
+2015-04-17 00:47:42 [INFO] Preparing spawn area: 65%
+2015-04-17 00:47:43 [INFO] Preparing spawn area: 65%
+2015-04-17 00:47:44 [INFO] Preparing spawn area: 65%
+2015-04-17 00:47:46 [INFO] Preparing spawn area: 67%
+2015-04-17 00:47:48 [INFO] Preparing spawn area: 67%
+2015-04-17 00:47:50 [INFO] Preparing spawn area: 67%
+2015-04-17 00:47:51 [INFO] Preparing spawn area: 68%
+2015-04-17 00:47:52 [INFO] Preparing spawn area: 68%
+2015-04-17 00:47:53 [INFO] Preparing spawn area: 68%
+2015-04-17 00:47:54 [INFO] Preparing spawn area: 68%
+2015-04-17 00:47:56 [INFO] Preparing spawn area: 69%
+2015-04-17 00:47:58 [INFO] Preparing spawn area: 69%
+2015-04-17 00:48:00 [INFO] Preparing spawn area: 70%
+2015-04-17 00:48:01 [INFO] Preparing spawn area: 71%
+2015-04-17 00:48:02 [INFO] Preparing spawn area: 71%
+2015-04-17 00:48:03 [INFO] Preparing spawn area: 71%
+2015-04-17 00:48:05 [INFO] Preparing spawn area: 71%
+2015-04-17 00:48:06 [INFO] Preparing spawn area: 71%
+2015-04-17 00:48:07 [INFO] Preparing spawn area: 72%
+2015-04-17 00:48:09 [INFO] Preparing spawn area: 72%
+2015-04-17 00:48:10 [INFO] Preparing spawn area: 72%
+2015-04-17 00:48:11 [INFO] Preparing spawn area: 72%
+2015-04-17 00:48:13 [INFO] Preparing spawn area: 73%
+2015-04-17 00:48:15 [INFO] Preparing spawn area: 73%
+2015-04-17 00:48:16 [INFO] Preparing spawn area: 74%
+2015-04-17 00:48:17 [INFO] Preparing spawn area: 75%
+2015-04-17 00:48:19 [INFO] Preparing spawn area: 75%
+2015-04-17 00:48:21 [INFO] Preparing spawn area: 75%
+2015-04-17 00:48:22 [INFO] Preparing spawn area: 75%
+2015-04-17 00:48:23 [INFO] Preparing spawn area: 76%
+2015-04-17 00:48:24 [INFO] Preparing spawn area: 76%
+2015-04-17 00:48:25 [INFO] Preparing spawn area: 76%
+2015-04-17 00:48:26 [INFO] Preparing spawn area: 76%
+2015-04-17 00:48:28 [INFO] Preparing spawn area: 76%
+2015-04-17 00:48:30 [INFO] Preparing spawn area: 77%
+2015-04-17 00:48:32 [INFO] Preparing spawn area: 77%
+2015-04-17 00:48:33 [INFO] Preparing spawn area: 78%
+2015-04-17 00:48:35 [INFO] Preparing spawn area: 79%
+2015-04-17 00:48:36 [INFO] Preparing spawn area: 79%
+2015-04-17 00:48:37 [INFO] Preparing spawn area: 79%
+2015-04-17 00:48:38 [INFO] Preparing spawn area: 79%
+2015-04-17 00:48:40 [INFO] Preparing spawn area: 80%
+2015-04-17 00:48:41 [INFO] Preparing spawn area: 80%
+2015-04-17 00:48:42 [INFO] Preparing spawn area: 80%
+2015-04-17 00:48:43 [INFO] Preparing spawn area: 80%
+2015-04-17 00:48:44 [INFO] Preparing spawn area: 80%
+2015-04-17 00:48:46 [INFO] Preparing spawn area: 81%
+2015-04-17 00:48:47 [INFO] Preparing spawn area: 81%
+2015-04-17 00:48:49 [INFO] Preparing spawn area: 81%
+2015-04-17 00:48:50 [INFO] Preparing spawn area: 83%
+2015-04-17 00:48:52 [INFO] Preparing spawn area: 83%
+2015-04-17 00:48:54 [INFO] Preparing spawn area: 84%
+2015-04-17 00:48:56 [INFO] Preparing spawn area: 84%
+2015-04-17 00:48:58 [INFO] Preparing spawn area: 84%
+2015-04-17 00:49:00 [INFO] Preparing spawn area: 85%
+2015-04-17 00:49:02 [INFO] Preparing spawn area: 85%
+2015-04-17 00:49:04 [INFO] Preparing spawn area: 85%
+2015-04-17 00:49:05 [INFO] Preparing spawn area: 88%
+2015-04-17 00:49:07 [INFO] Preparing spawn area: 88%
+2015-04-17 00:49:08 [INFO] Preparing spawn area: 88%
+2015-04-17 00:49:10 [INFO] Preparing spawn area: 89%
+2015-04-17 00:49:12 [INFO] Preparing spawn area: 89%
+2015-04-17 00:49:14 [INFO] Preparing spawn area: 89%
+2015-04-17 00:49:15 [INFO] Preparing spawn area: 90%
+2015-04-17 00:49:17 [INFO] Preparing spawn area: 91%
+2015-04-17 00:49:19 [INFO] Preparing spawn area: 92%
+2015-04-17 00:49:20 [INFO] Preparing spawn area: 92%
+2015-04-17 00:49:22 [INFO] Preparing spawn area: 93%
+2015-04-17 00:49:24 [INFO] Preparing spawn area: 93%
+2015-04-17 00:49:26 [INFO] Preparing spawn area: 93%
+2015-04-17 00:49:27 [INFO] Preparing spawn area: 96%
+2015-04-17 00:49:29 [INFO] Preparing spawn area: 96%
+2015-04-17 00:49:31 [INFO] Preparing spawn area: 96%
+2015-04-17 00:49:32 [INFO] Preparing spawn area: 97%
+2015-04-17 00:49:34 [INFO] Preparing spawn area: 97%
+2015-04-17 00:49:35 [INFO] Done (166.713s)! For help, type "help" or "?"
+2015-04-17 00:50:31 [INFO] Stopping server
+2015-04-17 00:50:31 [INFO] Saving players
+2015-04-17 00:50:31 [INFO] Saving worlds
+2015-04-17 00:50:31 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-17 00:50:31 [INFO] Closing listening thread
+2015-04-17 00:50:31 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-17 00:50:31 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-17 00:50:31 [INFO] Stopping server
+2015-04-17 00:51:33 [INFO] Starting minecraft server version 1.6.4
+2015-04-17 00:51:50 [INFO] Loading properties
+2015-04-17 00:51:50 [INFO] Default game type: SURVIVAL
+2015-04-17 00:51:50 [INFO] Generating keypair
+2015-04-17 00:51:50 [INFO] Starting Minecraft server on *:25565
+2015-04-17 00:51:59 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-17 00:51:59 [INFO] Preparing start region for level 0
+2015-04-17 00:52:00 [INFO] Done (1.429s)! For help, type "help" or "?"
+2015-04-17 00:58:12 [SEVERE] Reached end of stream for /39.42.53.42
+2015-04-17 00:58:31 [INFO] Javeria[/39.42.53.42:50105] logged in with entity id 381 at (173.5, 61.0, 235.5)
+2015-04-17 00:58:31 [INFO] Javeria joined the game
+2015-04-17 00:58:33 [WARNING] Fetching addPacket for removed entity
+2015-04-17 00:58:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 00:58:52 [INFO] <Javeria> hello
+2015-04-17 00:58:58 [INFO] <Javeria> yeh kya ha?
+2015-04-17 00:59:04 [INFO] Unknown command. Try /help for a list of commands
+2015-04-17 00:59:08 [INFO] Usage: /say <message ...>
+2015-04-17 00:59:14 [INFO] [Server] kya ha ?
+2015-04-17 00:59:21 [INFO] [Server] kya ha
+2015-04-17 00:59:24 [INFO] <Javeria> yeh game konsi ha?
+2015-04-17 00:59:30 [INFO] <Javeria> crash landing nhi khelni thi?
+2015-04-17 00:59:36 [INFO] [Server] Crash landing
+2015-04-17 01:00:03 [INFO] [Server] koi or ha ?
+2015-04-17 01:00:21 [INFO] [Server] acha band karo ma karta hun sai
+2015-04-17 01:00:32 [INFO] <Javeria> tok
+2015-04-17 01:00:37 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-17 01:00:38 [INFO] Javeria lost connection: disconnect.quitting
+2015-04-17 01:00:38 [INFO] Javeria left the game
+2015-04-17 01:00:41 [INFO] usman[/127.0.0.1:49928] logged in with entity id 5204 at (168.5, 69.0, 249.5)
+2015-04-17 01:00:41 [INFO] usman joined the game
+2015-04-17 01:01:06 [INFO] <usman> hi
+2015-04-17 01:01:26 [INFO] usman lost connection: disconnect.quitting
+2015-04-17 01:01:26 [INFO] usman left the game
+2015-04-17 01:01:36 [INFO] Unknown command. Try /help for a list of commands
+2015-04-17 01:01:40 [INFO] You must specify which player you wish to perform this action on.
+2015-04-17 01:01:46 [INFO] Stopping server
+2015-04-17 01:01:46 [INFO] Saving players
+2015-04-17 01:01:46 [INFO] Saving worlds
+2015-04-17 01:01:46 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-17 01:01:46 [INFO] Closing listening thread
+2015-04-17 01:01:46 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-17 01:01:46 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-17 01:01:47 [INFO] Stopping server
+2015-04-17 01:03:27 [INFO] Starting minecraft server version 1.6.4
+2015-04-17 01:04:32 [INFO] Loading properties
+2015-04-17 01:04:32 [INFO] Default game type: SURVIVAL
+2015-04-17 01:04:32 [INFO] Generating keypair
+2015-04-17 01:04:32 [INFO] Starting Minecraft server on *:25565
+2015-04-17 01:04:47 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-17 01:05:20 [INFO] Starting minecraft server version 1.6.4
+2015-04-17 01:06:52 [INFO] Loading properties
+2015-04-17 01:06:52 [INFO] Default game type: SURVIVAL
+2015-04-17 01:06:52 [INFO] Generating keypair
+2015-04-17 01:06:53 [INFO] Starting Minecraft server on *:25565
+2015-04-17 01:07:31 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-17 01:07:34 [INFO] Preparing start region for level 0
+2015-04-17 01:07:36 [INFO] Preparing spawn area: 7%
+2015-04-17 01:07:37 [INFO] Preparing spawn area: 36%
+2015-04-17 01:07:39 [INFO] Preparing spawn area: 70%
+2015-04-17 01:07:39 [INFO] Done (7.791s)! For help, type "help" or "?"
+2015-04-17 01:07:52 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-17 01:08:03 [INFO] usman[/127.0.0.1:50008] logged in with entity id 38 at (-140.5, 76.0, -220.5)
+2015-04-17 01:08:03 [INFO] usman joined the game
+2015-04-17 01:08:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 01:08:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 01:08:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 01:09:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 01:10:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 01:10:18 [INFO] /39.42.53.42:50196 lost connection
+2015-04-17 01:10:19 [INFO] /39.42.53.42:50201 lost connection
+2015-04-17 01:10:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 01:10:57 [INFO] /39.42.53.42:50224 lost connection
+2015-04-17 01:10:58 [INFO] /39.42.53.42:50227 lost connection
+2015-04-17 01:10:58 [INFO] /39.42.53.42:50230 lost connection
+2015-04-17 01:11:14 [INFO] /39.42.53.42:50244 lost connection
+2015-04-17 01:11:18 [INFO] /39.42.53.42:50247 lost connection
+2015-04-17 01:12:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 01:12:34 [INFO] usman lost connection: disconnect.quitting
+2015-04-17 01:12:34 [INFO] usman left the game
+2015-04-17 01:12:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 01:17:27 [INFO] Stopping server
+2015-04-17 01:17:27 [INFO] Saving players
+2015-04-17 01:17:27 [INFO] Saving worlds
+2015-04-17 01:17:27 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-17 01:17:27 [INFO] Closing listening thread
+2015-04-17 01:17:27 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-17 01:17:27 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-17 01:17:28 [INFO] Stopping server
+2015-04-17 23:48:17 [INFO] Starting minecraft server version 1.6.4
+2015-04-17 23:48:44 [INFO] Loading properties
+2015-04-17 23:48:44 [INFO] Default game type: SURVIVAL
+2015-04-17 23:48:44 [INFO] Generating keypair
+2015-04-17 23:48:45 [INFO] Starting Minecraft server on *:25565
+2015-04-17 23:49:00 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-17 23:49:01 [INFO] Preparing start region for level 0
+2015-04-17 23:49:02 [INFO] Preparing spawn area: 65%
+2015-04-17 23:49:02 [INFO] Done (2.695s)! For help, type "help" or "?"
+2015-04-17 23:52:19 [SEVERE] Reached end of stream for /39.42.248.1
+2015-04-17 23:52:29 [INFO] Javeria[/39.42.248.1:50941] logged in with entity id 87 at (-151.5, 73.0, -216.5)
+2015-04-17 23:52:29 [INFO] Javeria joined the game
+2015-04-17 23:53:19 [INFO] <Javeria> hello
+2015-04-17 23:54:15 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-17 23:54:17 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-17 23:54:23 [INFO] usman[/127.0.0.1:53514] logged in with entity id 74639 at (-144.020928665164, 73.0, -227.386911769047)
+2015-04-17 23:54:23 [INFO] usman joined the game
+2015-04-17 23:55:08 [INFO] <Javeria> mja pani wala claim nhi mila
+2015-04-17 23:55:46 [INFO] <usman> invite aya?
+2015-04-17 23:56:46 [INFO] <usman> invite karo acceppt
+2015-04-17 23:56:54 [INFO] <usman> book khol k
+2015-04-17 23:56:55 [INFO] <Javeria> kasay?
+2015-04-17 23:57:07 [INFO] <usman> party ka nam ho ga kahin
+2015-04-17 23:57:29 [INFO] <usman> sotry page se next page per
+2015-04-17 23:58:00 [INFO] <usman> mila ab?
+2015-04-17 23:58:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 23:58:20 [INFO] <Javeria> phir b claim bnhi dey rha ma nay party accept ki ha
+2015-04-17 23:58:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 23:58:41 [INFO] <usman> dubara kar sakti ho
+2015-04-17 23:58:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 23:59:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 23:59:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-17 23:59:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-18 00:00:29 [INFO] <Javeria> mja pani ki zrurat ha sakht
+2015-04-18 00:00:42 [INFO] <Javeria> mja claims nhi mil rhay na manual submit aa rha ha
+2015-04-18 00:00:55 [INFO] <usman> to karo na submit
+2015-04-18 00:02:00 [INFO] Javeria lost connection: disconnect.genericReason
+2015-04-18 00:02:00 [INFO] Javeria left the game
+2015-04-18 00:02:33 [SEVERE] Reached end of stream for /39.42.58.48
+2015-04-18 00:02:42 [INFO] Javeria[/39.42.58.48:51028] logged in with entity id 401279 at (-144.627133063231, 73.0, -227.29243941155966)
+2015-04-18 00:02:42 [INFO] Javeria joined the game
+2015-04-18 00:03:20 [INFO] <Javeria> abhi b nhi dey rha
+2015-04-18 00:03:31 [INFO] <Javeria> mra pani 17 % reh gya ha
+2015-04-18 00:03:53 [INFO] <usman> mujy pic send karo us page k
+2015-04-18 00:04:13 [INFO] <Javeria> kasay?
+2015-04-18 00:04:17 [INFO] <usman> mob
+2015-04-18 00:04:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-18 00:04:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-18 00:04:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-18 00:05:02 [INFO] <usman> karo na
+2015-04-18 00:05:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-18 00:05:26 [INFO] <usman> manual submit a rha ha
+2015-04-18 00:05:31 [INFO] <Javeria> nhi
+2015-04-18 00:05:32 [INFO] <usman> manual submit karo
+2015-04-18 00:05:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-18 00:05:43 [INFO] <Javeria> nhi aa rhi option
+2015-04-18 00:05:53 [INFO] <Javeria> pic kasay send krun?
+2015-04-18 00:06:05 [INFO] <Javeria> mob pay?
+2015-04-18 00:06:07 [INFO] <usman> mobile se pic le k viber kr do
+2015-04-18 00:07:48 [INFO] <Javeria> kr di ha pic send
+2015-04-18 00:08:08 [INFO] <Javeria> ma mar jaongi u
+2015-04-18 00:08:39 [INFO] <usman> ooo masla ha new start karta hun
+2015-04-18 00:08:46 [INFO] <Javeria> sukar ha
+2015-04-18 00:08:50 [INFO] Javeria lost connection: disconnect.quitting
+2015-04-18 00:08:50 [INFO] Javeria left the game
+2015-04-18 00:08:53 [INFO] usman lost connection: disconnect.quitting
+2015-04-18 00:08:53 [INFO] usman left the game
+2015-04-18 00:08:59 [INFO] Stopping server
+2015-04-18 00:08:59 [INFO] Saving players
+2015-04-18 00:08:59 [INFO] Saving worlds
+2015-04-18 00:08:59 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-18 00:08:59 [INFO] Closing listening thread
+2015-04-18 00:08:59 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-18 00:08:59 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-18 00:09:00 [INFO] Stopping server
+2015-04-18 00:09:00 [INFO] Saving players
+2015-04-18 00:09:00 [INFO] Saving worlds
+2015-04-18 00:09:44 [INFO] Starting minecraft server version 1.6.4
+2015-04-18 00:10:58 [INFO] Loading properties
+2015-04-18 00:10:58 [INFO] Default game type: SURVIVAL
+2015-04-18 00:10:58 [INFO] Generating keypair
+2015-04-18 00:10:59 [INFO] Starting Minecraft server on *:25565
+2015-04-18 00:11:17 [SEVERE] Reached end of stream for /39.42.4.70
+2015-04-18 00:11:18 [SEVERE] Reached end of stream for /39.42.4.70
+2015-04-18 00:11:26 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-18 00:11:28 [INFO] Preparing start region for level 0
+2015-04-18 00:11:29 [INFO] Preparing spawn area: 0%
+2015-04-18 00:11:30 [INFO] Preparing spawn area: 54%
+2015-04-18 00:11:30 [INFO] Done (4.180s)! For help, type "help" or "?"
+2015-04-18 00:11:31 [INFO] /39.42.4.70:51087 lost connection
+2015-04-18 00:11:31 [INFO] /39.42.4.70:51090 lost connection
+2015-04-18 00:11:37 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-18 00:11:54 [INFO] usman[/127.0.0.1:53560] logged in with entity id 38 at (-150.5, 73.0, -206.5)
+2015-04-18 00:11:54 [INFO] usman joined the game
+2015-04-18 00:12:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-18 00:13:10 [SEVERE] Reached end of stream for /39.42.4.70
+2015-04-18 00:13:19 [INFO] Javeria[/39.42.4.70:51096] logged in with entity id 55876 at (-139.5, 73.0, -211.5)
+2015-04-18 00:13:19 [INFO] Javeria joined the game
+2015-04-18 00:13:50 [INFO] <usman> task karo
+2015-04-18 00:14:17 [INFO] <Javeria> invite accept nhi krna?
+2015-04-18 00:14:21 [INFO] <usman> jaldi
+2015-04-18 00:14:25 [INFO] <usman> karo na
+2015-04-18 00:14:31 [INFO] <usman> oooo
+2015-04-18 00:14:36 [INFO] <usman> pahly karni the
+2015-04-18 00:15:08 [INFO] <usman> mujy do
+2015-04-18 00:15:24 [INFO] <usman> ufffffff
+2015-04-18 00:15:30 [INFO] Javeria lost connection: disconnect.genericReason
+2015-04-18 00:15:30 [INFO] Javeria left the game
+2015-04-18 00:16:22 [INFO] usman lost connection: disconnect.quitting
+2015-04-18 00:16:22 [INFO] usman left the game
+2015-04-18 00:16:29 [SEVERE] Reached end of stream for /39.42.25.18
+2015-04-18 00:16:37 [INFO] Javeria[/39.42.25.18:51216] logged in with entity id 173940 at (-145.69999998807907, 73.0, -227.85642138947716)
+2015-04-18 00:16:37 [INFO] Javeria joined the game
+2015-04-18 00:16:38 [WARNING] Fetching addPacket for removed entity
+2015-04-18 00:17:43 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-18 00:17:49 [INFO] usman[/127.0.0.1:53567] logged in with entity id 198114 at (-145.69999998807907, 73.0, -225.4399516932893)
+2015-04-18 00:17:49 [INFO] usman joined the game
+2015-04-18 00:18:15 [INFO] <usman> kar lia ha join
+2015-04-18 00:18:51 [INFO] <usman> kar lo join bohat maharbani ho ge plz
+2015-04-18 00:19:11 [INFO] Javeria lost connection: disconnect.genericReason
+2015-04-18 00:19:11 [INFO] Javeria left the game
+2015-04-18 00:19:34 [INFO] usman lost connection: disconnect.quitting
+2015-04-18 00:19:34 [INFO] usman left the game
+2015-04-18 00:20:45 [SEVERE] Reached end of stream for /39.42.84.126
+2015-04-18 00:21:24 [INFO] Stopping server
+2015-04-18 00:21:24 [INFO] Saving players
+2015-04-18 00:21:24 [INFO] Saving worlds
+2015-04-18 00:21:24 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-18 00:21:24 [INFO] Closing listening thread
+2015-04-18 00:21:24 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-18 00:21:24 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-18 00:21:24 [INFO] Stopping server
+2015-04-18 00:31:50 [INFO] Starting minecraft server version 1.6.4
+2015-04-18 00:32:17 [INFO] Loading properties
+2015-04-18 00:32:17 [INFO] Default game type: SURVIVAL
+2015-04-18 00:32:17 [INFO] Generating keypair
+2015-04-18 00:32:17 [INFO] Starting Minecraft server on *:25565
+2015-04-18 00:32:28 [SEVERE] Reached end of stream for /39.42.196.180
+2015-04-18 00:32:30 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-18 00:32:31 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-18 00:32:32 [SEVERE] Reached end of stream for /39.42.196.180
+2015-04-18 00:32:33 [INFO] Preparing start region for level 0
+2015-04-18 00:32:34 [INFO] Done (2.916s)! For help, type "help" or "?"
+2015-04-18 00:32:34 [INFO] /39.42.196.180:51456 lost connection
+2015-04-18 00:32:34 [INFO] /127.0.0.1:53699 lost connection
+2015-04-18 00:32:34 [INFO] /39.42.196.180:51457 lost connection
+2015-04-18 00:32:35 [SEVERE] Reached end of stream for /39.42.196.180
+2015-04-18 00:32:39 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-18 00:32:43 [INFO] Javeria[/39.42.196.180:51461] logged in with entity id 38 at (-153.5, 73.0, -213.5)
+2015-04-18 00:32:43 [INFO] Javeria joined the game
+2015-04-18 00:32:53 [INFO] usman[/127.0.0.1:53704] logged in with entity id 7343 at (-148.5, 73.0, -212.5)
+2015-04-18 00:32:53 [INFO] usman joined the game
+2015-04-18 00:33:37 [INFO] <usman> ander jao
+2015-04-18 00:33:52 [INFO] <usman> karo na
+2015-04-18 00:34:53 [INFO] <usman> karo claim
+2015-04-18 00:34:58 [INFO] <Javeria> l
+2015-04-18 00:37:45 [INFO] <usman> chest mujy dena
+2015-04-18 00:38:33 [INFO] <Javeria> mra clone ku nhi ban rha?
+2015-04-18 00:38:43 [INFO] <usman> click kia
+2015-04-18 00:38:48 [INFO] <Javeria> g
+2015-04-18 00:38:56 [INFO] <usman> power set ke ?
+2015-04-18 00:39:03 [INFO] <Javeria> nhi woh nhi ati ja
+2015-04-18 00:39:29 [INFO] <Javeria> ol ap apna kam kren ma bad may sikg lungi
+2015-04-18 00:39:58 [INFO] <usman> ni karo na try seding hoti ha is ke
+2015-04-18 00:40:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-18 00:40:19 [INFO] <Javeria> kasay?
+2015-04-18 00:40:25 [INFO] <usman> kar de ha
+2015-04-18 00:40:31 [INFO] <usman> rewars le lo
+2015-04-18 00:40:35 [INFO] <usman> ma ne or ke han
+2015-04-18 00:44:42 [INFO] <Javeria> hello map pay balaen nazar nhi aa rhi mja
+2015-04-18 00:44:45 [INFO] <usman> stone kitna hua
+2015-04-18 00:44:55 [INFO] <Javeria> 15
+2015-04-18 00:45:03 [INFO] <usman> mujy to a rhi han:p
+2015-04-18 00:45:18 [INFO] <Javeria> mra map ki settingkhrab ho gai a
+2015-04-18 00:45:30 [INFO] <usman> humy 24 chaiy
+2015-04-18 00:46:00 [INFO] <usman> suba ap ne trees per kam karna ha
+2015-04-18 00:46:03 [INFO] <usman> ok
+2015-04-18 00:46:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-18 00:46:10 [INFO] <usman> per ma safe kar lun pahly
+2015-04-18 00:46:15 [INFO] <Javeria> k
+2015-04-18 00:46:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-18 00:47:09 [INFO] <usman> a jao
+2015-04-18 00:47:49 [INFO] <usman> chalo na
+2015-04-18 00:51:07 [INFO] <usman> battry low ma ak mint charge laga lun
+2015-04-18 00:52:43 [INFO] <usman> haha
+2015-04-18 00:54:39 [INFO] Javeria lost connection: disconnect.genericReason
+2015-04-18 00:54:39 [INFO] Javeria left the game
+2015-04-18 00:55:36 [INFO] usman lost connection: disconnect.quitting
+2015-04-18 00:55:36 [INFO] usman left the game
+2015-04-18 00:55:43 [INFO] Stopping server
+2015-04-18 00:55:43 [INFO] Saving players
+2015-04-18 00:55:43 [INFO] Saving worlds
+2015-04-18 00:55:43 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-18 00:55:43 [INFO] Closing listening thread
+2015-04-18 00:55:44 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-18 00:55:44 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-18 00:55:44 [INFO] Stopping server
+2015-04-18 01:04:39 [INFO] Starting minecraft server version 1.6.4
+2015-04-18 01:04:57 [INFO] Loading properties
+2015-04-18 01:04:57 [INFO] Default game type: SURVIVAL
+2015-04-18 01:04:57 [INFO] Generating keypair
+2015-04-18 01:04:57 [INFO] Starting Minecraft server on *:25565
+2015-04-18 01:05:07 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-18 01:05:08 [INFO] Preparing start region for level 0
+2015-04-18 01:05:09 [INFO] Done (2.255s)! For help, type "help" or "?"
+2015-04-18 01:05:29 [SEVERE] Reached end of stream for /39.42.196.180
+2015-04-18 01:05:36 [INFO] Javeria[/39.42.196.180:51560] logged in with entity id 9 at (-148.7260420815172, 73.0, -214.3940329442396)
+2015-04-18 01:05:36 [INFO] Javeria joined the game
+2015-04-18 01:05:47 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-18 01:05:51 [INFO] usman[/127.0.0.1:53888] logged in with entity id 9705 at (-148.3575808306496, 73.0, -211.90159172102162)
+2015-04-18 01:05:51 [INFO] usman joined the game
+2015-04-18 01:08:00 [INFO] <usman> ooo
+2015-04-18 01:08:23 [INFO] <usman> sara sifting ka saman ider rakh do
+2015-04-18 01:08:26 [INFO] <usman> chest me
+2015-04-18 01:09:48 [INFO] <usman> wood
+2015-04-18 01:10:14 [INFO] <usman> wood
+2015-04-18 01:10:16 [INFO] <Javeria> baki saman kahan eakhun>
+2015-04-18 01:13:56 [INFO] <usman> matock jo ha wood k liy b ha or sat parny k liy b ha balaon ko
+2015-04-18 01:14:20 [INFO] <usman> bana lo chest kar lo seting apni marzi ke
+2015-04-18 01:15:31 [INFO] <usman> safe ha
+2015-04-18 01:15:55 [INFO] <usman> bnai ni chest?
+2015-04-18 01:16:07 [INFO] <usman> pani k liy alag bnao khanyu k liy alag
+2015-04-18 01:16:18 [INFO] Javeria lost connection: disconnect.genericReason
+2015-04-18 01:16:18 [INFO] Javeria left the game
+2015-04-18 01:16:23 [INFO] usman lost connection: disconnect.quitting
+2015-04-18 01:16:23 [INFO] usman left the game
+2015-04-18 01:16:29 [INFO] Stopping server
+2015-04-18 01:16:29 [INFO] Saving players
+2015-04-18 01:16:29 [INFO] Saving worlds
+2015-04-18 01:16:29 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-18 01:16:29 [INFO] Closing listening thread
+2015-04-18 01:16:29 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-18 01:16:29 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-18 01:16:29 [INFO] Stopping server
+2015-04-19 00:19:21 [INFO] Starting minecraft server version 1.6.4
+2015-04-19 00:19:43 [INFO] Loading properties
+2015-04-19 00:19:43 [INFO] Default game type: SURVIVAL
+2015-04-19 00:19:43 [INFO] Generating keypair
+2015-04-19 00:19:44 [INFO] Starting Minecraft server on *:25565
+2015-04-19 00:19:55 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-19 00:19:55 [INFO] Preparing start region for level 0
+2015-04-19 00:19:56 [INFO] Done (1.046s)! For help, type "help" or "?"
+2015-04-19 00:22:50 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 00:22:52 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 00:23:31 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 00:23:40 [INFO] usman[/127.0.0.1:55055] logged in with entity id 48 at (-143.62369339174072, 73.0, -220.27914044685104)
+2015-04-19 00:23:40 [INFO] usman joined the game
+2015-04-19 00:24:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 00:30:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 00:30:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 00:31:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 00:34:37 [SEVERE] Reached end of stream for /39.42.45.121
+2015-04-19 00:34:46 [SEVERE] Reached end of stream for /39.42.45.121
+2015-04-19 00:35:17 [INFO] Javeria[/39.42.45.121:49454] logged in with entity id 291601 at (-143.98759192205384, 73.0, -218.16147951962992)
+2015-04-19 00:35:17 [INFO] Javeria joined the game
+2015-04-19 00:36:15 [INFO] <usman> hi
+2015-04-19 00:36:24 [INFO] <Javeria> ma kaya krun
+2015-04-19 00:36:32 [INFO] <usman> sifting
+2015-04-19 00:37:16 [INFO] <usman> base bil kul safe ha ab
+2015-04-19 00:37:22 [INFO] <usman> no spiders
+2015-04-19 00:37:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 00:38:13 [INFO] <Javeria> yeh kya lgaya ha roshni ho gai ha
+2015-04-19 00:38:26 [INFO] <usman> pahly k lagy han
+2015-04-19 00:38:33 [INFO] <usman> nichy base me jo kar rhy han roshni
+2015-04-19 00:38:44 [INFO] <usman> ma ne uper se blocks tory han bus
+2015-04-19 00:38:54 [INFO] <Javeria> :)
+2015-04-19 00:39:01 [INFO] <usman> o han leaves toro ap
+2015-04-19 00:39:11 [INFO] <Javeria> yeh kya kam kamrti ha?
+2015-04-19 00:39:24 [INFO] <Javeria> yeh mra kam ha na
+2015-04-19 00:39:39 [INFO] <usman> ni ye ma ne lagay han
+2015-04-19 00:39:47 [INFO] <usman> ye ni torny
+2015-04-19 00:39:52 [INFO] <Javeria> :( sara kam to ap nay ker diya ab ma nkya krungi
+2015-04-19 00:39:53 [INFO] <usman> wo jo ap k han do wo karo
+2015-04-19 00:40:01 [INFO] <Javeria> :(
+2015-04-19 00:40:06 [INFO] <usman> ye do
+2015-04-19 00:40:10 [INFO] <Javeria> apka mra nahi hota hmara hota ha sub
+2015-04-19 00:40:21 [INFO] <usman> kam karo time ni ha
+2015-04-19 00:47:37 [INFO] Javeria lost connection: disconnect.quitting
+2015-04-19 00:47:37 [INFO] Javeria left the game
+2015-04-19 00:47:51 [SEVERE] Reached end of stream for /39.42.45.121
+2015-04-19 00:48:00 [INFO] Javeria[/39.42.45.121:49490] logged in with entity id 624034 at (-151.69999998807907, 73.0, -202.53263249113454)
+2015-04-19 00:48:00 [INFO] Javeria joined the game
+2015-04-19 00:49:06 [INFO] <usman> bed ho gay
+2015-04-19 00:49:14 [INFO] <usman> ab rat hoty sat he ho jana ha
+2015-04-19 00:49:26 [INFO] <usman> sifting karo
+2015-04-19 00:49:37 [INFO] <Javeria> woh kya hota ha?
+2015-04-19 00:49:45 [INFO] <usman> ye
+2015-04-19 00:49:46 [INFO] <Javeria> mja pani chaiay
+2015-04-19 00:50:46 [INFO] <usman> saplings chest me rakh do
+2015-04-19 00:51:12 [INFO] <Javeria> mja ghar baithay baithy garmi kasay lag gai
+2015-04-19 00:51:16 [INFO] <Javeria> mra pani kum ha
+2015-04-19 00:51:35 [INFO] <usman> mujy b lagi hui ha
+2015-04-19 00:51:43 [INFO] <usman> camlepack end ho gya ha
+2015-04-19 00:51:59 [INFO] <usman> quest ke ha wo use karo lo
+2015-04-19 00:52:35 [INFO] <Javeria> yeh quest kasay ki ha?
+2015-04-19 00:52:42 [INFO] <usman> is se
+2015-04-19 00:53:40 [INFO] <usman> stoen karo bus ab
+2015-04-19 00:54:58 [INFO] <usman> so jao
+2015-04-19 00:55:30 [INFO] <usman> hello
+2015-04-19 00:55:48 [INFO] <usman> uffff
+2015-04-19 00:55:55 [INFO] <usman> lete kar dia
+2015-04-19 00:56:08 [INFO] <Javeria> kiya
+2015-04-19 00:56:09 [INFO] <usman> ma ne kya kaha ha k rat hoty sat he sona tha
+2015-04-19 00:56:16 [INFO] <usman> chat kyun ni dakhti :(
+2015-04-19 00:56:20 [INFO] <Javeria> ap nay mja kha hi nahi
+2015-04-19 00:56:25 [INFO] <usman> chalo na
+2015-04-19 00:57:21 [INFO] <usman> saman chest me rakho
+2015-04-19 00:59:03 [INFO] <Javeria> isko auto ki setting keren na jasay pehlay ki thi
+2015-04-19 01:00:07 [INFO] <usman> bus theek ha
+2015-04-19 01:00:47 [INFO] <Javeria> patay katun ab?
+2015-04-19 01:01:17 [INFO] <usman> leaves kato jaldi
+2015-04-19 01:02:46 [INFO] <usman> miti bnao
+2015-04-19 01:03:48 [INFO] <usman> pani lo
+2015-04-19 01:04:25 [INFO] <usman> sifting choro
+2015-04-19 01:04:27 [INFO] <usman> miti bnao
+2015-04-19 01:04:48 [INFO] <usman> in me
+2015-04-19 01:05:17 [INFO] <usman> paty dalo thori der me miti ban jay ge mujy dai jao
+2015-04-19 01:06:05 [INFO] <usman> sony chalo
+2015-04-19 01:06:12 [INFO] <usman> ni abi ni
+2015-04-19 01:06:46 [INFO] <usman> pani
+2015-04-19 01:07:10 [INFO] <usman> ab
+2015-04-19 01:07:33 [INFO] <usman> fit timing
+2015-04-19 01:07:42 [INFO] <Javeria> ab keh dena ma bhag k a jao gi
+2015-04-19 01:07:48 [INFO] <usman> pani full rakho
+2015-04-19 01:07:58 [INFO] <Javeria> or bottles do
+2015-04-19 01:08:09 [INFO] <usman> o wapis
+2015-04-19 01:08:15 [INFO] <usman> miti do na
+2015-04-19 01:10:20 [INFO] Opped usman
+2015-04-19 01:11:00 [INFO] <usman> apples do
+2015-04-19 01:11:13 [INFO] <Javeria> kainchi khtnn
+2015-04-19 01:11:24 [INFO] <usman> kya
+2015-04-19 01:11:50 [INFO] <usman> ab kana
+2015-04-19 01:14:12 [INFO] <Javeria> hello rice seed mila ha
+2015-04-19 01:14:18 [INFO] <Javeria> books say
+2015-04-19 01:14:52 [INFO] <usman> kahan ha koi
+2015-04-19 01:14:56 [INFO] <usman> g pata ha
+2015-04-19 01:15:08 [INFO] <usman> ider laga do
+2015-04-19 01:15:17 [INFO] <Javeria> kidher?
+2015-04-19 01:17:58 [INFO] <usman> bed
+2015-04-19 01:21:34 [INFO] <usman> bone meal ha ?
+2015-04-19 01:21:44 [INFO] <Javeria> nhi
+2015-04-19 01:21:58 [INFO] <usman> abi mily to mujy dena
+2015-04-19 01:22:05 [INFO] <Javeria> k
+2015-04-19 01:22:26 [INFO] <Javeria> mja sand dey den
+2015-04-19 01:22:29 [INFO] <Javeria> agr ha to
+2015-04-19 01:25:34 [INFO] <Javeria> yeh len
+2015-04-19 01:25:44 [INFO] <usman> trees tor do sary
+2015-04-19 01:25:59 [INFO] <usman> ye lo
+2015-04-19 01:26:50 [INFO] <Javeria> tor diay
+2015-04-19 01:26:58 [INFO] <Javeria> ap k walay bhi?
+2015-04-19 01:27:04 [INFO] <usman> quest le lo
+2015-04-19 01:27:09 [INFO] <usman> or sary toro
+2015-04-19 01:27:56 [INFO] <Javeria> yeh bht ha kya kya select krun
+2015-04-19 01:28:17 [INFO] <usman> kon se waly me se
+2015-04-19 01:28:22 [INFO] <usman> heart karo
+2015-04-19 01:29:14 [INFO] <Javeria> konsa cast
+2015-04-19 01:29:23 [INFO] <Javeria> bed
+2015-04-19 01:29:36 [INFO] <usman> late ho gya :(
+2015-04-19 01:29:41 [INFO] <Javeria> han na :(
+2015-04-19 01:29:51 [INFO] <usman> sowrd lo
+2015-04-19 01:29:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:30:01 [INFO] <Javeria> infected leavees kainchi say kat lun?
+2015-04-19 01:30:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:30:40 [INFO] <Javeria> dey nhi rha calin
+2015-04-19 01:31:33 [INFO] <Javeria> mja nahi dey rha calin
+2015-04-19 01:31:45 [INFO] <usman> kya ni de rha
+2015-04-19 01:31:47 [INFO] <Javeria> kainchi say kat lun infected leaves
+2015-04-19 01:31:51 [INFO] <usman> ak select to karo
+2015-04-19 01:31:52 [INFO] <Javeria> sword cast wala
+2015-04-19 01:31:56 [INFO] <usman> ni ni
+2015-04-19 01:31:58 [INFO] <Javeria> kiya ha select nhi dey rha
+2015-04-19 01:32:02 [INFO] <usman> us dandy se
+2015-04-19 01:32:07 [INFO] <usman> bal k choro
+2015-04-19 01:32:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:32:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:32:36 [INFO] <usman> ye kar k sai darakht lagao
+2015-04-19 01:32:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:32:52 [INFO] <usman> or leaves jama karo
+2015-04-19 01:34:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:34:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:34:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:34:46 [INFO] <usman> ston ni mily
+2015-04-19 01:34:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:35:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:35:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:36:26 [INFO] <usman> oo pani pio
+2015-04-19 01:36:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:36:41 [INFO] <usman> bahir para ha
+2015-04-19 01:36:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:37:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:38:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:38:57 [INFO] <usman> choro leaves
+2015-04-19 01:39:08 [INFO] <usman> wood toro bus
+2015-04-19 01:39:20 [INFO] <Javeria> aey lo
+2015-04-19 01:39:23 [INFO] <Javeria> :(
+2015-04-19 01:39:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:40:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:41:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:42:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:42:22 [INFO] <usman> miti bnao
+2015-04-19 01:42:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:42:30 [INFO] <Javeria> bone meal nhi ha
+2015-04-19 01:42:32 [INFO] <Javeria> patay nhi ha
+2015-04-19 01:42:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:42:56 [INFO] <Javeria> sand den ma chanun
+2015-04-19 01:43:17 [INFO] <usman> chuni ja rhi ha khudi
+2015-04-19 01:43:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:43:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:43:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:44:26 [INFO] <Javeria> khana
+2015-04-19 01:44:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:45:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:45:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:45:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:46:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:46:36 [INFO] <Javeria> khan nhi ha jan hmaray as
+2015-04-19 01:46:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:46:55 [INFO] <usman> han wo he kah rha hun
+2015-04-19 01:47:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:47:06 [INFO] <usman> kiry pakao
+2015-04-19 01:47:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:47:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:48:14 [INFO] <Javeria> KASAY PAKAO?
+2015-04-19 01:48:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:48:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:48:42 [INFO] <usman> pani banna ata ha na
+2015-04-19 01:48:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:48:53 [INFO] <Javeria> G
+2015-04-19 01:49:06 [INFO] <usman> dirty water bnao or usy pakao
+2015-04-19 01:49:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:49:20 [INFO] <usman> uper waly hopper me rakhna khudi pak k nicy waly ke a jay ga
+2015-04-19 01:49:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:49:36 [INFO] <usman> leaves han 10
+2015-04-19 01:49:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:50:03 [INFO] <usman> pani pip
+2015-04-19 01:50:12 [INFO] <usman> khali na hony dia kao
+2015-04-19 01:50:29 [INFO] <usman> leaves han
+2015-04-19 01:50:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:50:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:51:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:51:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:51:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:52:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:52:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:52:38 [INFO] <Javeria> TA O
+2015-04-19 01:52:41 [INFO] <usman> bed
+2015-04-19 01:52:41 [INFO] <Javeria> ao
+2015-04-19 01:52:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:53:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:53:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:53:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:54:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:54:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:55:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:55:17 [INFO] <usman> is se door rho
+2015-04-19 01:55:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:55:24 [INFO] <usman> hello
+2015-04-19 01:55:36 [INFO] <Javeria> k
+2015-04-19 01:55:40 [INFO] <usman> mujy b do
+2015-04-19 01:55:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:56:21 [INFO] <usman> stone ap k pass ha
+2015-04-19 01:56:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:57:44 [INFO] <usman> pani bna rhi ho?
+2015-04-19 01:57:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:57:52 [INFO] <Javeria> g
+2015-04-19 01:58:15 [INFO] <Javeria> ap cheating ker rhay han sath sath
+2015-04-19 01:58:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:58:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:59:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 01:59:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:00:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:00:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:01:18 [INFO] <Javeria> hello iron ki kainchi chaiay
+2015-04-19 02:01:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:01:26 [INFO] <usman> ok
+2015-04-19 02:01:39 [INFO] <usman> apples ab mujy dena
+2015-04-19 02:02:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:02:22 [INFO] <usman> bone ha?
+2015-04-19 02:02:27 [INFO] <Javeria> nhi
+2015-04-19 02:02:33 [INFO] <Javeria> ok
+2015-04-19 02:03:01 [INFO] <Javeria> game hang ho rhi ha
+2015-04-19 02:03:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:03:18 [INFO] <usman> restart karun ?
+2015-04-19 02:03:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:03:29 [INFO] <Javeria> g
+2015-04-19 02:03:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:03:42 [INFO] <Javeria> tbed
+2015-04-19 02:04:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:04:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:05:00 [INFO] <usman> pani do
+2015-04-19 02:05:20 [INFO] <Javeria> ma nay pi liya bahi :( t
+2015-04-19 02:05:22 [INFO] <Javeria> bna rhi hu
+2015-04-19 02:05:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:05:50 [INFO] <usman> ata gunda ha ma ne :)
+2015-04-19 02:05:57 [INFO] <Javeria> :)
+2015-04-19 02:06:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:06:11 [INFO] <usman> ubder banch me dakh lo
+2015-04-19 02:06:18 [INFO] <Javeria> game restart hogi
+2015-04-19 02:06:22 [INFO] <Javeria> hang h rhi  ha bht
+2015-04-19 02:06:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:06:27 [INFO] <usman> karta hun
+2015-04-19 02:06:31 [INFO] <Javeria> k
+2015-04-19 02:06:37 [INFO] usman lost connection: disconnect.quitting
+2015-04-19 02:06:37 [INFO] usman left the game
+2015-04-19 02:06:51 [INFO] Stopping server
+2015-04-19 02:06:51 [INFO] Saving players
+2015-04-19 02:06:51 [INFO] Closing listening thread
+2015-04-19 02:06:51 [INFO] Javeria left the game
+2015-04-19 02:06:51 [INFO] Saving worlds
+2015-04-19 02:06:51 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-19 02:06:51 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-19 02:06:51 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-19 02:06:51 [INFO] Stopping server
+2015-04-19 02:06:51 [INFO] Saving players
+2015-04-19 02:06:51 [INFO] Saving worlds
+2015-04-19 02:07:37 [INFO] Starting minecraft server version 1.6.4
+2015-04-19 02:08:58 [INFO] Loading properties
+2015-04-19 02:08:58 [INFO] Default game type: SURVIVAL
+2015-04-19 02:08:58 [INFO] Generating keypair
+2015-04-19 02:09:01 [INFO] Starting Minecraft server on *:25565
+2015-04-19 02:09:05 [SEVERE] Reached end of stream for /39.42.45.121
+2015-04-19 02:09:14 [SEVERE] Reached end of stream for /39.42.45.121
+2015-04-19 02:09:14 [SEVERE] Reached end of stream for /39.42.45.121
+2015-04-19 02:09:16 [SEVERE] Reached end of stream for /39.42.45.121
+2015-04-19 02:09:26 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 02:09:42 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-19 02:09:42 [SEVERE] Reached end of stream for /39.42.45.121
+2015-04-19 02:09:44 [SEVERE] Reached end of stream for /39.42.45.121
+2015-04-19 02:09:44 [SEVERE] Reached end of stream for /39.42.45.121
+2015-04-19 02:09:46 [INFO] Preparing start region for level 0
+2015-04-19 02:09:48 [INFO] Preparing spawn area: 59%
+2015-04-19 02:09:49 [INFO] Done (6.689s)! For help, type "help" or "?"
+2015-04-19 02:09:50 [INFO] /39.42.45.121:49546 lost connection
+2015-04-19 02:09:50 [INFO] /39.42.45.121:49550 lost connection
+2015-04-19 02:09:50 [INFO] /39.42.45.121:49552 lost connection
+2015-04-19 02:09:50 [INFO] /39.42.45.121:49555 lost connection
+2015-04-19 02:09:50 [INFO] /127.0.0.1:55175 lost connection
+2015-04-19 02:09:50 [INFO] /39.42.45.121:49557 lost connection
+2015-04-19 02:09:50 [INFO] /39.42.45.121:49558 lost connection
+2015-04-19 02:09:50 [INFO] /39.42.45.121:49561 lost connection
+2015-04-19 02:09:53 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 02:09:54 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 02:09:56 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 02:09:57 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 02:09:58 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 02:09:58 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 02:09:58 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 02:09:58 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-19 02:10:00 [SEVERE] Reached end of stream for /39.42.45.121
+2015-04-19 02:10:21 [INFO] Javeria[/39.42.45.121:49565] logged in with entity id 12 at (-150.69999998807907, 73.0, -211.40252950341)
+2015-04-19 02:10:21 [INFO] Javeria joined the game
+2015-04-19 02:10:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:10:37 [INFO] usman[/127.0.0.1:55194] logged in with entity id 9831 at (-144.18874163849728, 73.0, -226.89616907441962)
+2015-04-19 02:10:37 [INFO] usman joined the game
+2015-04-19 02:10:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:10:45 [INFO] <usman> sai hua
+2015-04-19 02:10:50 [INFO] <usman> ao dakh lo
+2015-04-19 02:11:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:11:15 [INFO] <usman> sai hua lag ?
+2015-04-19 02:11:23 [INFO] <Javeria> g
+2015-04-19 02:11:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:11:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:12:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:12:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:12:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:13:18 [INFO] <usman> ye lo
+2015-04-19 02:13:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:13:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:13:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:14:06 [INFO] <usman> alternate kar k kahan
+2015-04-19 02:14:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:14:19 [INFO] <usman> ak type ka food khai jao to asar ni karta pher
+2015-04-19 02:14:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:14:33 [INFO] <usman> ye lo juice
+2015-04-19 02:15:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:15:03 [INFO] <usman> pani b full khana b full
+2015-04-19 02:15:08 [INFO] <usman> bed b ready
+2015-04-19 02:15:10 [INFO] <Javeria> g
+2015-04-19 02:15:16 [INFO] <usman> ab maza start ho ga sai :)
+2015-04-19 02:15:16 [INFO] <Javeria> :)
+2015-04-19 02:15:43 [INFO] <usman> jo kar rhi wo he karo atleast 8 pani ke botels harwakat hon humary pass
+2015-04-19 02:15:54 [INFO] <Javeria> k
+2015-04-19 02:15:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:16:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:16:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:17:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:17:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:18:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:18:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:18:31 [INFO] <Javeria> tbed
+2015-04-19 02:18:41 [INFO] <usman> late:(
+2015-04-19 02:18:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:18:53 [INFO] <Javeria> m aa ga thi
+2015-04-19 02:18:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:18:59 [INFO] <Javeria> ma aa gai thi
+2015-04-19 02:19:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:19:13 [INFO] <usman> pata ha kya
+2015-04-19 02:19:19 [INFO] <usman> rat ka wait ni karna
+2015-04-19 02:19:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:19:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:19:56 [INFO] <usman> ye khirki dakh rhi ho
+2015-04-19 02:20:08 [INFO] <Javeria> g
+2015-04-19 02:20:12 [INFO] <usman> jab suraj sand ko touch kary to sony ka time ha
+2015-04-19 02:20:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:20:21 [INFO] <usman> yahan se nazar ay ga
+2015-04-19 02:20:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:20:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:21:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:21:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:21:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:22:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:22:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:23:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:23:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:23:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:23:35 [INFO] <Javeria> oay ale
+2015-04-19 02:23:47 [INFO] <usman> kya hua
+2015-04-19 02:23:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:24:11 [INFO] <Javeria> daralaht or lganay chaoae
+2015-04-19 02:24:17 [INFO] <Javeria> bone meal ki zrurat kum pray
+2015-04-19 02:24:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:24:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:24:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:24:58 [INFO] <usman> wood do
+2015-04-19 02:25:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:25:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:25:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:25:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:26:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:26:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:26:47 [INFO] <usman> bone meal na use karo
+2015-04-19 02:26:53 [INFO] <usman> zyada darakh lagao
+2015-04-19 02:27:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:27:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:27:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:28:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:28:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:29:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:29:19 [INFO] usman was blown up by Creeper
+2015-04-19 02:29:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:29:34 [INFO] <usman> ye kahan se aya?
+2015-04-19 02:29:37 [INFO] <Javeria> creeper kasau aya
+2015-04-19 02:29:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:30:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:30:25 [INFO] <Javeria> so
+2015-04-19 02:30:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:30:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:30:52 [INFO] <Javeria> late huay aj aap
+2015-04-19 02:31:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:31:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:32:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:32:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:32:34 [INFO] <Javeria> ,ja leavesd chaiay
+2015-04-19 02:32:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:33:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:33:12 [INFO] <Javeria> hello hopper k upar rakh den gay to line may lag jaega?
+2015-04-19 02:33:16 [INFO] <usman> usi per kam kar rha hun
+2015-04-19 02:33:17 [INFO] <Javeria> ya ek ek ker k rakhna prega?
+2015-04-19 02:33:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:33:43 [INFO] <usman> ni na hoper me rakho na
+2015-04-19 02:33:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:33:56 [INFO] <Javeria> haww ma na y itni mehnat ki :(
+2015-04-19 02:33:56 [INFO] <usman> us per click karo or ho gya
+2015-04-19 02:34:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:34:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:34:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:35:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:35:29 [INFO] <usman> nicy cest me dakho khudi sive ho rha ha
+2015-04-19 02:35:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:35:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:35:53 [INFO] <Javeria> kiya?
+2015-04-19 02:35:53 [INFO] <usman> ider
+2015-04-19 02:36:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:36:26 [INFO] <Javeria> wahhhh
+2015-04-19 02:36:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:37:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:37:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:37:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:37:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:38:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:38:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:38:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:39:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:39:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:40:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:40:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:41:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:41:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:41:46 [INFO] <usman> bed
+2015-04-19 02:41:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:42:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:42:22 [INFO] <Javeria> uth nhi arha
+2015-04-19 02:42:25 [INFO] <usman> utho
+2015-04-19 02:42:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:42:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:42:59 [INFO] <usman> ajeeb he hua ha
+2015-04-19 02:43:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:43:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:43:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:44:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:44:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:44:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:45:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:45:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:45:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:46:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:46:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:46:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:47:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:47:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:47:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:48:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:48:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:48:42 [INFO] <usman> khaan ha ?
+2015-04-19 02:48:50 [INFO] <Javeria> mhi
+2015-04-19 02:49:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:49:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:49:54 [INFO] <Javeria> kainchi khtm
+2015-04-19 02:50:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:50:05 [INFO] <Javeria> kjud bna rhi hun
+2015-04-19 02:50:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:50:28 [INFO] <usman> ok
+2015-04-19 02:50:39 [INFO] <Javeria> jan khana ka kya kren?
+2015-04-19 02:50:52 [INFO] <Javeria> bread 0r toast bnao ma b?
+2015-04-19 02:50:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:51:11 [INFO] <usman> han g bna k dakho ata ha bnana ?
+2015-04-19 02:51:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:51:27 [INFO] <Javeria> g recipe dekh lunfi
+2015-04-19 02:51:32 [INFO] <Javeria> chizen kahan ha?
+2015-04-19 02:51:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:51:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:52:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:52:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:52:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:53:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:53:38 [INFO] <usman> bed
+2015-04-19 02:53:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:54:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:54:33 [INFO] <Javeria> haey ap darwaaza khol k sonya aa age
+2015-04-19 02:54:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:55:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:55:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:55:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:56:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:56:28 [INFO] <usman> ander room me ha food wala saman
+2015-04-19 02:56:40 [INFO] <usman> cheat
+2015-04-19 02:56:42 [INFO] <Javeria> hawww
+2015-04-19 02:56:44 [INFO] <Javeria> nhi
+2015-04-19 02:56:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:56:52 [INFO] <Javeria> ma to recipe ley rhi thi
+2015-04-19 02:56:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:57:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:57:34 [INFO] <Javeria> mja book lagi ha
+2015-04-19 02:57:57 [INFO] <usman> e dabao
+2015-04-19 02:58:06 [INFO] <usman> pher nichy corner per options
+2015-04-19 02:58:12 [INFO] <usman> pher inventory
+2015-04-19 02:58:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:58:31 [INFO] <usman> pher uper globle likha ho ga
+2015-04-19 02:58:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:58:45 [INFO] <usman> pher nichy second button ho ga cheat
+2015-04-19 02:58:47 [INFO] <Javeria> tk
+2015-04-19 02:58:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:58:59 [INFO] <Javeria> or jo juice aya ha uska kya krun?
+2015-04-19 02:58:59 [INFO] <usman> pher usy recipi kar do
+2015-04-19 02:59:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 02:59:22 [INFO] <usman> jasy aya ha wasy phank do
+2015-04-19 02:59:35 [INFO] <Javeria> global nhi mila cheat mode ko recipe mode ker diya ha
+2015-04-19 02:59:54 [INFO] <Javeria> cheat mode may ja k?
+2015-04-19 03:00:07 [INFO] <usman> top right
+2015-04-19 03:00:10 [INFO] <Javeria> tk
+2015-04-19 03:00:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 03:00:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 03:01:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 03:01:43 [INFO] <Javeria> khud phenken mra say nhi ja rha
+2015-04-19 03:01:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 03:01:55 [INFO] <usman> theek ha a jao under :)
+2015-04-19 03:02:04 [INFO] <Javeria> or lavay ko cober keren ma gir skti hun
+2015-04-19 03:02:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 03:02:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 03:03:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 03:03:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 03:03:39 [INFO] <Javeria> hana is chest may
+2015-04-19 03:03:52 [INFO] <usman> ni ider rakho
+2015-04-19 03:04:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-19 03:04:20 [INFO] <Javeria> :)
+2015-04-19 03:04:21 [INFO] <Javeria> ok
+2015-04-19 03:04:32 [INFO] <Javeria> mama jaag gai
+2015-04-19 03:04:42 [INFO] <usman> bed
+2015-04-19 03:04:56 [INFO] <usman> bed
+2015-04-19 03:04:59 [INFO] <usman> bed
+2015-04-19 03:10:55 [INFO] <Javeria> mama dant rhi han
+2015-04-19 03:10:58 [INFO] <Javeria> ma band kr rhi hun
+2015-04-19 03:11:07 [INFO] <usman> :(
+2015-04-19 03:11:17 [INFO] <Javeria> bye jan
+2015-04-19 03:11:24 [INFO] <usman> niiiii
+2015-04-19 03:11:37 [INFO] <Javeria> kuch chaiy
+2015-04-19 03:11:43 [INFO] <usman> abi to dakho coble laga ha:)
+2015-04-19 03:11:55 [INFO] <usman> ye dakho
+2015-04-19 03:12:04 [INFO] <usman> uder ni jana
+2015-04-19 03:12:26 [INFO] <usman> is per left click karo ak stack mily ga:)
+2015-04-19 03:12:46 [INFO] <Javeria> wwahhhhhh
+2015-04-19 03:12:50 [INFO] <usman> or right click karo to under jay ga
+2015-04-19 03:12:51 [INFO] <Javeria> jadu
+2015-04-19 03:13:02 [INFO] <usman> us k uper likha ha k is me kinta para ha
+2015-04-19 03:13:24 [INFO] <Javeria> jan ap nay generator bnana tha?
+2015-04-19 03:13:30 [INFO] <Javeria> woh yhi ha?
+2015-04-19 03:13:44 [INFO] <usman> ni ni wo or ha
+2015-04-19 03:13:59 [INFO] <Javeria> uffff itna cobble stone :P
+2015-04-19 03:14:02 [INFO] <Javeria> hazam nhi ho rha
+2015-04-19 03:14:05 [INFO] <Javeria> :P
+2015-04-19 03:14:08 [INFO] <usman> hehe
+2015-04-19 03:14:20 [INFO] <usman> abi to dakhna itna kuch ho jay ga k kya batao :)
+2015-04-19 03:14:33 [INFO] <usman> chest dakhi
+2015-04-19 03:14:39 [INFO] <Javeria> mja [ani bnana aa gya ha :P
+2015-04-19 03:15:12 [INFO] <usman> wood do
+2015-04-19 03:15:35 [INFO] <Javeria> bef
+2015-04-19 03:16:29 [INFO] Javeria lost connection: disconnect.genericReason
+2015-04-19 03:16:29 [INFO] Javeria left the game
+2015-04-19 03:19:04 [INFO] usman lost connection: disconnect.quitting
+2015-04-19 03:19:04 [INFO] usman left the game
+2015-04-19 03:19:10 [INFO] Stopping server
+2015-04-19 03:19:10 [INFO] Saving players
+2015-04-19 03:19:10 [INFO] Saving worlds
+2015-04-19 03:19:10 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-19 03:19:10 [INFO] Closing listening thread
+2015-04-19 03:19:10 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-19 03:19:10 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-19 03:19:10 [INFO] Stopping server
+2015-04-19 03:19:10 [INFO] Saving players
+2015-04-19 03:19:10 [INFO] Saving worlds
+2015-04-25 16:07:27 [INFO] Starting minecraft server version 1.6.4
+2015-04-25 16:07:49 [INFO] Loading properties
+2015-04-25 16:07:49 [INFO] Default game type: SURVIVAL
+2015-04-25 16:07:49 [INFO] Generating keypair
+2015-04-25 16:07:49 [INFO] Starting Minecraft server on *:25565
+2015-04-25 16:08:00 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-25 16:08:02 [INFO] Preparing start region for level 0
+2015-04-25 16:08:02 [INFO] Done (2.551s)! For help, type "help" or "?"
+2015-04-25 16:08:40 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-25 16:08:44 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-25 16:08:45 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-25 16:08:46 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-25 16:08:46 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-25 16:09:13 [INFO] usman[/127.0.0.1:53464] logged in with entity id 23 at (-143.31075501571246, 73.0, -226.4968286897782)
+2015-04-25 16:09:13 [INFO] usman joined the game
+2015-04-25 16:13:35 [SEVERE] Reached end of stream for /39.42.232.35
+2015-04-25 16:13:45 [INFO] Javeria[/39.42.232.35:49319] logged in with entity id 176058 at (-143.38870232927653, 73.0, -217.330093868199)
+2015-04-25 16:13:45 [INFO] Javeria joined the game
+2015-04-25 16:15:03 [INFO] <Javeria> hello ab kya kam krnay han?
+2015-04-25 16:15:21 [INFO] <usman> podon ko pani do
+2015-04-25 16:15:37 [INFO] <Javeria> kitna dena ah?
+2015-04-25 16:15:49 [INFO] <usman> bary hon ge to tor k per new
+2015-04-25 16:16:01 [INFO] <usman> bed
+2015-04-25 16:16:09 [INFO] <usman> uper
+2015-04-25 16:16:29 [INFO] <Javeria> tbtaya ku nhi
+2015-04-25 16:16:35 [INFO] <usman> btaya ha na :)
+2015-04-25 16:17:03 [INFO] <Javeria> poani detay rehna ha?
+2015-04-25 16:17:18 [INFO] <usman> ni is se speed se barty han
+2015-04-25 16:17:25 [INFO] <usman> or ap wo he karo jo kar rhi the
+2015-04-25 16:17:33 [INFO] <usman> pani jama karo
+2015-04-25 16:19:42 [INFO] <Javeria> ma karungi
+2015-04-25 16:19:45 [INFO] <Javeria> yeh mra kam ha
+2015-04-25 16:19:53 [INFO] <usman> mujy wood chaiy thee
+2015-04-25 16:19:57 [INFO] <Javeria> ohhh
+2015-04-25 16:20:15 [INFO] <usman> ap ka kam automate ker rha hun
+2015-04-25 16:20:28 [INFO] <Javeria> pani wala?
+2015-04-25 16:20:33 [INFO] <usman> g
+2015-04-25 16:20:35 [INFO] <Javeria> mja b sikhao na
+2015-04-25 16:20:41 [INFO] <Javeria> ma akeli khail hi nhi skti :(
+2015-04-25 16:20:49 [INFO] <usman> bus ap ko paty jama karny hon ge
+2015-04-25 16:22:19 [INFO] Javeria lost connection: disconnect.quitting
+2015-04-25 16:22:19 [INFO] Javeria left the game
+2015-04-25 16:22:43 [SEVERE] Reached end of stream for /39.42.232.35
+2015-04-25 16:22:50 [INFO] Javeria[/39.42.232.35:49329] logged in with entity id 523708 at (-143.9998414913313, 73.0, -210.1041042922649)
+2015-04-25 16:22:50 [INFO] Javeria joined the game
+2015-04-25 16:23:03 [INFO] <Javeria> hello game lag ho rhi ha
+2015-04-25 16:23:24 [INFO] <usman> restart karun
+2015-04-25 16:24:16 [INFO] <Javeria> ab saai ho rha ha
+2015-04-25 16:25:23 [INFO] <Javeria> e
+2015-04-25 16:26:04 [INFO] <Javeria> :( phir cheat mode on ha
+2015-04-25 16:27:14 [INFO] <usman> bed
+2015-04-25 16:27:28 [INFO] <usman> hello
+2015-04-25 16:27:36 [INFO] Javeria lost connection: disconnect.genericReason
+2015-04-25 16:27:36 [INFO] Javeria left the game
+2015-04-25 16:28:59 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-25 16:29:12 [INFO] Javeria[/39.42.123.85:49347] logged in with entity id 778859 at (-145.76301128928492, 73.0, -221.30000001192093)
+2015-04-25 16:29:12 [INFO] Javeria joined the game
+2015-04-25 16:30:07 [INFO] <Javeria> hello iron kasay milega?
+2015-04-25 16:30:13 [INFO] <Javeria> pighlaon ?
+2015-04-25 16:30:15 [INFO] <usman> cest me ha na
+2015-04-25 16:33:29 [INFO] <usman> wood kahan rakh rhi ho
+2015-04-25 16:33:40 [INFO] <Javeria> t
+2015-04-25 16:33:48 [INFO] <usman> pani kyun ni bana rhi
+2015-04-25 16:34:00 [INFO] <Javeria> woh to automati nhi ho gya ab?
+2015-04-25 16:34:08 [INFO] <usman> ni hua ni kar rha hun
+2015-04-25 16:34:43 [INFO] <usman> wood do na plz
+2015-04-25 16:34:54 [INFO] <usman> ye cehst ha wood ke
+2015-04-25 16:34:58 [INFO] <Javeria> is may rakh di ha
+2015-04-25 16:35:01 [INFO] <Javeria> k
+2015-04-25 16:36:27 [INFO] <usman> sirf leaves rakhny han
+2015-04-25 16:36:54 [INFO] <usman> miti ab khud bany ge
+2015-04-25 16:37:25 [INFO] <Javeria> mati kahan jaegi ban K?
+2015-04-25 16:37:35 [INFO] <usman> nichy wali chest me
+2015-04-25 16:37:53 [INFO] <Javeria> yeh btton sa kya ha?
+2015-04-25 16:38:12 [INFO] <usman> light ha
+2015-04-25 16:39:03 [INFO] <Javeria> hello kya huwa?
+2015-04-25 16:39:10 [INFO] <usman> spider mara
+2015-04-25 16:43:39 [INFO] <Javeria> ma khanay ki recipes dekhti hun
+2015-04-25 16:43:50 [INFO] <usman> cheat of hui?
+2015-04-25 16:43:54 [INFO] <Javeria> g
+2015-04-25 16:44:01 [INFO] <Javeria> ma nay kuch use nhi kiya cheat ka
+2015-04-25 16:44:50 [INFO] usman lost connection: disconnect.quitting
+2015-04-25 16:44:50 [INFO] usman left the game
+2015-04-25 16:46:47 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-25 16:46:51 [INFO] usman[/127.0.0.1:53518] logged in with entity id 1478696 at (-143.50910945768814, 73.0, -225.1430549161026)
+2015-04-25 16:46:51 [INFO] usman joined the game
+2015-04-25 16:46:55 [INFO] <usman> sai ha
+2015-04-25 16:49:00 [INFO] <usman> bed
+2015-04-25 16:49:08 [INFO] <usman> bed
+2015-04-25 16:49:09 [INFO] <usman> bed
+2015-04-25 16:49:10 [INFO] <usman> bed
+2015-04-25 16:49:26 [INFO] <Javeria> g sai ha mom aa b gai :(
+2015-04-25 16:52:58 [INFO] <Javeria> hawww
+2015-04-25 16:55:46 [INFO] <Javeria> mja ek chiz mili :)
+2015-04-25 16:55:54 [INFO] <usman> kya >
+2015-04-25 16:55:59 [INFO] <Javeria> tomato seed
+2015-04-25 16:58:00 [INFO] <Javeria> chear chalo gai
+2015-04-25 16:58:03 [INFO] <Javeria> mja hoe bnai ha
+2015-04-25 16:58:18 [INFO] <usman> hoe na bana
+2015-04-25 16:58:23 [INFO] <usman> tumhary pass ha already
+2015-04-25 16:58:37 [INFO] <Javeria> yh mati gili kasay hogi?
+2015-04-25 16:58:39 [INFO] <usman> mattock jo ha wo how b ha
+2015-04-25 16:58:59 [INFO] <usman> jus se larki karti ho wo how b ha
+2015-04-25 16:59:48 [INFO] <usman> bed
+2015-04-25 16:59:59 [INFO] <usman> bed
+2015-04-25 17:00:00 [INFO] <usman> bed
+2015-04-25 17:00:01 [INFO] <usman> bed
+2015-04-25 17:00:02 [INFO] <usman> bed
+2015-04-25 17:00:03 [INFO] <usman> bed
+2015-04-25 17:00:04 [INFO] <usman> bed
+2015-04-25 17:00:04 [INFO] <usman> bed
+2015-04-25 17:00:05 [INFO] <usman> be
+2015-04-25 17:00:06 [INFO] <usman> dbe
+2015-04-25 17:01:07 [INFO] <Javeria> grass seeds kya krtay han?
+2015-04-25 17:01:12 [INFO] <Javeria> nd birch seed?
+2015-04-25 17:03:40 [INFO] <Javeria> mja kkuch nhi battatay ap :(
+2015-04-25 17:04:09 [INFO] <usman> quest karo
+2015-04-25 17:04:17 [INFO] <usman> rice wali
+2015-04-25 17:06:43 [INFO] <usman> generator dekha
+2015-04-25 17:06:49 [INFO] <Javeria> nhi
+2015-04-25 17:07:29 [INFO] <Javeria> yeh kya krega?
+2015-04-25 17:07:40 [INFO] <usman> humary cell chrge kary ha
+2015-04-25 17:10:01 [INFO] <Javeria> papa nay chips khan i ha :(
+2015-04-25 17:10:15 [INFO] <Javeria> chips bna k ati hun :(
+2015-04-25 17:10:24 [INFO] <usman> ma ne b khani ha
+2015-04-25 17:10:34 [INFO] <Javeria> game khelo aram say
+2015-04-25 17:10:35 [INFO] <Javeria> :P
+2015-04-25 17:11:03 [INFO] <usman> bed
+2015-04-25 17:11:28 [INFO] <Javeria> ma ati hn chips bna k is say pehlay mom ki galian par jaen
+2015-04-25 17:11:30 [INFO] Javeria lost connection: disconnect.quitting
+2015-04-25 17:11:30 [INFO] Javeria left the game
+2015-04-25 17:11:38 [INFO] <usman> ok
+2015-04-25 17:13:11 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-25 17:13:17 [INFO] Javeria[/39.42.123.85:49356] logged in with entity id 2527764 at (-148.5, 73.0, -221.5)
+2015-04-25 17:13:17 [INFO] Javeria joined the game
+2015-04-25 17:13:25 [INFO] <Javeria> mama any bna di
+2015-04-25 17:13:29 [INFO] <Javeria> yayyy yayyyy yayyy
+2015-04-25 17:13:43 [INFO] <usman> hum ne sandwitch bnany han
+2015-04-25 17:13:49 [INFO] <usman> khany k liy sub se best han
+2015-04-25 17:13:54 [INFO] <usman> or bohat types b han
+2015-04-25 17:14:06 [INFO] <usman> us k liy shuger can or penuts chaiy
+2015-04-25 17:14:07 [INFO] <Javeria> kya>
+2015-04-25 17:14:13 [INFO] <Javeria> woh kasay milegi?
+2015-04-25 17:15:42 [INFO] <usman> dakho na wo
+2015-04-25 17:15:53 [INFO] <Javeria> uej kya ha?
+2015-04-25 17:16:30 [INFO] <Javeria> food stock khatay han?
+2015-04-25 17:16:37 [INFO] <Javeria> yeh light kya ha?
+2015-04-25 17:16:52 [INFO] <usman> yakhni ha na :)
+2015-04-25 17:17:01 [INFO] <Javeria> pi lun?
+2015-04-25 17:17:13 [INFO] <usman> ni
+2015-04-25 17:17:23 [INFO] <Javeria> abhi pinay lgi thi :P
+2015-04-25 17:17:26 [INFO] <usman> soup pio
+2015-04-25 17:17:53 [INFO] <usman> kasa ha :)
+2015-04-25 17:18:02 [INFO] <Javeria> ahhhhh
+2015-04-25 17:18:04 [INFO] <Javeria> spider eye
+2015-04-25 17:18:07 [INFO] <Javeria> :(
+2015-04-25 17:18:10 [INFO] <Javeria> ma nay pi liya
+2015-04-25 17:18:11 [INFO] <usman> quest ke ha wo dakho
+2015-04-25 17:18:14 [INFO] <usman> hehe:)
+2015-04-25 17:18:27 [INFO] <usman> or skeltons ke hadion ka stock tha :)
+2015-04-25 17:19:44 [INFO] <usman> ak or quest ho gai ha
+2015-04-25 17:19:51 [INFO] <usman> skype on kar lo
+2015-04-25 17:20:03 [INFO] <Javeria> k
+2015-04-25 17:20:12 [INFO] <Javeria> rice wLI Quest ker li ha na?
+2015-04-25 17:20:21 [INFO] <usman> han
+2015-04-25 17:20:29 [INFO] <Javeria> woh ma nay kerni thi
+2015-04-25 17:20:31 [INFO] <Javeria> :(
+2015-04-25 17:20:38 [INFO] <usman> ap ni kar rhi the
+2015-04-25 17:20:45 [INFO] <Javeria> ma nay is game may pani bannay k elawa kuch nhi kiya
+2015-04-25 17:20:50 [INFO] <Javeria> ma uga to rhi thi
+2015-04-25 17:20:55 [INFO] <Javeria> 4 rehtay thay bus
+2015-04-25 17:22:48 [INFO] <usman> ooooooo
+2015-04-25 17:22:52 [INFO] <usman> ye kya kia :(
+2015-04-25 17:22:58 [INFO] <usman> haaaaaaa
+2015-04-25 17:23:08 [INFO] <usman> ye oreng ka tree tha :*
+2015-04-25 17:23:12 [INFO] <usman> tora kyun ha :*
+2015-04-25 17:23:18 [INFO] <Javeria> kma orange h tor rhi thi
+2015-04-25 17:23:20 [INFO] <usman> ab oranges kahan se ay ge :(
+2015-04-25 17:23:22 [INFO] <Javeria> :(
+2015-04-25 17:23:24 [INFO] <usman> ufff
+2015-04-25 17:23:37 [INFO] <usman> wo to abi ugny the pher tortny the
+2015-04-25 17:23:41 [INFO] <Javeria> abhi ha to sai dubara ug jaen gay
+2015-04-25 17:24:13 [INFO] <usman> ak bacha ha
+2015-04-25 17:24:37 [INFO] <Javeria> yeh kya kr rhay han ab?
+2015-04-25 17:24:50 [INFO] <usman> zaya kar dia ha ap ne
+2015-04-25 17:25:43 [INFO] <usman> skype on kia
+2015-04-25 17:25:50 [INFO] <Javeria> nhi
+2015-04-25 17:26:13 [INFO] <Javeria> papa pas han
+2015-04-25 17:26:27 [INFO] <usman> handfree lagao na
+2015-04-25 17:32:20 [INFO] <Javeria> ek tree k bad dusra nahi lgta?
+2015-04-25 17:32:33 [INFO] <usman> kon sa
+2015-04-25 17:32:57 [INFO] <Javeria> apple trr k saplings nhihotay?
+2015-04-25 17:33:05 [INFO] <usman> han an
+2015-04-25 18:17:53 [INFO] Javeria lost connection: disconnect.genericReason
+2015-04-25 18:17:53 [INFO] Javeria left the game
+2015-04-25 18:20:10 [INFO] usman lost connection: disconnect.quitting
+2015-04-25 18:20:10 [INFO] usman left the game
+2015-04-25 18:21:05 [INFO] Stopping server
+2015-04-26 00:17:49 [INFO] Starting minecraft server version 1.6.4
+2015-04-26 00:18:06 [INFO] Loading properties
+2015-04-26 00:18:06 [INFO] Default game type: SURVIVAL
+2015-04-26 00:18:06 [INFO] Generating keypair
+2015-04-26 00:18:07 [INFO] Starting Minecraft server on *:25565
+2015-04-26 00:18:10 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:18:10 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:18:12 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:18:13 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:18:15 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-26 00:18:17 [INFO] Preparing start region for level 0
+2015-04-26 00:18:18 [INFO] Done (2.454s)! For help, type "help" or "?"
+2015-04-26 00:18:18 [INFO] /39.42.123.85:49561 lost connection
+2015-04-26 00:18:18 [INFO] /39.42.123.85:49562 lost connection
+2015-04-26 00:18:18 [INFO] /39.42.123.85:49566 lost connection
+2015-04-26 00:18:18 [INFO] /39.42.123.85:49568 lost connection
+2015-04-26 00:20:34 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-26 00:20:37 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-26 00:21:00 [INFO] usman[/127.0.0.1:54054] logged in with entity id 63 at (-143.61483267561408, 73.0, -224.29587133550703)
+2015-04-26 00:21:00 [INFO] usman joined the game
+2015-04-26 00:21:36 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:21:43 [INFO] Javeria[/39.42.123.85:49648] logged in with entity id 28432 at (-139.10473066969908, 73.0, -202.73707396805227)
+2015-04-26 00:21:43 [INFO] Javeria joined the game
+2015-04-26 00:23:54 [INFO] <Javeria> kya pi rhay han
+2015-04-26 00:24:02 [INFO] <Javeria> ma b kahwa
+2015-04-26 00:26:43 [INFO] Javeria lost connection: disconnect.quitting
+2015-04-26 00:26:43 [INFO] Javeria left the game
+2015-04-26 00:36:43 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:36:51 [INFO] Javeria[/39.42.123.85:49661] logged in with entity id 620988 at (-125.48842316474929, 73.0, -190.0318911109813)
+2015-04-26 00:36:51 [INFO] Javeria joined the game
+2015-04-26 00:37:29 [INFO] <Javeria> kasay
+2015-04-26 00:42:42 [INFO] <Javeria> yep
+2015-04-26 00:43:04 [INFO] <Javeria> mri cheat nhi khul rhi
+2015-04-26 00:43:15 [INFO] <Javeria> recoipe
+2015-04-26 00:48:24 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:48:24 [INFO] Javeria lost connection: disconnect.endOfStream
+2015-04-26 00:48:24 [INFO] Javeria left the game
+2015-04-26 00:48:40 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:48:47 [INFO] Javeria[/39.42.123.85:49666] logged in with entity id 1029829 at (-144.69999998807907, 73.0, -226.85827691243605)
+2015-04-26 00:48:47 [INFO] Javeria joined the game
+2015-04-26 00:52:49 [INFO] <Javeria> kafi kuch tha :( ab bhul gya ha
+2015-04-26 00:53:38 [INFO] <Javeria> mri game lag kr rh ah
+2015-04-26 00:53:45 [INFO] <Javeria> yes
+2015-04-26 00:54:30 [INFO] <Javeria> restart
+2015-04-26 00:54:33 [INFO] <Javeria> no
+2015-04-26 00:55:05 [INFO] Javeria lost connection: disconnect.quitting
+2015-04-26 00:55:05 [INFO] Javeria left the game
+2015-04-26 00:55:13 [INFO] usman lost connection: disconnect.quitting
+2015-04-26 00:55:13 [INFO] usman left the game
+2015-04-26 00:55:22 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:55:23 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:55:23 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:55:23 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:55:24 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:55:37 [INFO] Stopping server
+2015-04-26 00:55:37 [INFO] Saving players
+2015-04-26 00:55:37 [INFO] Saving worlds
+2015-04-26 00:55:37 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-26 00:55:37 [INFO] Closing listening thread
+2015-04-26 00:55:37 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-26 00:55:37 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-26 00:55:37 [INFO] Stopping server
+2015-04-26 00:55:37 [INFO] Saving players
+2015-04-26 00:55:56 [INFO] Starting minecraft server version 1.6.4
+2015-04-26 00:56:11 [INFO] Loading properties
+2015-04-26 00:56:11 [INFO] Default game type: SURVIVAL
+2015-04-26 00:56:11 [INFO] Generating keypair
+2015-04-26 00:56:12 [INFO] Starting Minecraft server on *:25565
+2015-04-26 00:56:16 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:56:17 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-26 00:56:17 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:56:17 [INFO] Preparing start region for level 0
+2015-04-26 00:56:17 [INFO] Done (0.454s)! For help, type "help" or "?"
+2015-04-26 00:56:17 [INFO] Stopping server
+2015-04-26 00:56:17 [INFO] Saving players
+2015-04-26 00:56:17 [INFO] Saving worlds
+2015-04-26 00:56:17 [INFO] Closing listening thread
+2015-04-26 00:56:17 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-26 00:56:17 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-26 00:56:17 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-26 00:56:17 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Underdark
+2015-04-26 00:56:17 [INFO] Stopping server
+2015-04-26 00:57:06 [INFO] Starting minecraft server version 1.6.4
+2015-04-26 00:57:25 [INFO] Loading properties
+2015-04-26 00:57:25 [INFO] Default game type: SURVIVAL
+2015-04-26 00:57:25 [INFO] Generating keypair
+2015-04-26 00:57:25 [INFO] Starting Minecraft server on *:25565
+2015-04-26 00:57:29 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:57:29 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:57:32 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:57:32 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:57:35 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-04-26 00:57:36 [INFO] Preparing start region for level 0
+2015-04-26 00:57:37 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:57:37 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:57:37 [INFO] Preparing spawn area: 69%
+2015-04-26 00:57:37 [INFO] Done (2.080s)! For help, type "help" or "?"
+2015-04-26 00:57:38 [INFO] /39.42.123.85:49725 lost connection
+2015-04-26 00:57:38 [INFO] /39.42.123.85:49727 lost connection
+2015-04-26 00:57:38 [INFO] /39.42.123.85:49728 lost connection
+2015-04-26 00:57:38 [INFO] /39.42.123.85:49731 lost connection
+2015-04-26 00:57:38 [INFO] /39.42.123.85:49733 lost connection
+2015-04-26 00:57:38 [INFO] /39.42.123.85:49735 lost connection
+2015-04-26 00:57:39 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:57:40 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:57:40 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:57:40 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:57:42 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 00:57:43 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-26 00:57:45 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-26 00:57:49 [INFO] Javeria[/39.42.123.85:49746] logged in with entity id 78 at (-133.675558278628, 73.0, -196.68457969664962)
+2015-04-26 00:57:49 [INFO] Javeria joined the game
+2015-04-26 00:57:50 [INFO] usman[/127.0.0.1:54114] logged in with entity id 80 at (-150.2346260901091, 76.0, -187.82166538713832)
+2015-04-26 00:57:50 [INFO] usman joined the game
+2015-04-26 01:11:06 [INFO] <Javeria> yeh sanbhalo
+2015-04-26 01:11:32 [INFO] <Javeria> pathar
+2015-04-26 01:15:25 [INFO] Javeria lost connection: disconnect.quitting
+2015-04-26 01:15:25 [INFO] Javeria left the game
+2015-04-26 01:16:27 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 01:16:33 [INFO] Javeria[/39.42.123.85:49751] logged in with entity id 740181 at (-146.46837982503732, 73.0, -209.34308468723012)
+2015-04-26 01:16:33 [INFO] Javeria joined the game
+2015-04-26 01:16:59 [INFO] <Javeria> iron dust?
+2015-04-26 01:24:18 [INFO] <Javeria> ingnot kasay bnatay han?
+2015-04-26 01:26:11 [INFO] <Javeria> hello yeh ignot kko press kbhi isi may kerun?
+2015-04-26 01:51:30 [INFO] <Javeria> invar khud bna lo hello
+2015-04-26 01:54:29 [INFO] <Javeria> ghalti say
+2015-04-26 01:54:33 [INFO] <Javeria> hath lag gya tha ,a
+2015-04-26 01:54:46 [INFO] <Javeria> ma display brightness kum kr rhi thi
+2015-04-26 01:56:32 [INFO] <Javeria> mja awaz nhi ai
+2015-04-26 01:56:48 [INFO] <Javeria> handfree slip out ho jat i ha
+2015-04-26 01:56:53 [INFO] <Javeria> kan chota ha
+2015-04-26 01:57:07 [INFO] <Javeria> g
+2015-04-26 01:58:50 [INFO] <Javeria> anhi ma nay 14 bnaya ha
+2015-04-26 02:00:11 [INFO] <Javeria> ma nay chest may dali thi
+2015-04-26 02:05:43 [INFO] <Javeria> ferous kahan ha mri?
+2015-04-26 02:18:50 [INFO] <Javeria> hanso mat
+2015-04-26 02:18:51 [INFO] <Javeria> :P
+2015-04-26 02:18:55 [INFO] <Javeria> mja b hansi atiha phir
+2015-04-26 02:18:56 [INFO] <Javeria> :P
+2015-04-26 02:21:54 [INFO] <Javeria> ybed
+2015-04-26 02:27:35 [INFO] <Javeria> invar blend 6 ho gaey han
+2015-04-26 02:29:07 [INFO] <Javeria> quest complete kernay k liay usay hard krna prega'
+2015-04-26 02:32:48 [INFO] Javeria lost connection: disconnect.quitting
+2015-04-26 02:32:48 [INFO] Javeria left the game
+2015-04-26 02:39:22 [INFO] usman lost connection: disconnect.quitting
+2015-04-26 02:39:22 [INFO] usman left the game
+2015-04-26 02:40:21 [SEVERE] Reached end of stream for /127.0.0.1
+2015-04-26 02:40:25 [INFO] usman[/127.0.0.1:54192] logged in with entity id 3989715 at (-133.83981844382802, 73.0, -224.68843782195893)
+2015-04-26 02:40:25 [INFO] usman joined the game
+2015-04-26 02:41:37 [SEVERE] Reached end of stream for /39.42.123.85
+2015-04-26 02:41:45 [INFO] Javeria[/39.42.123.85:49828] logged in with entity id 4041472 at (-139.52144087965823, 73.0, -216.85108679034863)
+2015-04-26 02:41:45 [INFO] Javeria joined the game
+2015-04-26 02:42:05 [INFO] <Javeria> hello payay yad rakhna plzzz
+2015-04-26 02:42:13 [INFO] <Javeria> chulha band krna ha yad say
+2015-04-26 02:44:31 [INFO] <Javeria> ma ferous
+2015-04-26 02:44:34 [INFO] <Javeria> bna rhi hun
+2015-04-26 02:55:50 [INFO] <Javeria> mja ferous chaiaya jan
+2015-04-26 02:55:51 [INFO] <Javeria> :(
+2015-04-26 02:56:01 [INFO] <Javeria> kafi
+2015-04-26 02:56:06 [INFO] <Javeria> nhi or
+2015-04-26 02:58:24 [INFO] <Javeria> hello invar nuggests kasa milen gay?
+2015-04-26 02:58:34 [INFO] <Javeria> mja invar shear bhi bnna ha
+2015-04-26 03:06:19 [INFO] <Javeria> bed
+2015-04-26 03:06:27 [INFO] <Javeria> tquest complete yayyyyyyyyyy
+2015-04-26 03:06:39 [INFO] <Javeria> finaaly i did one
+2015-04-26 03:06:40 [INFO] <Javeria> "P
+2015-04-26 03:08:15 [INFO] <Javeria> waoooooooooo
+2015-04-26 03:09:28 [INFO] <Javeria> jo quest ap nay mra bghair ki thi mja unka reward nhi mila
+2015-04-26 03:10:32 [INFO] <Javeria> band erti hun ab
+2015-04-26 03:10:38 [INFO] <Javeria> mom dad dono keh rhay han
+2015-04-26 03:10:47 [INFO] <Javeria> phir biesti na ho jaey woh b ap k samnay
+2015-04-26 03:10:48 [INFO] <Javeria> :P
+2015-04-26 03:17:06 [INFO] <Javeria> R
+2015-04-26 03:20:16 [INFO] <Javeria> GRAVEL KAHAN HA?
+2015-04-26 03:21:00 [INFO] <Javeria> JLDI
+2015-04-26 03:22:01 [INFO] <Javeria> haeln ab sotay han jan
+2015-04-26 03:22:06 [INFO] <Javeria> mja dant ar jani ha
+2015-04-26 03:22:09 [INFO] <Javeria> :)
+2015-04-26 03:22:23 [INFO] <Javeria> ek dfa hi uthti hun pani ha bht
+2015-04-26 03:22:28 [INFO] <Javeria> bang ker rhi hun ma lt
+2015-04-26 03:22:34 [INFO] <Javeria> good nith :)
+2015-04-26 03:22:38 [INFO] Javeria lost connection: disconnect.quitting
+2015-04-26 03:22:38 [INFO] Javeria left the game
+2015-04-26 03:27:22 [INFO] usman lost connection: disconnect.quitting
+2015-04-26 03:27:22 [INFO] usman left the game
+2015-04-26 03:27:36 [INFO] Stopping server
+2015-04-26 03:27:36 [INFO] Saving players
+2015-04-26 03:27:36 [INFO] Saving worlds
+2015-04-26 03:27:36 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-04-26 03:27:36 [INFO] Closing listening thread
+2015-04-26 03:27:36 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-04-26 03:27:36 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-04-26 03:27:36 [INFO] Stopping server
+2015-05-09 23:20:57 [INFO] Starting minecraft server version 1.6.4
+2015-05-09 23:21:13 [INFO] Loading properties
+2015-05-09 23:21:13 [INFO] Default game type: SURVIVAL
+2015-05-09 23:21:13 [INFO] Generating keypair
+2015-05-09 23:21:13 [INFO] Starting Minecraft server on *:25565
+2015-05-09 23:21:21 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-05-09 23:21:22 [INFO] Preparing start region for level 0
+2015-05-09 23:21:23 [INFO] Done (1.635s)! For help, type "help" or "?"
+2015-05-09 23:22:34 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-09 23:24:23 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:26:59 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:27:05 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:27:05 [INFO] Javeria [/39.42.106.245:49501] lost connection
+2015-05-09 23:27:10 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:27:11 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:27:14 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:27:14 [INFO] Javeria [/39.42.106.245:49508] lost connection
+2015-05-09 23:28:11 [INFO] usman[/127.0.0.1:63726] logged in with entity id 90 at (-137.9453940861886, 73.0, -216.41584342198885)
+2015-05-09 23:28:11 [INFO] usman joined the game
+2015-05-09 23:28:12 [WARNING] Fetching addPacket for removed entity
+2015-05-09 23:28:12 [WARNING] Fetching addPacket for removed entity
+2015-05-09 23:28:23 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:28:27 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:28:27 [INFO] Javeria [/39.42.106.245:49527] lost connection
+2015-05-09 23:28:40 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:28:41 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:28:45 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:28:45 [INFO] Javeria [/39.42.106.245:49536] lost connection
+2015-05-09 23:28:53 [INFO] usman lost connection: disconnect.quitting
+2015-05-09 23:28:53 [INFO] usman left the game
+2015-05-09 23:28:58 [INFO] Stopping server
+2015-05-09 23:28:58 [INFO] Saving players
+2015-05-09 23:28:58 [INFO] Saving worlds
+2015-05-09 23:28:58 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-05-09 23:28:58 [INFO] Closing listening thread
+2015-05-09 23:28:58 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-05-09 23:28:58 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-05-09 23:28:58 [INFO] Stopping server
+2015-05-09 23:29:09 [INFO] Starting minecraft server version 1.6.4
+2015-05-09 23:29:30 [INFO] Loading properties
+2015-05-09 23:29:30 [INFO] Default game type: SURVIVAL
+2015-05-09 23:29:30 [INFO] Generating keypair
+2015-05-09 23:29:30 [INFO] Starting Minecraft server on *:25565
+2015-05-09 23:29:41 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-05-09 23:29:44 [INFO] Preparing start region for level 0
+2015-05-09 23:29:45 [INFO] Done (3.668s)! For help, type "help" or "?"
+2015-05-09 23:29:56 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:30:18 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:30:22 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:30:22 [INFO] Javeria [/39.42.106.245:49576] lost connection
+2015-05-09 23:30:30 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:30:33 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:30:33 [INFO] Javeria [/39.42.106.245:49582] lost connection
+2015-05-09 23:30:46 [INFO] Stopping server
+2015-05-09 23:30:46 [INFO] Saving players
+2015-05-09 23:30:46 [INFO] Saving worlds
+2015-05-09 23:30:46 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-05-09 23:30:46 [INFO] Closing listening thread
+2015-05-09 23:30:46 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-05-09 23:30:46 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-05-09 23:30:46 [INFO] Stopping server
+2015-05-09 23:30:54 [INFO] Starting minecraft server version 1.6.4
+2015-05-09 23:31:14 [INFO] Loading properties
+2015-05-09 23:31:14 [INFO] Default game type: SURVIVAL
+2015-05-09 23:31:14 [INFO] Generating keypair
+2015-05-09 23:31:14 [INFO] Starting Minecraft server on *:25565
+2015-05-09 23:31:14 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-05-09 23:31:14 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-05-09 23:31:14 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-05-09 23:31:14 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-05-09 23:31:18 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:31:19 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:31:19 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:31:20 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:31:24 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-05-09 23:31:25 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:31:26 [INFO] Preparing start region for level 0
+2015-05-09 23:31:27 [INFO] Done (3.149s)! For help, type "help" or "?"
+2015-05-09 23:31:27 [INFO] /39.42.106.245:49594 lost connection
+2015-05-09 23:31:27 [INFO] /39.42.106.245:49596 lost connection
+2015-05-09 23:31:27 [INFO] /39.42.106.245:49598 lost connection
+2015-05-09 23:31:27 [INFO] /39.42.106.245:49600 lost connection
+2015-05-09 23:31:27 [INFO] /39.42.106.245:49602 lost connection
+2015-05-09 23:31:53 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-09 23:31:55 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-09 23:31:55 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-09 23:31:55 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-09 23:31:55 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-09 23:31:56 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-09 23:31:56 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-09 23:32:03 [INFO] usman[/127.0.0.1:63768] logged in with entity id 102 at (-141.69394159649752, 69.0, -226.40420449598685)
+2015-05-09 23:32:03 [INFO] usman joined the game
+2015-05-09 23:32:44 [INFO] usman lost connection: disconnect.quitting
+2015-05-09 23:32:44 [INFO] usman left the game
+2015-05-09 23:35:18 [SEVERE] Reached end of stream for /39.42.106.245
+2015-05-09 23:35:24 [INFO] Javeria[/39.42.106.245:49712] logged in with entity id 26684 at (-130.893004986018, 73.0, -219.4669913305959)
+2015-05-09 23:35:24 [INFO] Javeria joined the game
+2015-05-09 23:36:24 [INFO] Javeria was slain by Spider
+2015-05-09 23:36:27 [WARNING] Javeria moved too quickly! -2.4670813366861637,0.0,15.555980898874992 (2.4670813366861637, 0.0784000015258789, 15.555980898874992)
+2015-05-09 23:37:21 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-09 23:37:22 [INFO] usman[/127.0.0.1:63773] logged in with entity id 103549 at (-142.0809204209963, 73.0, -222.71360981083194)
+2015-05-09 23:37:22 [INFO] usman joined the game
+2015-05-09 23:37:48 [INFO] <usman> click kar do clone ban jay
+2015-05-09 23:38:27 [INFO] <Javeria> axcha skyupe chalao?
+2015-05-09 23:38:34 [INFO] <Javeria> kya ker rhay thay?
+2015-05-09 23:38:44 [INFO] <usman> ok
+2015-05-09 23:39:32 [INFO] <Javeria> hello yahan space full ho gai ha shayad
+2015-05-09 23:40:08 [INFO] <Javeria> skype chalao
+2015-05-09 23:40:38 [INFO] <Javeria> bed
+2015-05-09 23:40:50 [INFO] <usman> skyoe
+2015-05-09 23:41:57 [INFO] <Javeria> mra pas kafi chizen han
+2015-05-10 00:01:49 [INFO] <Javeria> compressed iron ingot kasay bnegi?
+2015-05-10 00:02:17 [INFO] <Javeria> mja lga wasa bnega
+2015-05-10 00:02:18 [INFO] <Javeria> :(
+2015-05-10 00:05:14 [INFO] <Javeria> mra mattock red ho gya ha
+2015-05-10 00:05:24 [INFO] <Javeria> keh rha ha you feel comfortable woth mattock
+2015-05-10 00:10:04 [INFO] <Javeria> HELLO
+2015-05-10 00:10:10 [INFO] <Javeria> AB CHAHAY JITNI MARZI BAR MAREN
+2015-05-10 00:11:22 [INFO] <Javeria> iron hammer nhi repair hoti?
+2015-05-10 00:13:32 [INFO] <Javeria> yeh to pani aa gya ha t
+2015-05-10 00:13:37 [INFO] <Javeria> mja bht bhool lag gai ha
+2015-05-10 00:13:38 [INFO] <Javeria> :P
+2015-05-10 00:16:10 [INFO] <Javeria> yeh apko kasay mila ja rhah ha
+2015-05-10 00:16:14 [INFO] <Javeria> miti ker rhayhan?
+2015-05-10 00:20:02 [INFO] <Javeria> alehda lgao
+2015-05-10 00:20:08 [INFO] <Javeria> yahan na lgao na
+2015-05-10 00:20:12 [INFO] <Javeria> tree farm bnatay han
+2015-05-10 00:28:13 [INFO] <Javeria> akalay aklay
+2015-05-10 00:28:23 [INFO] <Javeria> t:( mja mazduri pay lga k khud phal kha rhayhan
+2015-05-10 00:28:34 [INFO] <Javeria> ma nay t pehlay kha tha
+2015-05-10 00:32:54 [INFO] <Javeria> ab kya kam karun?
+2015-05-10 00:33:10 [INFO] <Javeria> tnt pakaren
+2015-05-10 00:37:29 [INFO] <Javeria> yeh lo
+2015-05-10 00:39:25 [INFO] <Javeria> hello ap nay mja abhi tak yeh whote si line nhi btai jo asman may ja rhi ha
+2015-05-10 00:40:12 [INFO] <Javeria> mat o bys 1 bar mari thi yeh mra marnay say pehlay b thi
+2015-05-10 00:42:40 [INFO] <Javeria> is spider ko maren
+2015-05-10 00:51:01 [INFO] <Javeria> oay jan mra pas explosion han 4
+2015-05-10 00:57:35 [INFO] <usman> pani waly pouch bnao
+2015-05-10 00:57:47 [INFO] <Javeria> woh kya hota ha?
+2015-05-10 00:57:53 [INFO] <Javeria> or nam btao ma recipe dekhun
+2015-05-10 00:57:59 [INFO] <usman> camel pack
+2015-05-10 00:58:13 [INFO] <usman> jo hum pani dalty han jis my
+2015-05-10 01:01:37 [INFO] <Javeria> hello cow ki khaal kasay milegi
+2015-05-10 01:01:44 [INFO] <usman> dakho na
+2015-05-10 01:03:02 [INFO] <Javeria> woh kahna han
+2015-05-10 01:03:13 [INFO] <usman> kya
+2015-05-10 01:03:21 [INFO] <Javeria> jis say mati chatay han
+2015-05-10 01:03:33 [INFO] <usman> sary use ho gay han
+2015-05-10 01:03:37 [INFO] <usman> ye new ly lo
+2015-05-10 01:04:52 [INFO] <Javeria> hello zombie ka flesh to ha nhi itna
+2015-05-10 01:05:19 [INFO] <usman> pher zombies marny wala bnana pary ga
+2015-05-10 01:05:21 [INFO] <usman> tower
+2015-05-10 01:05:33 [INFO] <Javeria> ohhh koi kam mja bhi pura den na
+2015-05-10 01:08:14 [INFO] <usman> ni
+2015-05-10 01:08:17 [INFO] <usman> ma bnao ga
+2015-05-10 01:08:24 [INFO] <Javeria> nhi ma nahi bna rhit
+2015-05-10 01:08:27 [INFO] <Javeria> :)
+2015-05-10 01:08:34 [INFO] <Javeria> ma wasa hi nazaray ley rhi hun
+2015-05-10 01:10:37 [INFO] <usman> ander jao
+2015-05-10 01:10:41 [INFO] <usman> ider se
+2015-05-10 01:10:47 [INFO] <Javeria> ma ek chakar lga k ati hun
+2015-05-10 01:10:51 [INFO] <usman> ok
+2015-05-10 01:12:23 [INFO] <Javeria> helo ma ander kasay jaon?
+2015-05-10 01:12:30 [INFO] <usman> ider
+2015-05-10 01:14:45 [INFO] <usman> kya kar rhi ho
+2015-05-10 01:14:56 [INFO] <Javeria> kuch nhi
+2015-05-10 01:14:56 [INFO] <Javeria> :(
+2015-05-10 01:15:00 [INFO] <Javeria> koi kam bataen na
+2015-05-10 01:15:02 [INFO] <usman> to sandwiches bnao
+2015-05-10 01:15:08 [INFO] <usman> wasi kismo k
+2015-05-10 01:15:14 [INFO] <Javeria> :(
+2015-05-10 01:15:16 [INFO] <Javeria> ok
+2015-05-10 01:15:17 [INFO] <usman> sari kismo k
+2015-05-10 01:15:20 [INFO] <usman> to kya karna ha
+2015-05-10 01:15:27 [INFO] <Javeria> ma nay kuch krna ha
+2015-05-10 01:15:38 [INFO] <Javeria> kuch mzay ka kam
+2015-05-10 01:15:43 [INFO] <Javeria> jis may hilna paaray
+2015-05-10 01:15:48 [INFO] <usman> koi quest kar sakti ho dekho
+2015-05-10 01:15:56 [INFO] <Javeria> k
+2015-05-10 01:19:33 [INFO] <Javeria> zombies schaiay
+2015-05-10 01:20:49 [INFO] <usman> pani end:p
+2015-05-10 01:21:10 [INFO] <usman> start fruit ready
+2015-05-10 01:25:04 [INFO] <usman> mazy ka kam karna ha
+2015-05-10 01:25:10 [INFO] <usman> piza bnao
+2015-05-10 01:25:13 [INFO] <Javeria> hang
+2015-05-10 01:25:16 [INFO] <Javeria> g
+2015-05-10 01:32:32 [INFO] <usman> dehan sy
+2015-05-10 01:32:39 [INFO] <Javeria> hello ap nay mja kam btana tha mazay kat
+2015-05-10 01:32:44 [INFO] <Javeria> pani k wlawa
+2015-05-10 01:32:50 [INFO] <usman> han na btaya tha na
+2015-05-10 01:32:55 [INFO] <Javeria> kya
+2015-05-10 01:32:58 [INFO] <usman> pizza bnao
+2015-05-10 01:33:07 [INFO] <usman> onion jama karo
+2015-05-10 01:33:10 [INFO] <Javeria> khanay k bhi wlawa
+2015-05-10 01:33:14 [INFO] <Javeria> onoion kasay?
+2015-05-10 01:33:27 [INFO] <usman> ni to walls extend karo
+2015-05-10 01:34:40 [INFO] <usman> koi quest ni mili karny wali
+2015-05-10 01:34:47 [INFO] <Javeria> nhi :(
+2015-05-10 01:34:52 [INFO] <Javeria> ksi may sodht chaiay
+2015-05-10 01:34:57 [INFO] <Javeria> ksi may leather
+2015-05-10 01:34:58 [INFO] <Javeria> :(
+2015-05-10 01:35:06 [INFO] <Javeria> zombies flesh chaiay
+2015-05-10 01:35:20 [INFO] <usman> oo chalo bus abi dher lag jay ga
+2015-05-10 01:36:08 [INFO] <Javeria> anday say bhens nikal sakti ha?
+2015-05-10 01:36:29 [INFO] <usman> ni abi ni agy ja k mily cow spawner eggs
+2015-05-10 01:36:38 [INFO] <usman> karna kya ha ?
+2015-05-10 01:36:39 [INFO] <Javeria> ohhha
+2015-05-10 01:36:43 [INFO] <Javeria> acha anda?
+2015-05-10 01:36:53 [INFO] <Javeria> onions kasay milen gay?
+2015-05-10 01:36:53 [INFO] <usman> meat ke jaga soyabeans use hoti han
+2015-05-10 01:37:07 [INFO] <usman> ma ne lagai hui han sat waly tower my
+2015-05-10 01:37:21 [INFO] <usman> oo tower ni farm :p
+2015-05-10 01:39:29 [INFO] <usman> ye ha
+2015-05-10 01:39:55 [INFO] <Javeria> ponieon
+2015-05-10 01:40:18 [INFO] <usman> grass per mattoc use karo
+2015-05-10 01:40:51 [INFO] <usman> sari grass na karna
+2015-05-10 01:40:58 [INFO] <usman> warna dubara ni ugy ge
+2015-05-10 01:41:06 [INFO] <usman> atleast ak pice chor dena
+2015-05-10 01:41:40 [INFO] <usman> grass watering can se pher ug ay ge
+2015-05-10 01:41:49 [INFO] <usman> seed ider
+2015-05-10 01:42:02 [INFO] <usman> seeds ider rakhny han
+2015-05-10 01:42:27 [INFO] <usman> hello
+2015-05-10 01:42:34 [INFO] <usman> bed
+2015-05-10 01:42:35 [INFO] <Javeria> g
+2015-05-10 01:43:54 [INFO] <usman> ye lo
+2015-05-10 01:44:15 [INFO] <usman> pichy han
+2015-05-10 01:44:28 [INFO] <usman> can mujy do
+2015-05-10 01:44:52 [INFO] <usman> ooo
+2015-05-10 01:44:57 [INFO] <usman> strwbery:)
+2015-05-10 01:45:11 [INFO] <usman> khana na
+2015-05-10 01:45:25 [INFO] <usman> ider lagao
+2015-05-10 01:46:29 [INFO] <usman> bellpaper:)
+2015-05-10 01:53:34 [INFO] <usman> bed
+2015-05-10 01:57:47 [INFO] <Javeria> tower kab complete hoga?
+2015-05-10 01:58:01 [INFO] <usman> end ha chat rah gai ha
+2015-05-10 01:58:07 [INFO] <Javeria> mja bone mwL CHAIAY
+2015-05-10 01:58:13 [INFO] <usman> ye lo
+2015-05-10 01:58:15 [INFO] <Javeria> k
+2015-05-10 01:58:32 [INFO] <usman> ye ha
+2015-05-10 01:58:58 [INFO] <usman> mujy dena thora sa
+2015-05-10 01:59:08 [INFO] <usman> tools repair karny han
+2015-05-10 02:04:47 [INFO] <usman> bed
+2015-05-10 02:08:54 [INFO] <Javeria> hello yeh dekhen
+2015-05-10 02:09:01 [INFO] <usman> kya
+2015-05-10 02:09:31 [INFO] <Javeria> lemon tree yahan b nikal aya ha
+2015-05-10 02:09:43 [INFO] <usman> kat do
+2015-05-10 02:09:47 [INFO] <usman> humary pass ha
+2015-05-10 02:16:04 [INFO] <usman> bed
+2015-05-10 02:17:55 [INFO] <usman> tower dakh lo
+2015-05-10 02:18:18 [INFO] <usman> abi start ni kia
+2015-05-10 02:18:26 [INFO] <usman> blay marny k liy kar rha hun
+2015-05-10 02:18:45 [INFO] <usman> ye ha funel design
+2015-05-10 02:18:46 [INFO] <Javeria> tg kasay start hoga?
+2015-05-10 02:19:05 [INFO] <usman> ider ao
+2015-05-10 02:20:04 [INFO] <usman> andhera ho jay ga to blayn satrat
+2015-05-10 02:20:09 [INFO] <usman> start
+2015-05-10 02:20:19 [INFO] <Javeria> yeh darwazay say ku bnaey han?
+2015-05-10 02:20:29 [INFO] <usman> blaon ko dhoka nyny k liy
+2015-05-10 02:21:06 [INFO] <Javeria> yahan aa k balaen mara karen gay?
+2015-05-10 02:21:11 [INFO] <usman> uny lagta ha k block ha
+2015-05-10 02:21:17 [INFO] <usman> or wo nichy gir jati han
+2015-05-10 02:24:02 [INFO] <usman> ye dekho
+2015-05-10 02:24:19 [INFO] <Javeria> waoooo
+2015-05-10 02:24:28 [INFO] <Javeria> lift ha yeh to :)]
+2015-05-10 02:24:28 [INFO] <usman> kari ho is per
+2015-05-10 02:25:13 [INFO] <usman> ye dekho
+2015-05-10 02:26:11 [INFO] <Javeria> hahahaaaa
+2015-05-10 02:26:52 [INFO] <usman> bed
+2015-05-10 02:27:14 [INFO] <Javeria> blaen nhi bnani thi
+2015-05-10 02:27:16 [INFO] <Javeria> ?
+2015-05-10 02:28:05 [INFO] <Javeria> hello ma nay next project socha ha
+2015-05-10 02:28:13 [INFO] <Javeria> farm bnaon proper
+2015-05-10 02:28:22 [INFO] <Javeria> her ek chiz ka alhda portion
+2015-05-10 02:28:45 [INFO] <Javeria> 4x4 ka portion er len
+2015-05-10 02:30:08 [INFO] <Javeria> kacho sabzain
+2015-05-10 02:38:06 [INFO] <Javeria> ap kya ha rhay ho
+2015-05-10 02:38:10 [INFO] <Javeria> kha
+2015-05-10 02:38:58 [INFO] <Javeria> ab rat hoegi
+2015-05-10 02:39:05 [INFO] <Javeria> blaen to chaiay na
+2015-05-10 02:40:51 [INFO] <Javeria> rat k bghair hi banengi balaen?
+2015-05-10 02:40:53 [INFO] <Javeria> ha na?
+2015-05-10 02:41:46 [INFO] <Javeria> onion mil gy ha
+2015-05-10 02:44:04 [INFO] <Javeria> yeh to stone b gir rha ha
+2015-05-10 02:44:30 [INFO] <Javeria> kahan bani ha?
+2015-05-10 02:46:05 [INFO] <Javeria> hahahaaaaaa
+2015-05-10 02:46:09 [INFO] <Javeria> spider b honay chaiay
+2015-05-10 02:47:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-05-10 02:48:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-05-10 02:49:54 [INFO] <Javeria> creeper head kya krega?
+2015-05-10 02:49:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-05-10 02:50:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-05-10 02:51:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-05-10 02:51:15 [INFO] <Javeria> spider b han ander
+2015-05-10 02:51:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-05-10 02:51:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-05-10 02:52:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-05-10 02:52:31 [INFO] <Javeria> g
+2015-05-10 02:55:18 [INFO] <Javeria> 23
+2015-05-10 02:58:09 [INFO] <Javeria> dey diya ha apko
+2015-05-10 02:58:40 [INFO] <Javeria> woh to pehlay dey d thi na
+2015-05-10 02:59:28 [INFO] <Javeria> btamiz
+2015-05-10 03:00:20 [INFO] <Javeria> g
+2015-05-10 03:00:55 [INFO] <Javeria> ma nay toa bhi pani ka jar bnana tha
+2015-05-10 03:01:20 [INFO] <Javeria> thak b gai hun
+2015-05-10 03:01:21 [INFO] <Javeria> :(
+2015-05-10 03:01:35 [INFO] <Javeria> tg wph sar ma hi karungi
+2015-05-10 03:01:37 [INFO] <Javeria> )
+2015-05-10 03:01:42 [INFO] <Javeria> :)
+2015-05-10 03:01:46 [INFO] <Javeria> done
+2015-05-10 03:05:06 [INFO] <Javeria> cheese chaiay us k liay
+2015-05-10 03:05:08 [INFO] <Javeria> milk
+2015-05-10 03:05:38 [INFO] <Javeria> nhi nikla
+2015-05-10 03:05:42 [INFO] <Javeria> mana try kiya
+2015-05-10 03:06:00 [INFO] <Javeria> nect time khana or bantan alehda krnay han
+2015-05-10 03:06:04 [INFO] <Javeria> bra gand mach gya ha
+2015-05-10 03:06:53 [INFO] <Javeria> dekepeton toer pay
+2015-05-10 03:07:08 [INFO] <Javeria> on
+2015-05-10 03:07:13 [INFO] <Javeria> skeleton tower ay
+2015-05-10 03:10:58 [INFO] <Javeria> hmmmm4
+2015-05-10 03:12:21 [INFO] <Javeria> yeh dermian wala kiya ha?
+2015-05-10 03:14:41 [INFO] <Javeria> ab band kerti hun
+2015-05-10 03:14:47 [INFO] <Javeria> thak gi ha
+2015-05-10 03:14:50 [INFO] <Javeria> :)
+2015-05-10 03:15:08 [INFO] Javeria lost connection: disconnect.quitting
+2015-05-10 03:15:08 [INFO] Javeria left the game
+2015-05-10 03:15:12 [INFO] usman lost connection: disconnect.quitting
+2015-05-10 03:15:12 [INFO] usman left the game
+2015-05-10 03:15:32 [INFO] Stopping server
+2015-05-10 03:15:32 [INFO] Saving players
+2015-05-10 03:15:32 [INFO] Saving worlds
+2015-05-10 03:15:32 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-05-10 03:15:32 [INFO] Closing listening thread
+2015-05-10 03:15:32 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-05-10 03:15:32 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-05-10 03:15:32 [INFO] Stopping server
+2015-05-21 23:48:34 [INFO] Starting minecraft server version 1.6.4
+2015-05-21 23:48:53 [INFO] Loading properties
+2015-05-21 23:48:53 [INFO] Default game type: SURVIVAL
+2015-05-21 23:48:53 [INFO] Generating keypair
+2015-05-21 23:48:53 [INFO] Starting Minecraft server on *:25565
+2015-05-21 23:48:53 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-05-21 23:48:53 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-05-21 23:48:53 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-05-21 23:48:53 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-05-21 23:49:02 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-05-21 23:49:04 [INFO] Preparing start region for level 0
+2015-05-21 23:49:05 [INFO] Preparing spawn area: 94%
+2015-05-21 23:49:05 [INFO] Done (2.757s)! For help, type "help" or "?"
+2015-05-21 23:51:10 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-21 23:51:13 [INFO] usman[/127.0.0.1:60000] logged in with entity id 120 at (-145.46432489844165, 73.0, -205.1255628800468)
+2015-05-21 23:51:13 [INFO] usman joined the game
+2015-05-21 23:51:35 [INFO] usman lost connection: disconnect.quitting
+2015-05-21 23:51:35 [INFO] usman left the game
+2015-05-22 01:18:23 [INFO] Stopping server
+2015-05-22 23:41:54 [INFO] Starting minecraft server version 1.6.4
+2015-05-22 23:42:16 [INFO] Loading properties
+2015-05-22 23:42:16 [INFO] Default game type: SURVIVAL
+2015-05-22 23:42:16 [INFO] Generating keypair
+2015-05-22 23:42:16 [INFO] Starting Minecraft server on *:25565
+2015-05-22 23:42:16 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-05-22 23:42:16 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-05-22 23:42:16 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-05-22 23:42:16 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-05-22 23:42:30 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-05-22 23:42:32 [INFO] Preparing start region for level 0
+2015-05-22 23:42:33 [INFO] Done (2.922s)! For help, type "help" or "?"
+2015-05-22 23:57:42 [SEVERE] Reached end of stream for /39.42.32.233
+2015-05-22 23:57:44 [SEVERE] Reached end of stream for /39.42.32.233
+2015-05-22 23:58:50 [INFO] Javeria[/39.42.32.233:49783] logged in with entity id 65 at (-143.86000001430511, 72.0, -233.69999998807907)
+2015-05-22 23:58:50 [INFO] Javeria joined the game
+2015-05-23 00:02:33 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-23 00:02:36 [INFO] usman[/127.0.0.1:51544] logged in with entity id 119867 at (-143.90358519683545, 73.0, -222.3239871963242)
+2015-05-23 00:02:36 [INFO] usman joined the game
+2015-05-23 00:04:29 [INFO] <usman> uer zyada na khari ho lava ha pass
+2015-05-23 00:04:41 [INFO] <usman> heat meter pe nazar rakha karo
+2015-05-23 00:04:52 [INFO] <usman> jitna heat ho ga unti jaldi pani khtam ho ga
+2015-05-23 00:04:54 [INFO] <Javeria> k
+2015-05-23 00:05:02 [INFO] <usman> acha ab karo ba quest leather wali
+2015-05-23 00:05:12 [INFO] <usman> zombie flash jama ho gya ha na
+2015-05-23 00:05:24 [INFO] <Javeria> g
+2015-05-23 00:05:27 [INFO] <Javeria> ya krna tha uska?
+2015-05-23 00:08:30 [INFO] <Javeria> hello ma nay kaya krna tha last time?
+2015-05-23 00:08:54 [INFO] <usman> jo dil kary
+2015-05-23 00:09:19 [INFO] <Javeria> town dhundnay chaeln?
+2015-05-23 00:09:36 [INFO] <usman> socho b na
+2015-05-23 00:09:42 [INFO] <usman> boaht mushkil ha abi to
+2015-05-23 00:09:47 [INFO] <usman> pahly ameer hona ha
+2015-05-23 00:09:53 [INFO] <Javeria> :P heheheeee
+2015-05-23 00:09:55 [INFO] <usman> urny wala bnana ha
+2015-05-23 00:10:01 [INFO] <usman> wahan har jaga blay han
+2015-05-23 00:10:02 [INFO] <Javeria> ameer ???? woh kasay
+2015-05-23 00:10:24 [INFO] <Javeria> mja last time chamray say kuch bnana tha
+2015-05-23 00:10:37 [INFO] <usman> han na quest karni ha
+2015-05-23 00:10:41 [INFO] <Javeria> han kitchen bnatay han proper
+2015-05-23 00:10:54 [INFO] <usman> pahly quest karo na
+2015-05-23 00:11:57 [INFO] <usman> bed
+2015-05-23 00:13:12 [INFO] <usman> ma karta hun
+2015-05-23 00:13:13 [INFO] <Javeria> hello mja pani ki balti chaiay
+2015-05-23 00:13:14 [INFO] <usman> khar ha
+2015-05-23 00:13:38 [INFO] <Javeria> ufff mra puthay kam us nay oni wapis nhi kiya
+2015-05-23 00:14:07 [INFO] <Javeria> ha thnx
+2015-05-23 00:14:37 [INFO] <usman> quest karo pher kitchn per kam karty han
+2015-05-23 00:15:26 [INFO] Javeria lost connection: disconnect.genericReason
+2015-05-23 00:15:26 [INFO] Javeria left the game
+2015-05-23 00:16:39 [SEVERE] Reached end of stream for /39.42.93.233
+2015-05-23 00:17:11 [INFO] Javeria[/39.42.93.233:50362] logged in with entity id 661077 at (-125.45867132812243, 73.0, -220.10887029786815)
+2015-05-23 00:17:11 [INFO] Javeria joined the game
+2015-05-23 00:20:28 [INFO] <Javeria> pressure wala kasay banta ha?
+2015-05-23 00:22:54 [INFO] <usman> bed
+2015-05-23 00:24:15 [INFO] <Javeria> hello mja dad bula rhay han ma a rhi hu
+2015-05-23 00:24:17 [INFO] <Javeria> do mint
+2015-05-23 00:31:37 [INFO] <Javeria> helo
+2015-05-23 00:33:13 [INFO] <usman> kya kar rhi
+2015-05-23 00:33:26 [INFO] <Javeria> ma jaga bna rhi hun shelf ki or chut unchi ker rhi hun
+2015-05-23 00:33:36 [INFO] <usman> ider bnana ha new
+2015-05-23 00:33:49 [INFO] <Javeria> aray waha
+2015-05-23 00:34:06 [INFO] <usman> bed
+2015-05-23 00:37:45 [INFO] <Javeria> hello mra mouse khrab ho gya ha
+2015-05-23 00:38:11 [INFO] <usman> ab pher
+2015-05-23 00:38:25 [INFO] <Javeria> sai ho gya ha batamiz khudi khodi ja rha tha
+2015-05-23 00:43:21 [INFO] <Javeria> :) contruction chal rhi ha
+2015-05-23 00:43:46 [INFO] <usman> g:)
+2015-05-23 00:43:52 [INFO] <Javeria> tpani wala system bhi hona chiay pas hi
+2015-05-23 00:45:16 [INFO] <usman> bed
+2015-05-23 00:48:30 [INFO] <usman> kya hua
+2015-05-23 00:48:42 [INFO] <Javeria> nhi kuch nhi pani bna rhi hun
+2015-05-23 00:49:40 [INFO] <usman> ready ha kar lo setting :)
+2015-05-23 00:49:46 [INFO] <Javeria> :)
+2015-05-23 00:50:03 [INFO] <Javeria> yahan say utha k ley k jaon chizen ya dubara bnaon?
+2015-05-23 00:50:24 [INFO] <usman> ap new chests lagao
+2015-05-23 00:50:28 [INFO] <usman> ye ma ly ao ga
+2015-05-23 00:52:20 [INFO] <Javeria> hawwww
+2015-05-23 00:52:24 [INFO] <Javeria> yeh asay kasay ai?
+2015-05-23 00:52:47 [INFO] <usman> is sy:)
+2015-05-23 00:53:45 [INFO] <Javeria> ma krungi
+2015-05-23 00:54:40 [INFO] <usman> jaga to bana lo pahly :p
+2015-05-23 00:55:10 [INFO] <usman> dolly dena
+2015-05-23 00:56:38 [INFO] <Javeria> waooo
+2015-05-23 00:56:43 [INFO] <usman> :)
+2015-05-23 00:56:44 [INFO] <Javeria> ma ma ma ama
+2015-05-23 00:56:51 [INFO] <Javeria> baju ma
+2015-05-23 00:56:58 [INFO] <Javeria> baki ma
+2015-05-23 00:57:02 [INFO] <usman> ok
+2015-05-23 00:57:06 [INFO] <Javeria> deb
+2015-05-23 00:58:22 [WARNING] Time ran backwards! Did the system time change?
+2015-05-23 00:59:09 [INFO] <usman> sari chizen ni lagai
+2015-05-23 00:59:22 [INFO] <Javeria> abaki bortan han nhi
+2015-05-23 01:00:31 [INFO] <Javeria> mja ek chulha b lgana ha
+2015-05-23 01:00:47 [INFO] <usman> hmmm
+2015-05-23 01:00:53 [INFO] <Javeria> kahan?
+2015-05-23 01:01:23 [INFO] <usman> ni
+2015-05-23 01:01:36 [INFO] <usman> ye na lagao ye heat karta ha :(
+2015-05-23 01:02:10 [INFO] <Javeria> mja pakana bhi hoti ha
+2015-05-23 01:03:13 [INFO] <usman> piza bana rhi thee ap :)
+2015-05-23 01:03:37 [INFO] <Javeria> bus thori setting kr lun phir yhi kam krun gu
+2015-05-23 01:04:34 [INFO] <usman> penut butter ap k pass ha
+2015-05-23 01:05:23 [INFO] <usman> ye lo
+2015-05-23 01:08:10 [INFO] <usman> ab cycle kar k khana ha
+2015-05-23 01:08:23 [INFO] <usman> bed
+2015-05-23 01:09:12 [INFO] <usman> presser bnao
+2015-05-23 01:09:29 [INFO] <Javeria> MJA nhi mil rha woh
+2015-05-23 01:09:46 [INFO] <usman> search my likho presser
+2015-05-23 01:10:28 [INFO] <Javeria> k bnati hu
+2015-05-23 01:11:38 [INFO] <Javeria> mati ap nay uhtai ha?
+2015-05-23 01:12:34 [INFO] <Javeria> mja iron chaiay or mati kahan gai ma nay itni bnai thi
+2015-05-23 01:12:50 [INFO] <usman> under para ha
+2015-05-23 01:13:46 [INFO] <usman> ye lo tometo soup:)
+2015-05-23 01:13:51 [INFO] <Javeria> sand kahan rakh rhay han?
+2015-05-23 01:14:04 [INFO] <usman> mujy de do :)
+2015-05-23 01:14:26 [INFO] <Javeria> yeh len
+2015-05-23 01:14:45 [INFO] <Javeria> pani nhi ha
+2015-05-23 01:15:02 [INFO] <usman> ha farnace my
+2015-05-23 01:18:03 [INFO] <usman> soups is taraf han
+2015-05-23 01:18:05 [INFO] <Javeria> helo mja dekehn
+2015-05-23 01:18:27 [INFO] <usman> kya
+2015-05-23 01:18:42 [INFO] <usman> ma ny phanky thy :p
+2015-05-23 01:18:45 [INFO] <Javeria> yeh kasay utri
+2015-05-23 01:18:53 [INFO] <Javeria> :(
+2015-05-23 01:19:02 [INFO] <Javeria> ma batayanay ai thi k mja wahan say milay
+2015-05-23 01:19:03 [INFO] <usman> ap pahan lo:)
+2015-05-23 01:19:09 [INFO] <usman> haha
+2015-05-23 01:19:13 [INFO] <usman> bed
+2015-05-23 01:20:30 [INFO] <Javeria> yeh utray kasay ap nay utaray thay mra upar say
+2015-05-23 01:20:43 [INFO] <usman> ni ap k ni han
+2015-05-23 01:20:52 [INFO] <usman> ye mod grinder sy ay han
+2015-05-23 01:21:31 [INFO] <Javeria> nhi ma keh rhi hun jab may apkio dikhanay ai to ma nay pehnay huay thay ek dum utar gaey khudi
+2015-05-23 01:27:44 [INFO] <usman> pani ka easy trika karny laga hun
+2015-05-23 01:30:27 [INFO] <usman> bed
+2015-05-23 01:31:55 [INFO] <usman> bana ni
+2015-05-23 01:32:07 [INFO] <Javeria> kya ?
+2015-05-23 01:32:13 [INFO] <usman> presser
+2015-05-23 01:32:19 [INFO] <Javeria> oh pani muk gya tha
+2015-05-23 01:32:21 [INFO] <Javeria> bnati hu
+2015-05-23 01:32:24 [INFO] <Javeria> 2 mint bus
+2015-05-23 01:34:57 [INFO] <Javeria> kkahan kagain
+2015-05-23 01:35:44 [INFO] <Javeria> kasay use kerata han
+2015-05-23 01:36:11 [INFO] <Javeria> yeh bht best ha kam wasa
+2015-05-23 01:36:17 [INFO] <usman> kya
+2015-05-23 01:36:25 [INFO] <Javeria> shelves wala
+2015-05-23 01:36:29 [INFO] <Javeria> ma pizza bnati hun
+2015-05-23 01:36:31 [INFO] <usman> :)
+2015-05-23 01:38:08 [INFO] <Javeria> hello soy milk kasay bant aha?
+2015-05-23 01:38:25 [INFO] <usman> soya milk
+2015-05-23 01:38:37 [INFO] <Javeria> g
+2015-05-23 01:38:52 [INFO] <usman> presser my rakho
+2015-05-23 01:39:10 [INFO] <Javeria> hello ap k office may new sev ai ha?
+2015-05-23 01:39:19 [INFO] <Javeria> deveoper
+2015-05-23 01:39:34 [INFO] <usman> 3 ay han
+2015-05-23 01:39:48 [INFO] <Javeria> ek noor?
+2015-05-23 01:40:11 [INFO] <usman> han noor fatima :)
+2015-05-23 01:40:21 [INFO] <Javeria> ap nay btaya hi nhi
+2015-05-23 01:40:30 [INFO] <Javeria> f nay dikhai abhi
+2015-05-23 01:40:31 [INFO] <Javeria> :)
+2015-05-23 01:40:34 [INFO] <usman> is my btany wala kya ha :)
+2015-05-23 01:40:45 [INFO] <Javeria> aahhh haaaan btanay wala kya ha
+2015-05-23 01:40:47 [INFO] <Javeria> wakai?
+2015-05-23 01:40:59 [INFO] <Javeria> chalo thik ha bal k fit ha
+2015-05-23 01:41:09 [INFO] <usman> han office me to har hafty koi na koi a rha hota ha
+2015-05-23 01:41:17 [INFO] <usman> last week 3 artists ay the
+2015-05-23 01:41:29 [INFO] <Javeria> kuch nhi
+2015-05-23 01:41:51 [INFO] <usman> bed
+2015-05-23 01:42:23 [INFO] <Javeria> mja soy milk ka btaen
+2015-05-23 01:42:26 [INFO] <Javeria> kasay bnai
+2015-05-23 01:42:40 [INFO] <usman> ye dakho
+2015-05-23 01:42:52 [INFO] Javeria lost connection: disconnect.quitting
+2015-05-23 01:42:52 [INFO] Javeria left the game
+2015-05-23 01:45:04 [SEVERE] Reached end of stream for /39.42.93.233
+2015-05-23 01:45:07 [INFO] Javeria[/39.42.93.233:51575] logged in with entity id 4061349 at (-138.63532748996727, 73.0, -219.69999998807907)
+2015-05-23 01:45:07 [INFO] Javeria joined the game
+2015-05-23 01:45:41 [INFO] <Javeria> kasay bata ha
+2015-05-23 01:45:53 [INFO] <Javeria> dc hua tha
+2015-05-23 01:45:59 [INFO] <usman> is my
+2015-05-23 01:46:08 [INFO] <usman> soya bean rakho
+2015-05-23 01:46:30 [INFO] <Javeria> wahhhh
+2015-05-23 01:46:34 [INFO] <Javeria> thnc
+2015-05-23 01:47:13 [INFO] <Javeria> bake wera nhi ha na/?
+2015-05-23 01:47:20 [INFO] <usman> ni
+2015-05-23 01:47:33 [INFO] <Javeria> mja vricks chaiay
+2015-05-23 01:47:58 [INFO] <Javeria> clay pighlaon?
+2015-05-23 01:48:11 [INFO] <usman> clay ha?
+2015-05-23 01:48:22 [INFO] <Javeria> nhi
+2015-05-23 01:48:26 [INFO] <usman> ider ha
+2015-05-23 01:48:35 [INFO] <usman> sirf jitny chiy unti pilana
+2015-05-23 01:49:03 [INFO] <Javeria> mja 2 or chiay
+2015-05-23 01:49:21 [INFO] <usman> rakhi han
+2015-05-23 01:51:43 [INFO] <usman> ap ny koi tank uthaya ha?
+2015-05-23 01:51:56 [INFO] <Javeria> rnhi
+2015-05-23 01:52:19 [INFO] <usman> pher kider gya
+2015-05-23 01:52:23 [INFO] <Javeria> MJA WATWR PACK BNANA THA
+2015-05-23 01:52:35 [INFO] <Javeria> mha kya pra
+2015-05-23 01:53:19 [INFO] <usman> bed
+2015-05-23 01:53:23 [INFO] <Javeria> bed
+2015-05-23 02:04:49 [INFO] <Javeria> bed
+2015-05-23 02:05:20 [INFO] <usman> graval kya kar rhi ho
+2015-05-23 02:06:44 [INFO] <usman> leaves han
+2015-05-23 02:06:57 [INFO] <Javeria> nhi
+2015-05-23 02:07:14 [INFO] <usman> jama kar k ischest me dal do gi
+2015-05-23 02:07:20 [INFO] <Javeria> g
+2015-05-23 02:07:21 [INFO] <usman> han pary
+2015-05-23 02:07:25 [INFO] <usman> is my
+2015-05-23 02:07:32 [INFO] <Javeria> kis chest may?
+2015-05-23 02:07:40 [INFO] <usman> leaves wali
+2015-05-23 02:08:02 [INFO] <Javeria> us may to alreafy bht han
+2015-05-23 02:08:21 [INFO] <usman> iron sara ly lia :(
+2015-05-23 02:08:34 [INFO] <usman> apny pass plz na rakha karo
+2015-05-23 02:08:54 [INFO] <Javeria> mja zarurat hot ha
+2015-05-23 02:09:08 [INFO] <usman> itna zyda tha kahan gya
+2015-05-23 02:09:27 [INFO] <Javeria> use ho gya
+2015-05-23 02:09:30 [INFO] <Javeria> or kahan jana tha
+2015-05-23 02:09:37 [INFO] <usman> leaves dalo na
+2015-05-23 02:09:46 [INFO] <Javeria> dalay to han
+2015-05-23 02:09:51 [INFO] <Javeria> or kitnay dalun>
+2015-05-23 02:09:55 [INFO] <usman> is my dalny han
+2015-05-23 02:10:47 [INFO] <usman> ufff
+2015-05-23 02:11:13 [INFO] <usman> is my
+2015-05-23 02:11:24 [INFO] <Javeria> ok
+2015-05-23 02:11:41 [INFO] <usman> pani ab direct jama ho ga
+2015-05-23 02:11:43 [INFO] <Javeria> mja nhi pta tha bahir wali thi leaves ki
+2015-05-23 02:13:04 [INFO] <Javeria> hello mja bone meal chaiay
+2015-05-23 02:13:15 [INFO] <usman> is my ha
+2015-05-23 02:13:37 [INFO] <Javeria> jahan
+2015-05-23 02:13:37 [INFO] <usman> or bones ka dher laga ha uder
+2015-05-23 02:16:19 [INFO] <Javeria> rbed
+2015-05-23 02:16:58 [INFO] <Javeria> hello jo blocks bnay huay han [ehlay unhen tortay han hammer say phir pghlatay han?
+2015-05-23 02:17:51 [INFO] <usman> lazmi ni ha per asy zyada iron milta ha ager tor k pher dust kar k piglao
+2015-05-23 02:20:23 [INFO] <Javeria> hello mri recipes band ho gai han
+2015-05-23 02:20:42 [INFO] <usman> o dbao
+2015-05-23 02:22:25 [INFO] <Javeria> game koi koi masla hua ha
+2015-05-23 02:22:29 [INFO] Javeria lost connection: disconnect.quitting
+2015-05-23 02:22:29 [INFO] Javeria left the game
+2015-05-23 02:22:32 [SEVERE] Reached end of stream for /39.42.93.233
+2015-05-23 02:22:35 [INFO] Javeria[/39.42.93.233:52103] logged in with entity id 5500738 at (-162.25006441828663, 73.0, -216.71468893497234)
+2015-05-23 02:22:35 [INFO] Javeria joined the game
+2015-05-23 02:22:39 [INFO] <usman> kyun
+2015-05-23 02:24:32 [INFO] <Javeria> mri game nhi chal rhi bht slow slow move ker rha ha
+2015-05-23 02:25:11 [INFO] <usman> kya karun ?
+2015-05-23 02:25:21 [INFO] <Javeria> ho gya ha sai
+2015-05-23 02:26:41 [INFO] <Javeria> manay abhi dough bnai ti ap nay uthai ha?
+2015-05-23 02:26:50 [INFO] <usman> ni
+2015-05-23 02:27:35 [INFO] <usman> bed
+2015-05-23 02:28:56 [INFO] <Javeria> soybena to park ki jga nhi use ho rhi
+2015-05-23 02:29:19 [INFO] <usman> slik tofu ko dubara rakho
+2015-05-23 02:29:23 [INFO] <usman> tofu use ho gi
+2015-05-23 02:29:35 [INFO] <Javeria> yeh kya chiz ha?
+2015-05-23 02:30:27 [INFO] <Javeria> jya use hi?
+2015-05-23 02:30:48 [INFO] <Javeria> kya use kerun pork ki jga?
+2015-05-23 02:31:48 [INFO] <Javeria> yeh kasay use keun?
+2015-05-23 02:31:53 [INFO] <Javeria> yeh b nhi lag rha
+2015-05-23 02:33:29 [INFO] <Javeria> hello?
+2015-05-23 02:33:39 [INFO] <usman> ni use ho rha :(
+2015-05-23 02:33:53 [INFO] <Javeria> ab phir?
+2015-05-23 02:34:00 [INFO] <Javeria> chekien try keun?
+2015-05-23 02:34:47 [INFO] <Javeria> ab phir pizza nahi ban sakta?
+2015-05-23 02:34:57 [INFO] <usman> ni :(
+2015-05-23 02:36:24 [INFO] <Javeria> pani kahan ban rha ha?
+2015-05-23 02:36:37 [INFO] <usman> ider
+2015-05-23 02:36:51 [INFO] <Javeria> kahan ja rha ha?
+2015-05-23 02:38:37 [INFO] <usman> bed
+2015-05-23 02:39:17 [INFO] <Javeria> aa jao
+2015-05-23 02:40:34 [INFO] <Javeria> ap nay btaya nahi jan pani kahan ja rha ha?
+2015-05-23 02:40:40 [INFO] <Javeria> ma kasay lungi bottle
+2015-05-23 02:41:21 [INFO] <Javeria> :(
+2015-05-23 02:41:26 [INFO] <Javeria> :)
+2015-05-23 02:50:46 [INFO] <usman> bed
+2015-05-23 02:54:29 [INFO] <usman> nida sy bat ho rhi the :)
+2015-05-23 02:54:43 [INFO] <Javeria> :) kua keh rhi thi :)
+2015-05-23 02:54:50 [INFO] <usman> sari suna rhi the :)
+2015-05-23 02:55:05 [INFO] <usman> kah rhi the omar bohat acha ha bohat khyal rakhta ha
+2015-05-23 02:55:19 [INFO] <Javeria> :)
+2015-05-23 02:55:47 [INFO] <Javeria> life partener caring ho to life achi ho jati ha
+2015-05-23 02:56:01 [INFO] <Javeria> MA lucky ha woh :)
+2015-05-23 02:56:12 [INFO] <usman> :) g
+2015-05-23 02:57:30 [INFO] <usman> ye lo
+2015-05-23 02:58:09 [INFO] <Javeria> pani kahan lagaon yeh pehan k
+2015-05-23 02:58:12 [INFO] <usman> ooo:(
+2015-05-23 02:58:23 [INFO] <usman> pass rakho lo
+2015-05-23 02:58:33 [INFO] <usman> jab blaon sy larna ho to pahan lyna
+2015-05-23 02:58:34 [INFO] <Javeria> :)
+2015-05-23 02:58:45 [INFO] <Javeria> ma or balaon say :P
+2015-05-23 02:58:47 [INFO] <Javeria> hehehee
+2015-05-23 02:58:57 [INFO] <usman> lol
+2015-05-23 02:59:10 [INFO] <usman> ma quest karta hun
+2015-05-23 02:59:16 [INFO] <usman> ap kya kar rhi ho
+2015-05-23 02:59:26 [INFO] <Javeria> ma khana hi dekh rhi hun :P
+2015-05-23 03:02:11 [INFO] <Javeria> brf
+2015-05-23 03:02:24 [INFO] <Javeria> ved
+2015-05-23 03:11:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-05-23 03:22:09 [INFO] <usman> bed
+2015-05-23 03:25:18 [INFO] <usman> maza a rha ha khany bnany my :)
+2015-05-23 03:25:33 [INFO] <Javeria> g bht
+2015-05-23 03:33:11 [INFO] <usman> bed
+2015-05-23 03:33:40 [INFO] <Javeria> namaz ka time honay wala ha
+2015-05-23 03:33:53 [INFO] <Javeria> 5 mint bad bus kertay
+2015-05-23 03:34:28 [INFO] <usman> ok
+2015-05-23 03:37:39 [INFO] Javeria lost connection: disconnect.genericReason
+2015-05-23 03:37:39 [INFO] Javeria left the game
+2015-05-23 03:39:15 [INFO] usman lost connection: disconnect.quitting
+2015-05-23 03:39:15 [INFO] usman left the game
+2015-05-23 03:39:23 [INFO] Stopping server
+2015-05-23 03:39:23 [INFO] Saving players
+2015-05-23 03:39:23 [INFO] Saving worlds
+2015-05-23 03:39:23 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-05-23 03:39:23 [INFO] Closing listening thread
+2015-05-23 03:39:23 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-05-23 03:39:23 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-05-23 03:39:23 [INFO] Stopping server
+2015-05-23 03:39:23 [INFO] Saving players
+2015-05-24 23:51:00 [INFO] Starting minecraft server version 1.6.4
+2015-05-24 23:51:16 [INFO] Loading properties
+2015-05-24 23:51:16 [INFO] Default game type: SURVIVAL
+2015-05-24 23:51:16 [INFO] Generating keypair
+2015-05-24 23:51:16 [INFO] Starting Minecraft server on *:25565
+2015-05-24 23:51:16 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-05-24 23:51:16 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-05-24 23:51:16 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-05-24 23:51:16 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-05-24 23:51:23 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-05-24 23:51:24 [INFO] Preparing start region for level 0
+2015-05-24 23:51:25 [INFO] Done (1.060s)! For help, type "help" or "?"
+2015-05-25 00:00:24 [SEVERE] Reached end of stream for /198.144.105.108
+2015-05-25 00:00:57 [SEVERE] Reached end of stream for /198.144.105.108
+2015-05-25 00:00:57 [INFO] Javeria [/198.144.105.108:55274] lost connection
+2015-05-25 00:01:00 [SEVERE] Reached end of stream for /198.144.105.108
+2015-05-25 00:01:10 [INFO] Javeria[/198.144.105.108:55279] logged in with entity id 165 at (-163.09956803519745, 73.0, -217.13354746975946)
+2015-05-25 00:01:10 [INFO] Javeria joined the game
+2015-05-25 00:03:50 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-25 00:03:54 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-25 00:03:56 [INFO] usman[/127.0.0.1:53521] logged in with entity id 56267 at (-157.68362579006904, 73.0, -232.4444676810664)
+2015-05-25 00:03:56 [INFO] usman joined the game
+2015-05-25 00:04:21 [INFO] <usman> hi
+2015-05-25 00:04:29 [INFO] <Javeria> :) hello
+2015-05-25 00:06:59 [INFO] <Javeria> yeh kya ha?
+2015-05-25 00:07:10 [INFO] <Javeria> pressure chamber :)
+2015-05-25 00:07:16 [INFO] <usman> g
+2015-05-25 00:09:07 [INFO] usman lost connection: disconnect.quitting
+2015-05-25 00:09:07 [INFO] usman left the game
+2015-05-25 00:10:36 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-25 00:10:38 [INFO] usman[/127.0.0.1:53541] logged in with entity id 321448 at (-156.402975813499, 73.0, -231.55555841486245)
+2015-05-25 00:10:38 [INFO] usman joined the game
+2015-05-25 00:10:44 [INFO] <Javeria> hello mri game hang ho rhi ha
+2015-05-25 00:11:01 [INFO] <usman> hang to lt ka masla ho ga
+2015-05-25 00:11:09 [INFO] <usman> ager lag ha to server ka hota ha
+2015-05-25 00:11:13 [INFO] <Javeria> server restart to nhihoga?
+2015-05-25 00:11:22 [INFO] <Javeria> mtlb ek hi chiz bar bar hui ja rhi ha
+2015-05-25 00:11:28 [INFO] <usman> kar deta hun us me koi masla ni
+2015-05-25 00:11:34 [INFO] <Javeria> ok
+2015-05-25 00:11:34 [INFO] <usman> ooo pher server ha
+2015-05-25 00:11:38 [INFO] <usman> ma karta hun
+2015-05-25 00:11:41 [INFO] usman lost connection: disconnect.quitting
+2015-05-25 00:11:41 [INFO] usman left the game
+2015-05-25 00:11:47 [INFO] Stopping server
+2015-05-25 00:11:47 [INFO] Saving players
+2015-05-25 00:11:47 [INFO] Closing listening thread
+2015-05-25 00:11:47 [INFO] Javeria left the game
+2015-05-25 00:11:47 [INFO] Saving worlds
+2015-05-25 00:11:47 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-05-25 00:11:47 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-05-25 00:11:47 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-05-25 00:11:47 [INFO] Stopping server
+2015-05-25 00:12:00 [INFO] Starting minecraft server version 1.6.4
+2015-05-25 00:12:22 [INFO] Loading properties
+2015-05-25 00:12:22 [INFO] Default game type: SURVIVAL
+2015-05-25 00:12:22 [INFO] Generating keypair
+2015-05-25 00:12:22 [INFO] Starting Minecraft server on *:25565
+2015-05-25 00:12:22 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-05-25 00:12:22 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-05-25 00:12:22 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-05-25 00:12:22 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-05-25 00:12:32 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-05-25 00:12:33 [SEVERE] Reached end of stream for /198.144.105.108
+2015-05-25 00:12:35 [INFO] Preparing start region for level 0
+2015-05-25 00:12:36 [INFO] Preparing spawn area: 17%
+2015-05-25 00:12:37 [INFO] Done (4.452s)! For help, type "help" or "?"
+2015-05-25 00:12:38 [INFO] /198.144.105.108:55430 lost connection
+2015-05-25 00:12:45 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-25 00:12:48 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-25 00:12:49 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-25 00:12:49 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-25 00:12:50 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-25 00:12:50 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-25 00:12:50 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-25 00:13:01 [SEVERE] Reached end of stream for /198.144.105.108
+2015-05-25 00:13:14 [INFO] Javeria[/198.144.105.108:55441] logged in with entity id 100 at (-130.46864432777878, 73.0, -199.55548256253067)
+2015-05-25 00:13:14 [INFO] Javeria joined the game
+2015-05-25 00:15:13 [INFO] <Javeria> bed
+2015-05-25 00:16:44 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-25 00:16:46 [INFO] usman[/127.0.0.1:53567] logged in with entity id 129855 at (-151.53470425739846, 74.0, -213.56573309061952)
+2015-05-25 00:16:46 [INFO] usman joined the game
+2015-05-25 00:17:03 [INFO] <usman> do mint ma ata hun seting kar lun
+2015-05-25 00:17:40 [INFO] <usman> kya kar rhi ho
+2015-05-25 00:17:57 [INFO] <Javeria> hmmm patay tor k laio hun
+2015-05-25 00:18:15 [INFO] <usman> oo ok ye kam b bohat jald auto ho jay ga :)
+2015-05-25 00:18:35 [INFO] <Javeria> waakkai ":)
+2015-05-25 00:18:40 [INFO] <usman> yep:)
+2015-05-25 00:20:58 [INFO] <usman> kya khao :)
+2015-05-25 00:21:15 [INFO] <Javeria> :)
+2015-05-25 00:21:19 [INFO] <usman> or
+2015-05-25 00:22:26 [INFO] <Javeria> ab ma zada bhuk fulfill krnay wala bnao gi :P tab mja pta nahi tha
+2015-05-25 00:22:55 [INFO] <usman> hehe ma ny kaha ap ko maza a rha ha is liy ni btaya
+2015-05-25 00:23:11 [INFO] <usman> shift daba k khany k uper rakho to nichy ata ha kinta full kary ga
+2015-05-25 00:23:25 [INFO] <Javeria> mja mza to wakai aya per pta late chala k yeh to kam nhi sai :P
+2015-05-25 00:26:48 [INFO] <Javeria> bed
+2015-05-25 00:27:21 [INFO] <Javeria> acha sub say zada konsa hota ha? meal wala
+2015-05-25 00:27:24 [INFO] <Javeria> aa jao
+2015-05-25 00:27:27 [INFO] <Javeria> rat ho hai
+2015-05-25 00:28:13 [INFO] <Javeria> hello
+2015-05-25 00:28:20 [INFO] <Javeria> sub say zada konsa sai ha?
+2015-05-25 00:28:22 [INFO] <usman> well piza hota ha
+2015-05-25 00:28:32 [INFO] <usman> per us k bad sanwitches
+2015-05-25 00:28:39 [INFO] <usman> jo k ma ny sary bana diy han almost:)
+2015-05-25 00:28:46 [INFO] <usman> ab bergers b hoty han
+2015-05-25 00:28:54 [INFO] <Javeria> nhi or b bht kuch ha :) ma bnati hun :)
+2015-05-25 00:29:55 [INFO] <Javeria> ab yeh snacks wala kkhtm krna jaldi phir mra pas or jga hogi new bnanay k liay
+2015-05-25 00:30:31 [INFO] <usman> kya khatam karna ha :)
+2015-05-25 00:30:54 [INFO] <Javeria> left side wala sub
+2015-05-25 00:31:04 [INFO] <usman> soups to achy hoty han
+2015-05-25 00:31:18 [INFO] <Javeria> pancakes
+2015-05-25 00:31:21 [INFO] <Javeria> apple pie
+2015-05-25 00:31:46 [INFO] <Javeria> mja raw fish chaiay :(
+2015-05-25 00:31:52 [INFO] <Javeria> mnay sari pka li
+2015-05-25 00:31:53 [INFO] <usman> ider ho ge
+2015-05-25 00:31:57 [INFO] <Javeria> oay mri kiss ley li :P
+2015-05-25 00:32:12 [INFO] <usman> ni ha:(
+2015-05-25 00:32:20 [INFO] <Javeria> hmmm :(
+2015-05-25 00:32:27 [INFO] <usman> ider ha ak
+2015-05-25 00:32:54 [INFO] <Javeria> kidher
+2015-05-25 00:33:49 [INFO] <Javeria> ab khanan ap nay nahi bnana :P
+2015-05-25 00:33:52 [INFO] <Javeria> ma hi bnao gi
+2015-05-25 00:34:27 [INFO] <usman> ok :)
+2015-05-25 00:35:26 [INFO] <Javeria> hello snowball militi ha kahin say?
+2015-05-25 00:35:43 [INFO] <usman> abi ni mil sakti agy ja k mily ge
+2015-05-25 00:39:47 [INFO] <usman> bed
+2015-05-25 00:41:31 [INFO] <usman> apple han 4??
+2015-05-25 00:51:03 [INFO] <usman> bed
+2015-05-25 00:51:42 [INFO] <Javeria> mja opposite side may mirror lga k den din ka pta nahi chlata
+2015-05-25 00:52:01 [INFO] <usman> kitchn my
+2015-05-25 00:52:11 [INFO] <Javeria> g
+2015-05-25 00:52:26 [INFO] <usman> glass per shelfs ni kagti
+2015-05-25 00:52:36 [INFO] <Javeria> ohhhh
+2015-05-25 00:53:00 [INFO] <usman> ye lo
+2015-05-25 00:53:16 [INFO] <Javeria> :)
+2015-05-25 00:53:20 [INFO] <Javeria> fit ha
+2015-05-25 00:58:47 [INFO] <Javeria> hello hamen animals kab milengay?
+2015-05-25 00:58:59 [INFO] <usman> agy ja k :P
+2015-05-25 00:59:13 [INFO] <usman> jab hum machins bnana start karen gy
+2015-05-25 00:59:17 [INFO] <usman> ma usi per kam kar rha hun
+2015-05-25 00:59:22 [INFO] <Javeria> :)
+2015-05-25 00:59:27 [INFO] <usman> ye sub se main kam ha automation k liy
+2015-05-25 01:01:14 [INFO] <usman> spider eye ha ??
+2015-05-25 01:01:22 [INFO] <Javeria> nhi
+2015-05-25 01:01:48 [INFO] <usman> bed
+2015-05-25 01:03:45 [INFO] <usman> quest complete hui han un ka reward ly k ider rakh do is chest my
+2015-05-25 01:04:45 [INFO] <Javeria> konsi complete hui ha
+2015-05-25 01:04:49 [INFO] <Javeria> mja to koi nahi show ho rhi
+2015-05-25 01:05:04 [INFO] <usman> under pressure my jao
+2015-05-25 01:05:55 [INFO] <Javeria> machine upgarege seed lena ha?
+2015-05-25 01:06:07 [INFO] <usman> upgrade
+2015-05-25 01:06:49 [INFO] <Javeria> item duct or reward bag?
+2015-05-25 01:07:00 [INFO] <usman> reward bag
+2015-05-25 01:07:45 [INFO] <usman> helmet ap k pass a gya ha wapis karna
+2015-05-25 01:08:18 [INFO] <usman> bs ye mila ha
+2015-05-25 01:08:24 [INFO] <Javeria> g
+2015-05-25 01:13:15 [INFO] <Javeria> hello kitchen k left wali jga ma ley ;un
+2015-05-25 01:13:21 [INFO] <usman> g
+2015-05-25 01:13:24 [INFO] <Javeria> mja wahan blocks bna k apni sabzian lagani ha
+2015-05-25 01:13:38 [INFO] <usman> ok
+2015-05-25 01:15:27 [INFO] <Javeria> hello per u pani ka masla parega na?
+2015-05-25 01:15:30 [INFO] <Javeria> dekhna zra
+2015-05-25 01:15:53 [INFO] <usman> ni sai ha
+2015-05-25 01:15:54 [INFO] <Javeria> mja is tra ka bnana ha per pani ka masla kasay thik krun
+2015-05-25 01:16:55 [INFO] <Javeria> or matti kasay milegi?
+2015-05-25 01:17:13 [INFO] <usman> usi tarhan jasy pahly milti the
+2015-05-25 01:18:12 [INFO] <Javeria> woh to ab ap nay automatic ker diya ha
+2015-05-25 01:18:20 [INFO] <usman> ni wo ye ha
+2015-05-25 01:18:29 [INFO] <usman> ma ne dirt banny wali machine he bnai the
+2015-05-25 01:18:31 [INFO] <Javeria> yeh separate ha ?
+2015-05-25 01:18:37 [INFO] <usman> pani to hum khud bnaty the yad ha
+2015-05-25 01:18:44 [INFO] <usman> ma ne pani kia ha auto matic
+2015-05-25 01:18:52 [INFO] <usman> is me leaves rakho dirt ban jay ge
+2015-05-25 01:18:52 [INFO] <Javeria> g yad ha mra matlb yeh separate ha na?
+2015-05-25 01:18:57 [INFO] <Javeria> us say to nhi
+2015-05-25 01:19:01 [INFO] <Javeria> ok
+2015-05-25 01:23:53 [INFO] <Javeria> bacaho
+2015-05-25 01:24:09 [INFO] <usman> bed
+2015-05-25 01:24:31 [INFO] <Javeria> tyeh ap itnay achay kamray kasay
+2015-05-25 01:24:33 [INFO] <Javeria> ?
+2015-05-25 01:24:54 [INFO] <usman> kya ?
+2015-05-25 01:25:05 [INFO] <Javeria> kapray?
+2015-05-25 01:30:10 [INFO] <Javeria> yeh kam safe nahi ha
+2015-05-25 01:30:11 [INFO] <Javeria> :(
+2015-05-25 01:30:19 [INFO] <usman> ma dekhta hun
+2015-05-25 01:35:05 [INFO] <usman> bed
+2015-05-25 01:35:24 [INFO] <Javeria> game phir slow ho gai
+2015-05-25 01:35:33 [INFO] <usman> :(
+2015-05-25 01:39:52 [INFO] <Javeria> hello pani ka aaragne ker den yahan
+2015-05-25 01:40:14 [INFO] <Javeria> waoooo :) so intelligent
+2015-05-25 01:40:16 [INFO] <Javeria> :P
+2015-05-25 01:42:56 [INFO] <Javeria> ma karun yeh kam
+2015-05-25 01:43:00 [INFO] <Javeria> :P
+2015-05-25 01:43:12 [INFO] <usman> sand bnani ha
+2015-05-25 01:43:33 [INFO] <Javeria> dust tor k b sand banti ha na?
+2015-05-25 01:43:43 [INFO] <usman> gravel
+2015-05-25 01:45:03 [INFO] <Javeria> yeh lo jan
+2015-05-25 01:45:16 [INFO] <usman> do
+2015-05-25 01:45:32 [INFO] <Javeria> asay kam mja kaha kro :P
+2015-05-25 01:45:56 [INFO] <usman> bed
+2015-05-25 01:46:54 [INFO] <Javeria> oay ap nay ker diya :)
+2015-05-25 01:54:36 [INFO] <Javeria> mri cehst kahan gai?
+2015-05-25 01:54:49 [INFO] <usman> ye ha
+2015-05-25 01:56:26 [INFO] <Javeria> hello woh ap pani k upar rakhtay thay na k ander na girn
+2015-05-25 01:56:32 [INFO] <Javeria> woh kasay rakhtay han?
+2015-05-25 01:57:13 [INFO] <usman> ma akrta hun
+2015-05-25 01:57:22 [INFO] <Javeria> k
+2015-05-25 01:57:29 [INFO] <Javeria> ma b sikhugi
+2015-05-25 01:58:00 [INFO] <Javeria> lakri
+2015-05-25 01:59:17 [INFO] <usman> lagao
+2015-05-25 02:01:34 [INFO] <Javeria> mra pasakhtm
+2015-05-25 02:02:08 [INFO] <Javeria> haw ma nay ghalat lga di
+2015-05-25 02:02:57 [INFO] <usman> pichy ho k lagao na
+2015-05-25 02:03:03 [INFO] <Javeria> jan restart krna
+2015-05-25 02:03:06 [INFO] <Javeria> mri lag kr rhi ha
+2015-05-25 02:03:30 [INFO] <usman> ab bus band karty han
+2015-05-25 02:03:48 [INFO] <Javeria> yeh chalta reh skta ha?
+2015-05-25 02:03:56 [INFO] <Javeria> mja bus yeh farm complete kerna ha
+2015-05-25 02:04:48 [INFO] <usman> ni mac per ha or ye sleep ho jata ha
+2015-05-25 02:04:53 [INFO] <usman> kitna time ha ap kar lo
+2015-05-25 02:04:58 [INFO] <Javeria> acha 5 mint
+2015-05-25 02:05:07 [INFO] <Javeria> ap bath say ho ao utni dare
+2015-05-25 02:05:11 [INFO] <Javeria> phir band ker dena
+2015-05-25 02:05:18 [INFO] <usman> ok
+2015-05-25 02:08:05 [INFO] <usman> no bed
+2015-05-25 02:08:11 [INFO] <Javeria> no
+2015-05-25 02:08:13 [INFO] <usman> mujy spiders chaiy
+2015-05-25 02:14:51 [INFO] <usman> bed
+2015-05-25 02:20:24 [INFO] <usman> pani kam ho gya ha
+2015-05-25 02:20:31 [INFO] <Javeria> h
+2015-05-25 02:20:36 [INFO] <Javeria> patay la rhi hun
+2015-05-25 02:26:18 [INFO] <usman> tbed
+2015-05-25 02:26:40 [INFO] <Javeria> chalen ab sotay han
+2015-05-25 02:26:46 [INFO] <Javeria> thnx
+2015-05-25 02:27:13 [INFO] <usman> do mint ma ye kar lun
+2015-05-25 02:27:24 [INFO] <Javeria> 10 mint ley len "P
+2015-05-25 02:27:31 [INFO] <Javeria> bta dena matab tak sandwich bna lun
+2015-05-25 02:28:38 [INFO] <usman> chalo
+2015-05-25 02:28:45 [INFO] <Javeria> kahan
+2015-05-25 02:28:50 [INFO] <usman> sony
+2015-05-25 02:28:58 [INFO] <Javeria> avho to din ha
+2015-05-25 02:29:00 [INFO] <usman> :)
+2015-05-25 02:29:07 [INFO] <Javeria> oj
+2015-05-25 02:29:10 [INFO] <Javeria> acha
+2015-05-25 02:29:13 [INFO] <Javeria> woh wala
+2015-05-25 02:29:50 [INFO] <Javeria> chalaen band kertay han
+2015-05-25 02:29:56 [INFO] <usman> bye:)
+2015-05-25 02:30:08 [INFO] usman lost connection: disconnect.quitting
+2015-05-25 02:30:08 [INFO] usman left the game
+2015-05-25 02:30:10 [INFO] <Javeria> :) Bye Bye
+2015-05-25 02:30:14 [INFO] Javeria lost connection: disconnect.quitting
+2015-05-25 02:30:14 [INFO] Javeria left the game
+2015-05-25 02:30:21 [INFO] Stopping server
+2015-05-25 02:30:21 [INFO] Saving players
+2015-05-25 02:30:21 [INFO] Saving worlds
+2015-05-25 02:30:21 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-05-25 02:30:21 [INFO] Closing listening thread
+2015-05-25 02:30:21 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-05-25 02:30:21 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-05-25 02:30:21 [INFO] Stopping server
+2015-05-25 02:30:21 [INFO] Saving players
+2015-05-30 21:33:01 [INFO] Starting minecraft server version 1.6.4
+2015-05-30 21:33:17 [INFO] Loading properties
+2015-05-30 21:33:17 [INFO] Default game type: SURVIVAL
+2015-05-30 21:33:17 [INFO] Generating keypair
+2015-05-30 21:33:17 [INFO] Starting Minecraft server on *:25565
+2015-05-30 21:33:17 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-05-30 21:33:17 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-05-30 21:33:17 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-05-30 21:33:17 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-05-30 21:33:25 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-05-30 21:33:26 [INFO] Preparing start region for level 0
+2015-05-30 21:33:27 [INFO] Done (2.188s)! For help, type "help" or "?"
+2015-05-30 21:33:50 [INFO] Stopping server
+2015-05-30 21:33:50 [INFO] Saving players
+2015-05-30 21:33:50 [INFO] Saving worlds
+2015-05-30 21:33:50 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Overworld
+2015-05-30 21:33:50 [INFO] Closing listening thread
+2015-05-30 21:33:51 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/Nether
+2015-05-30 21:33:51 [INFO] Saving chunks for level 'Crash Landing 1_1_3_T1'/The End
+2015-05-30 21:33:51 [INFO] Stopping server
+2015-05-30 21:34:32 [INFO] Starting minecraft server version 1.6.4
+2015-05-30 21:34:45 [INFO] Loading properties
+2015-05-30 21:34:45 [INFO] Default game type: SURVIVAL
+2015-05-30 21:34:45 [INFO] Generating keypair
+2015-05-30 21:34:45 [INFO] Starting Minecraft server on *:25565
+2015-05-30 21:34:45 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-05-30 21:34:45 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-05-30 21:34:45 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-05-30 21:34:45 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-05-30 21:34:49 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-05-30 21:34:49 [INFO] Preparing start region for level 0
+2015-05-30 21:34:50 [INFO] Done (1.146s)! For help, type "help" or "?"
+2015-05-30 21:41:18 [SEVERE] Reached end of stream for /39.42.200.59
+2015-05-30 21:44:17 [INFO] Javeria[/39.42.200.59:50230] logged in with entity id 148 at (-144.02364328786214, 73.0, -234.69999998807907)
+2015-05-30 21:44:17 [INFO] Javeria joined the game
+2015-05-30 21:44:17 [WARNING] Fetching addPacket for removed entity
+2015-05-30 21:44:18 [WARNING] Fetching addPacket for removed entity
+2015-05-30 21:44:33 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-30 21:51:03 [INFO] <Javeria> heelo
+2015-05-30 21:54:42 [INFO] usman[/127.0.0.1:61215] logged in with entity id 319137 at (-143.93900669662636, 73.0, -218.99456709908935)
+2015-05-30 21:54:42 [INFO] usman joined the game
+2015-05-30 21:59:01 [INFO] <usman> bed
+2015-05-30 22:01:08 [INFO] <Javeria> hello  mushroom kasay lagtay han
+2015-05-30 22:01:25 [INFO] <usman> humary pass han ?
+2015-05-30 22:01:30 [INFO] <Javeria> g
+2015-05-30 22:01:35 [INFO] <usman> or un k liy andhera chay hota hai
+2015-05-30 22:01:42 [INFO] <usman> or wo khudi phalty han
+2015-05-30 22:01:42 [INFO] <Javeria> thmmmm
+2015-05-30 22:01:53 [INFO] <Javeria> phir kahan lagaen?
+2015-05-30 22:01:54 [INFO] <usman> kya thmmm
+2015-05-30 22:02:01 [INFO] <Javeria> balaen marti han to mushroom miltay han wasa
+2015-05-30 22:02:12 [INFO] <usman> han wo b ha
+2015-05-30 22:10:38 [INFO] <Javeria> bed
+2015-05-30 22:10:56 [INFO] <Javeria> late
+2015-05-30 22:13:30 [INFO] <Javeria> HELLO WHEAT KAHAN SAY MILTI HA?
+2015-05-30 22:13:45 [INFO] <usman> grass
+2015-05-30 22:14:38 [INFO] <Javeria> WOH LEY LEN
+2015-05-30 22:15:48 [INFO] <usman> ye seeds uthao na
+2015-05-30 22:15:59 [INFO] <Javeria> ati hn jga full ha
+2015-05-30 22:21:39 [INFO] <usman> bed
+2015-05-30 22:21:51 [INFO] <usman> ye lo weat
+2015-05-30 22:22:11 [INFO] <Javeria> do
+2015-05-30 22:22:30 [INFO] <usman> usi chest me rakha ha
+2015-05-30 22:23:28 [INFO] <usman> jis ka nim sirf seed ha na wo ha weat
+2015-05-30 22:26:36 [INFO] <Javeria> mja nhi mil rhi wheat
+2015-05-30 22:27:02 [INFO] <Javeria> mri wheat
+2015-05-30 22:27:19 [INFO] <usman> ye to am minecraft me b hoti ha
+2015-05-30 22:33:42 [INFO] <usman> bed
+2015-05-30 22:36:39 [INFO] <Javeria> hello is corner may lights lga den
+2015-05-30 22:36:46 [INFO] <Javeria> oor mati bnanay wali machine kahan gai?
+2015-05-30 22:37:06 [INFO] <Javeria> or hoe lakri ki bnaon?
+2015-05-30 22:37:15 [INFO] <usman> ni
+2015-05-30 22:37:22 [INFO] <usman> matock use kar
+2015-05-30 22:37:29 [INFO] <usman> bhol gai
+2015-05-30 22:37:42 [INFO] <Javeria> g:P
+2015-05-30 22:41:19 [INFO] <Javeria> mujsay covre ki recipe nhi mil rhi
+2015-05-30 22:42:11 [INFO] <usman> kon sa cover
+2015-05-30 22:42:21 [INFO] <Javeria> yeh jo pani k upar rakha huwa ha
+2015-05-30 22:42:29 [INFO] <usman> ao ma btao
+2015-05-30 22:43:07 [INFO] <usman> ari ha ye
+2015-05-30 22:43:17 [INFO] <usman> is se kato to choty hoty jaty han:)
+2015-05-30 22:43:22 [INFO] <Javeria> mja nazar nahi aa rhi thi dark huwa huwa tha
+2015-05-30 22:44:32 [INFO] <Javeria> :) thnx
+2015-05-30 22:44:55 [INFO] <usman> bed
+2015-05-30 22:56:07 [INFO] <usman> bed
+2015-05-30 23:03:56 [INFO] <Javeria> iron chaiay mja
+2015-05-30 23:04:11 [INFO] <usman> uder tha na
+2015-05-30 23:04:16 [INFO] <Javeria> kidher
+2015-05-30 23:04:24 [INFO] <usman> fernace wali chest my
+2015-05-30 23:05:01 [INFO] <usman> sanwiches end ho rhy han baz
+2015-05-30 23:05:22 [INFO] <Javeria> g mja pta ha fikar n karen pani ka kam krtay hi bnati hun sara
+2015-05-30 23:06:46 [INFO] <usman> bed
+2015-05-30 23:09:37 [INFO] <Javeria> hello yeh fish wala khana ma nay special ap k liay bnaya :)
+2015-05-30 23:10:05 [INFO] <usman> fish and chips?
+2015-05-30 23:10:18 [INFO] <Javeria> yep
+2015-05-30 23:12:58 [INFO] <Javeria> hello refill kertay wkat bottle ek kum par jati ha
+2015-05-30 23:13:09 [INFO] <Javeria> mtlb 4 hon to 3 reh jati han pani bhar k
+2015-05-30 23:13:32 [INFO] <usman> yani ak khali hoti ha
+2015-05-30 23:13:46 [INFO] <Javeria> nhi sirf 3 reh jati han
+2015-05-30 23:13:49 [INFO] <Javeria> ek ghaba
+2015-05-30 23:13:52 [INFO] <Javeria> ghayab
+2015-05-30 23:17:43 [INFO] <usman> bed
+2015-05-30 23:18:09 [INFO] <usman> bed
+2015-05-30 23:18:44 [INFO] <usman> ak skelton ander ha
+2015-05-30 23:19:21 [INFO] <Javeria> jao mra shair maar k ao
+2015-05-30 23:19:23 [INFO] <Javeria> :P
+2015-05-30 23:20:01 [INFO] <Javeria> hello apple tree nhi ban skta?
+2015-05-30 23:20:10 [INFO] <usman> bn sakta ha
+2015-05-30 23:20:17 [INFO] <usman> apple k sat ak sapling rakho
+2015-05-30 23:20:20 [INFO] <Javeria> ban gya
+2015-05-30 23:20:31 [INFO] <Javeria> kahan lagaon?
+2015-05-30 23:21:06 [INFO] <usman> ider
+2015-05-30 23:21:13 [INFO] <Javeria> mati?
+2015-05-30 23:21:37 [INFO] <Javeria> matiii????
+2015-05-30 23:21:42 [INFO] <usman> ni ha
+2015-05-30 23:21:50 [INFO] <Javeria> kasay banaon ab?
+2015-05-30 23:22:04 [INFO] <usman> bhool gai
+2015-05-30 23:22:15 [INFO] <Javeria> yad ha per na basket ha or na purani machine
+2015-05-30 23:22:18 [INFO] <Javeria> ab?
+2015-05-30 23:22:43 [INFO] <usman> is my bana lo
+2015-05-30 23:23:15 [INFO] <Javeria> thank
+2015-05-30 23:26:33 [INFO] <Javeria> ma thikkkk
+2015-05-30 23:26:34 [INFO] <Javeria> :)
+2015-05-30 23:26:37 [INFO] <Javeria> ohh
+2015-05-30 23:26:39 [INFO] <Javeria> woh thik
+2015-05-30 23:26:51 [INFO] <Javeria> nhi ab to parhai kar rh haha
+2015-05-30 23:26:59 [INFO] <Javeria> g
+2015-05-30 23:27:05 [INFO] <Javeria> nhi jata ha
+2015-05-30 23:28:20 [INFO] <Javeria> chal rha ha
+2015-05-30 23:28:25 [INFO] <Javeria> per lhr bht garam ha
+2015-05-30 23:31:43 [INFO] <Javeria> gbulbble kha rhi hun
+2015-05-30 23:31:46 [INFO] <Javeria> w
+2015-05-30 23:32:17 [INFO] <Javeria> kya?
+2015-05-30 23:32:23 [INFO] <Javeria> nhi :)
+2015-05-30 23:32:28 [INFO] <Javeria> mun patla rehta ha
+2015-05-30 23:32:30 [INFO] <Javeria> exercise
+2015-05-30 23:32:41 [INFO] <Javeria> kia ha us may/
+2015-05-30 23:33:12 [INFO] <Javeria> waooo\
+2015-05-30 23:33:18 [INFO] <Javeria> amazing
+2015-05-30 23:33:31 [INFO] <Javeria> abi kero send
+2015-05-30 23:33:36 [INFO] <Javeria> ipad pay install kerti hun
+2015-05-30 23:33:37 [INFO] <Javeria> :P
+2015-05-30 23:35:14 [INFO] <Javeria> yep
+2015-05-30 23:36:30 [INFO] <Javeria> fit
+2015-05-30 23:36:37 [INFO] <Javeria> per yeh kya kam ha/?
+2015-05-30 23:37:17 [INFO] <Javeria> g
+2015-05-30 23:37:28 [INFO] <Javeria> apko mri awaz nhi a rh i thi?
+2015-05-30 23:41:51 [INFO] <Javeria> abhi ap bna len ma khana bna lun
+2015-05-30 23:42:40 [INFO] <Javeria> ap bna len
+2015-05-30 23:42:45 [INFO] <Javeria> ma khana bna lun
+2015-05-30 23:42:49 [INFO] <Javeria> msg nhi mil rha?
+2015-05-30 23:44:56 [INFO] <Javeria> msg nhi mil rhay apko
+2015-05-30 23:44:57 [INFO] <Javeria> :p
+2015-05-30 23:46:24 [INFO] <Javeria> hahahahaaa
+2015-05-30 23:47:36 [INFO] <Javeria> sun rhi hun
+2015-05-31 00:15:26 [INFO] <Javeria> haaaaaaaaaaannnnnnn
+2015-05-31 00:15:30 [INFO] <Javeria> ma to bhul hi gsi
+2015-05-31 00:15:33 [INFO] <Javeria> :(
+2015-05-31 00:15:48 [INFO] <Javeria> g
+2015-05-31 00:18:26 [INFO] <Javeria> baki sub chota hi ho rha ha
+2015-05-31 00:18:29 [INFO] <Javeria> bus bhook lag rhi ha
+2015-05-31 00:18:59 [INFO] <Javeria> aaj ma nay takriban 600 cal
+2015-05-31 00:24:25 [INFO] <Javeria> na karo diet ker ker k halat tight ho gai ha
+2015-05-31 00:24:30 [INFO] <Javeria> oi nhi mja diet suit kerti
+2015-05-31 00:24:42 [INFO] <Javeria> dheet hadi hun max exercise kerni parti ha
+2015-05-31 00:24:48 [INFO] <Javeria> i know jan
+2015-05-31 00:25:02 [INFO] <Javeria> :(
+2015-05-31 00:34:14 [INFO] <Javeria> ma nay khuab may dekhi ha bri oiari :P ufffffff
+2015-05-31 00:34:31 [INFO] <Javeria> nhi
+2015-05-31 00:34:36 [INFO] <Javeria> ma ku ksi ki pehnu
+2015-05-31 00:34:39 [INFO] <Javeria> nhi
+2015-05-31 00:34:43 [INFO] <Javeria> apni apni nighty
+2015-05-31 00:34:52 [INFO] <Javeria> ma karo k mamlay may wehmi hun
+2015-05-31 00:37:40 [INFO] <Javeria> hansi han mama
+2015-05-31 00:37:44 [INFO] <Javeria> still hans rhi ha
+2015-05-31 00:37:54 [INFO] <Javeria> ab chup ker k hans rhi han
+2015-05-31 00:37:57 [INFO] <Javeria> thi
+2015-05-31 00:40:09 [INFO] <Javeria> ma bhi koi task dekhti hun ab
+2015-05-31 00:40:13 [INFO] <Javeria> nhi kiss nhi deni ma nay
+2015-05-31 00:40:15 [INFO] <Javeria> :P
+2015-05-31 00:40:47 [INFO] <Javeria> kya?
+2015-05-31 00:43:06 [INFO] <Javeria> itni zadaaa bhuk lagi hui ha:(
+2015-05-31 00:43:20 [INFO] <Javeria> mja pait bar bar kahi ja rha ha :P
+2015-05-31 00:43:43 [INFO] <Javeria> ma nay baingan khaey thay
+2015-05-31 00:43:56 [INFO] <Javeria> g
+2015-05-31 00:44:13 [INFO] <Javeria> brown bread may bhi same hi calories hotay han
+2015-05-31 00:46:40 [INFO] <Javeria> kya?
+2015-05-31 00:49:28 [INFO] <Javeria> yeh lo
+2015-05-31 00:51:15 [INFO] <Javeria> hello gold ingot kasay banti ha?
+2015-05-31 00:51:39 [INFO] <Javeria> ma kuch pighlati hun woh sir jata ha
+2015-05-31 00:52:44 [INFO] <Javeria> wool?
+2015-05-31 00:53:57 [INFO] <Javeria> hawww ma bhul k darakht katnay aa gai
+2015-05-31 00:53:59 [INFO] <Javeria> :P
+2015-05-31 00:54:04 [INFO] <Javeria> itni adat hui hui ha is kam ki
+2015-05-31 00:56:38 [INFO] <Javeria> woh full tha
+2015-05-31 00:56:45 [INFO] <Javeria> ma awi besti sun ker be dehani may aa gai
+2015-05-31 00:56:52 [INFO] <Javeria> woh full nhi hota kabhi bhi
+2015-05-31 00:59:43 [INFO] <Javeria> wool?
+2015-05-31 00:59:48 [INFO] <Javeria> kasay milegi?
+2015-05-31 01:01:42 [INFO] <Javeria> mja zada chaiay tha
+2015-05-31 01:01:51 [INFO] <Javeria> golden bag
+2015-05-31 01:02:04 [INFO] <Javeria> 29 bacahay han
+2015-05-31 01:03:01 [INFO] <Javeria> ksi bhi darakaht pay silkworm dal dun na
+2015-05-31 01:03:19 [INFO] <Javeria> g
+2015-05-31 01:03:23 [INFO] <Javeria> separagte hi lgaya ha
+2015-05-31 01:07:35 [INFO] <Javeria> ap speaker badn kero
+2015-05-31 01:07:40 [INFO] <Javeria> mri besti suni ja rhay han
+2015-05-31 01:07:42 [INFO] <Javeria> :P
+2015-05-31 01:07:55 [INFO] <Javeria> oayyyyy
+2015-05-31 01:07:56 [INFO] <Javeria> :(
+2015-05-31 01:08:02 [INFO] <Javeria> nhi besgti nhi ho rhi
+2015-05-31 01:08:04 [INFO] <Javeria> uutar den
+2015-05-31 01:08:12 [INFO] <Javeria> :"(
+2015-05-31 01:09:56 [INFO] <Javeria> sara whte honay dun phir torun?
+2015-05-31 01:13:34 [INFO] <Javeria> wools kasay banti ha?
+2015-05-31 01:13:50 [INFO] <Javeria> wool
+2015-05-31 01:15:02 [INFO] <Javeria> waoooo
+2015-05-31 01:15:46 [INFO] <Javeria> waoooooo
+2015-05-31 01:17:44 [INFO] <Javeria> reward ley len
+2015-05-31 01:18:18 [INFO] <Javeria> g whi liya ha
+2015-05-31 01:22:00 [INFO] <Javeria> sidhi hawa kan may lagiha :P
+2015-05-31 01:23:17 [INFO] <Javeria> 3 walay task ma complete kernay lagi hun
+2015-05-31 01:23:18 [INFO] <Javeria> thik ha
+2015-05-31 01:24:07 [INFO] <Javeria> phir or kuch na bnao?
+2015-05-31 01:24:13 [INFO] <Javeria> seared brock banni thi
+2015-05-31 01:25:43 [INFO] <Javeria> ender generator bna lun?
+2015-05-31 01:26:33 [INFO] <Javeria> nhi rakh rhi thi
+2015-05-31 01:26:39 [INFO] <Javeria> chizen cheri han fogi n hi
+2015-05-31 01:26:40 [INFO] <Javeria> :P
+2015-05-31 01:26:53 [INFO] <Javeria> asay kha na to ma apna ek or khod lungi
+2015-05-31 01:27:22 [INFO] <Javeria> yeh ku seprate han?
+2015-05-31 01:27:48 [INFO] <Javeria> ksiki
+2015-05-31 01:29:12 [INFO] <Javeria> ma banaogi
+2015-05-31 01:29:26 [INFO] <Javeria> nhi
+2015-05-31 01:29:32 [INFO] <Javeria> ma nay apni cchizen b rakhi thi yahan
+2015-05-31 01:29:39 [INFO] <Javeria> jo mja mili thi books say
+2015-05-31 01:31:18 [INFO] <Javeria> or ma sari mehnat zaya ker skti hun
+2015-05-31 01:31:19 [INFO] <Javeria> :P
+2015-05-31 01:32:33 [INFO] <Javeria> konsa generator bnana tha?
+2015-05-31 01:32:39 [INFO] <Javeria> to generator ban sakta ha
+2015-05-31 01:33:22 [INFO] <Javeria> yeh tut jaega?
+2015-05-31 01:33:43 [INFO] <Javeria> konsa bnaon?
+2015-05-31 01:33:48 [INFO] <Javeria> sai say btao na
+2015-05-31 01:34:12 [INFO] <Javeria> ender gener na bnaon?
+2015-05-31 01:34:28 [INFO] <Javeria> ek chip di ha or 2 bnaon
+2015-05-31 01:36:00 [INFO] <Javeria> ma roz itni dare hi chubati hun
+2015-05-31 01:36:09 [INFO] <Javeria> yeh lo
+2015-05-31 01:36:10 [INFO] <Javeria> :)
+2015-05-31 01:36:28 [INFO] <Javeria> nahi lena?
+2015-05-31 01:36:31 [INFO] <Javeria> wapis ley lun?
+2015-05-31 01:37:50 [INFO] <Javeria> kuch b nhi huwa
+2015-05-31 01:37:55 [INFO] <Javeria> 6 dalaya hna
+2015-05-31 01:38:10 [INFO] <Javeria> ma kha lun
+2015-05-31 01:41:25 [INFO] Javeria lost connection: disconnect.quitting
+2015-05-31 01:41:25 [INFO] Javeria left the game
+2015-05-31 01:43:41 [SEVERE] Reached end of stream for /39.42.200.59
+2015-05-31 01:43:44 [INFO] Javeria[/39.42.200.59:53319] logged in with entity id 9109826 at (-151.47000194848823, 73.0, -237.72522677847064)
+2015-05-31 01:43:44 [INFO] Javeria joined the game
+2015-05-31 01:44:49 [INFO] <Javeria> zuban jal gai
+2015-05-31 01:46:08 [INFO] <Javeria> waoooo
+2015-05-31 01:46:10 [INFO] <Javeria> auto
+2015-05-31 01:46:12 [INFO] <Javeria> :)
+2015-05-31 01:48:42 [INFO] <Javeria> ranch kiya kam krta ha?
+2015-05-31 01:49:12 [INFO] <Javeria> :) apka sona kum hota ha
+2015-05-31 01:49:26 [INFO] <Javeria> itna hisab rakhtay han apni chizo ka
+2015-05-31 01:49:27 [INFO] <Javeria> :P
+2015-05-31 01:49:48 [INFO] <Javeria> bnati hun
+2015-05-31 01:49:51 [INFO] <Javeria> apka
+2015-05-31 01:50:19 [INFO] <Javeria> mircho wali kiss kr dungi
+2015-05-31 01:51:58 [INFO] <Javeria> g
+2015-05-31 01:52:22 [INFO] <Javeria> mja 2 fgold ingot chaiay
+2015-05-31 01:54:07 [INFO] <Javeria> gold dust cube bhi pighlao to ingot bnegi?
+2015-05-31 01:55:44 [INFO] <Javeria> m jag rhiha ha bus
+2015-05-31 01:55:47 [INFO] <Javeria> woh bahir ha
+2015-05-31 01:55:59 [INFO] <Javeria> prac copy bna rhi h ha
+2015-05-31 01:56:31 [INFO] <Javeria> endr man hello
+2015-05-31 01:58:57 [INFO] <Javeria> kuya?
+2015-05-31 02:02:13 [INFO] <Javeria> ik ha
+2015-05-31 02:03:04 [INFO] <Javeria> konsa kam?
+2015-05-31 02:03:14 [INFO] <Javeria> thik ha
+2015-05-31 02:05:05 [INFO] <Javeria> ma nay b lena ha asa jhla
+2015-05-31 02:06:40 [INFO] <Javeria> :)
+2015-05-31 02:06:46 [INFO] <Javeria> or agr mar gaey toooo
+2015-05-31 02:10:08 [INFO] <Javeria> kya
+2015-05-31 02:11:56 [INFO] <Javeria> mari to nhi jati
+2015-05-31 02:12:03 [INFO] <Javeria> ab 9.16 jati ha
+2015-05-31 02:15:43 [INFO] <Javeria> yeh kya hp rha ha
+2015-05-31 02:15:45 [INFO] <Javeria> :P
+2015-05-31 02:16:10 [INFO] <Javeria> itna cherangay to chotay ho jen gay
+2015-05-31 02:16:11 [INFO] <Javeria> :P
+2015-05-31 02:17:10 [INFO] <Javeria> ho jaey
+2015-05-31 02:17:14 [INFO] <Javeria> or hwite enderman
+2015-05-31 02:17:39 [INFO] <Javeria> ab hum jitna marzi maren zinda ho jaen gay?
+2015-05-31 02:19:00 [INFO] <Javeria> bath
+2015-05-31 02:19:08 [INFO] <Javeria> upar shak na ho koi ithay to
+2015-05-31 02:19:12 [INFO] <Javeria> g
+2015-05-31 02:19:20 [INFO] <Javeria> koi uth gya to
+2015-05-31 02:19:21 [INFO] <Javeria> g
+2015-05-31 02:19:24 [INFO] <Javeria> nivhay wala
+2015-05-31 02:19:37 [INFO] <Javeria> chalen yeh banf kerti hun
+2015-05-31 02:19:47 [INFO] Javeria lost connection: disconnect.quitting
+2015-05-31 02:19:47 [INFO] Javeria left the game
+2015-05-31 02:19:51 [INFO] usman lost connection: disconnect.quitting
+2015-05-31 02:19:51 [INFO] usman left the game
+2015-05-31 03:52:56 [INFO] Stopping server
+2015-05-31 23:57:16 [INFO] Starting minecraft server version 1.6.4
+2015-05-31 23:57:32 [INFO] Loading properties
+2015-05-31 23:57:32 [INFO] Default game type: SURVIVAL
+2015-05-31 23:57:32 [INFO] Generating keypair
+2015-05-31 23:57:32 [INFO] Starting Minecraft server on *:25565
+2015-05-31 23:57:32 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-05-31 23:57:32 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-05-31 23:57:32 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-05-31 23:57:32 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-05-31 23:57:37 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-05-31 23:57:37 [INFO] Preparing start region for level 0
+2015-05-31 23:57:38 [INFO] Done (1.371s)! For help, type "help" or "?"
+2015-05-31 23:59:20 [SEVERE] Reached end of stream for /127.0.0.1
+2015-05-31 23:59:52 [INFO] usman[/127.0.0.1:62802] logged in with entity id 23 at (-161.14722559335553, 73.0, -217.52059395299986)
+2015-05-31 23:59:52 [INFO] usman joined the game
+2015-05-31 23:59:52 [WARNING] Fetching addPacket for removed entity
+2015-05-31 23:59:53 [WARNING] Fetching addPacket for removed entity
+2015-05-31 23:59:53 [WARNING] Fetching addPacket for removed entity
+2015-05-31 23:59:53 [WARNING] Fetching addPacket for removed entity
+2015-05-31 23:59:53 [WARNING] Fetching addPacket for removed entity
+2015-06-01 00:00:57 [SEVERE] Reached end of stream for /39.42.107.22
+2015-06-01 00:01:17 [INFO] Javeria[/39.42.107.22:49388] logged in with entity id 44393 at (-162.44652399646594, 73.0, -215.9808663415289)
+2015-06-01 00:01:17 [INFO] Javeria joined the game
+2015-06-01 00:03:21 [INFO] <Javeria> HELLO
+2015-06-01 00:03:27 [INFO] <usman> hi
+2015-06-01 00:04:19 [INFO] <Javeria> MA kya ker rhi thi?
+2015-06-01 00:04:43 [INFO] <usman> pata ni
+2015-06-01 00:10:37 [INFO] <usman> bed
+2015-06-01 00:12:28 [INFO] <Javeria> mja b koi kam bta doooo
+2015-06-01 00:12:36 [INFO] <Javeria> koi to hoga jo ma kr skti hun
+2015-06-01 00:13:27 [INFO] <usman> apny farm area ke chat bana do
+2015-06-01 00:15:37 [INFO] <usman> ye full ho gai ha
+2015-06-01 00:15:46 [INFO] <Javeria> ab phir?
+2015-06-01 00:16:30 [INFO] <Javeria> amder wali bhi full ho gai ha
+2015-06-01 00:16:55 [INFO] <Javeria> ma nay ander wali bri kr di
+2015-06-01 00:16:55 [INFO] <usman> baral bnao pher
+2015-06-01 00:17:31 [INFO] <usman> ni ye ni kam kary ge
+2015-06-01 00:21:11 [INFO] <usman> bed
+2015-06-01 00:21:51 [INFO] <Javeria> yeh kya ha??
+2015-06-01 00:22:17 [INFO] <Javeria> ohhhhhhhh
+2015-06-01 00:22:19 [INFO] <usman> baral he ha
+2015-06-01 00:22:35 [INFO] <usman> ma kah rha tha ma ny bnaya ha ak :p
+2015-06-01 00:27:33 [INFO] Javeria lost connection: disconnect.quitting
+2015-06-01 00:27:33 [INFO] Javeria left the game
+2015-06-01 00:33:54 [SEVERE] Reached end of stream for /39.42.107.22
+2015-06-01 00:34:44 [INFO] Javeria [/39.42.107.22:49874] lost connection
+2015-06-01 00:35:08 [INFO] Javeria[/39.42.107.22:49885] logged in with entity id 1336441 at (-157.321026982627, 73.0, -197.70323147304188)
+2015-06-01 00:35:08 [INFO] Javeria joined the game
+2015-06-01 00:36:08 [INFO] Javeria lost connection: disconnect.genericReason
+2015-06-01 00:36:08 [INFO] Javeria left the game
+2015-06-01 00:37:38 [SEVERE] Reached end of stream for /39.42.26.149
+2015-06-01 00:37:39 [SEVERE] Reached end of stream for /39.42.26.149
+2015-06-01 00:37:39 [SEVERE] Reached end of stream for /39.42.26.149
+2015-06-01 00:38:14 [INFO] Javeria[/39.42.26.149:50003] logged in with entity id 1454578 at (-155.96628511020276, 73.125, -193.06648006079712)
+2015-06-01 00:38:14 [INFO] Javeria joined the game
+2015-06-01 00:38:14 [WARNING] Fetching addPacket for removed entity
+2015-06-01 00:39:18 [INFO] <Javeria> hello woh dekho asman pay balaen
+2015-06-01 00:39:31 [INFO] <Javeria> tower k upar
+2015-06-01 00:39:36 [INFO] <Javeria> apko nazar a rhi han?
+2015-06-01 00:39:42 [INFO] <usman> ni
+2015-06-01 00:39:54 [INFO] <usman> wo abi render ni hua ho ga
+2015-06-01 00:40:01 [INFO] <usman> koi masly wali bat ni
+2015-06-01 00:40:12 [INFO] <Javeria> mra upar to nhi giregi na/
+2015-06-01 00:40:18 [INFO] <usman> ni
+2015-06-01 00:42:46 [INFO] <usman> bed
+2015-06-01 00:43:00 [INFO] <usman> bed
+2015-06-01 00:50:42 [INFO] <Javeria> hello woh recipe nhi bta rha
+2015-06-01 00:50:48 [INFO] <Javeria> konsa button dabatay thay?
+2015-06-01 00:50:51 [INFO] <usman> r
+2015-06-01 00:51:00 [INFO] <Javeria> r hi daba rhi hun
+2015-06-01 00:51:01 [INFO] <Javeria> :(
+2015-06-01 00:51:20 [INFO] <usman> kis ki ni bata rha
+2015-06-01 00:51:27 [INFO] <Javeria> ksi ki b nhi bta rha
+2015-06-01 00:51:33 [INFO] <Javeria> glowston nook chaiay mja
+2015-06-01 00:51:44 [INFO] <usman> wo b ari sy katy ga
+2015-06-01 00:51:50 [INFO] <usman> mery pass han le jao
+2015-06-01 00:52:23 [INFO] <Javeria> yeh ap khas kisam k poday lga rhay han
+2015-06-01 00:52:34 [INFO] <usman> ye khas hoty han
+2015-06-01 00:52:43 [INFO] <usman> ye phanko to ugty han
+2015-06-01 00:52:43 [INFO] <Javeria> kya kam krtay han?
+2015-06-01 00:53:14 [INFO] <Javeria> creep seed walay?
+2015-06-01 00:53:24 [INFO] <usman> g
+2015-06-01 00:53:40 [INFO] <Javeria> creeper walay say creeper niklega?
+2015-06-01 00:54:10 [INFO] <Javeria> bed'
+2015-06-01 00:54:31 [INFO] <Javeria> :p
+2015-06-01 00:54:44 [INFO] <Javeria> ma check ker rhi thi k new gada b to nhi bitha diya :P
+2015-06-01 00:54:49 [INFO] <usman> ni creper se explotion hoty han:)
+2015-06-01 00:54:55 [INFO] <usman> per ma pahly tor deta hun
+2015-06-01 00:55:04 [INFO] <Javeria> oay hoay hoayay hoayy
+2015-06-01 00:55:07 [INFO] <Javeria> khatraaa
+2015-06-01 00:57:32 [INFO] <usman> 6% battery
+2015-06-01 00:57:38 [INFO] <Javeria> nooooooooooo
+2015-06-01 00:57:40 [INFO] <Javeria> :(
+2015-06-01 00:57:46 [INFO] <usman> or 3 mint rah gy lite me
+2015-06-01 00:57:49 [INFO] <usman> :(
+2015-06-01 00:57:56 [INFO] <Javeria> band kr do
+2015-06-01 00:57:58 [INFO] <Javeria> foran
+2015-06-01 00:58:05 [INFO] <usman> ni dekhty han
+2015-06-01 00:58:12 [INFO] <Javeria> bad may late chaelga
+2015-06-01 00:58:15 [INFO] <Javeria> oay 1 baj gya
+2015-06-01 00:58:32 [INFO] <usman> ap khalo ma lite off kar deta hun
+2015-06-01 00:58:35 [INFO] <usman> mac ke
+2015-06-01 00:58:42 [INFO] <Javeria> ok
+2015-06-01 00:58:48 [INFO] <Javeria> wasa ma wait ker skti hun
+2015-06-01 00:58:55 [INFO] <usman> ni any wali ha
+2015-06-01 00:59:07 [INFO] usman lost connection: disconnect.quitting
+2015-06-01 00:59:07 [INFO] usman left the game
+2015-06-01 01:10:43 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-01 01:10:48 [INFO] usman[/127.0.0.1:63105] logged in with entity id 2588860 at (-154.78177206627893, 73.0, -223.7114107574974)
+2015-06-01 01:10:48 [INFO] usman joined the game
+2015-06-01 01:11:01 [INFO] <usman> hi
+2015-06-01 01:11:05 [INFO] <Javeria> :)
+2015-06-01 01:11:09 [INFO] <usman> bed
+2015-06-01 01:11:30 [INFO] <Javeria> ap k intzar may si nhi
+2015-06-01 01:11:38 [INFO] <usman> :)
+2015-06-01 01:12:56 [INFO] Javeria lost connection: disconnect.genericReason
+2015-06-01 01:12:56 [INFO] Javeria left the game
+2015-06-01 01:13:21 [SEVERE] Reached end of stream for /39.42.26.149
+2015-06-01 01:13:26 [INFO] Javeria[/39.42.26.149:50516] logged in with entity id 2674434 at (-156.9532779016769, 73.0, -196.74048789383926)
+2015-06-01 01:13:26 [INFO] Javeria joined the game
+2015-06-01 01:13:39 [INFO] <Javeria> hello 1.10 ho gey
+2015-06-01 01:13:43 [INFO] <Javeria> ap nay subha office jana ha
+2015-06-01 01:13:48 [INFO] <usman> g
+2015-06-01 01:18:38 [INFO] <Javeria> rice ki b bread banti ha?
+2015-06-01 01:18:43 [INFO] <Javeria> ya bus wheat say?
+2015-06-01 01:18:45 [INFO] <usman> g
+2015-06-01 01:19:17 [INFO] Javeria lost connection: disconnect.genericReason
+2015-06-01 01:19:17 [INFO] Javeria left the game
+2015-06-01 01:19:35 [SEVERE] Reached end of stream for /39.42.26.149
+2015-06-01 01:19:37 [INFO] Javeria[/39.42.26.149:50620] logged in with entity id 2916154 at (-137.44730923344434, 73.0, -204.6430217357787)
+2015-06-01 01:19:37 [INFO] Javeria joined the game
+2015-06-01 01:19:50 [INFO] <Javeria> mra net bar bar dc hi rha ha
+2015-06-01 01:19:56 [INFO] <Javeria> or mra pkg nhi ha
+2015-06-01 01:20:14 [INFO] <usman> ok
+2015-06-01 01:20:33 [INFO] <Javeria> 1.30 bjey tak so jana phir jan
+2015-06-01 01:22:03 [INFO] <usman> bed
+2015-06-01 01:25:42 [INFO] <Javeria> yeh upar balao say safe wala shisha hi lgaya ha?
+2015-06-01 01:25:59 [INFO] <usman> ni
+2015-06-01 01:26:06 [INFO] <Javeria> yeh different ku ha?
+2015-06-01 01:26:10 [INFO] <Javeria> bra acha lag rha ha
+2015-06-01 01:26:25 [INFO] <usman> ye dekho
+2015-06-01 01:26:38 [INFO] <usman> is my jo rkho us k design btata ha
+2015-06-01 01:26:44 [INFO] <usman> isy hat my rakho
+2015-06-01 01:26:50 [INFO] <usman> or right click karo
+2015-06-01 01:26:59 [INFO] <usman> or center me cobal rakho
+2015-06-01 01:27:06 [INFO] <usman> us k sary design a jay ge
+2015-06-01 01:27:16 [INFO] <usman> ma ny isi sy sary design nikaly han
+2015-06-01 01:27:18 [INFO] <Javeria> waooooooo :)
+2015-06-01 01:27:22 [INFO] <usman> jo rkho us k design
+2015-06-01 01:27:24 [INFO] <usman> :)
+2015-06-01 01:27:28 [INFO] <usman> ye ap rakh lo
+2015-06-01 01:27:33 [INFO] <usman> me new bana lun ga
+2015-06-01 01:27:35 [INFO] <Javeria> ma nay pathar k dekhay abhi :)
+2015-06-01 01:27:40 [INFO] <Javeria> bht hi aalaa
+2015-06-01 01:27:47 [INFO] <Javeria> ma ley lun yeh?
+2015-06-01 01:27:47 [INFO] <usman> han lakri k b han
+2015-06-01 01:27:51 [INFO] <Javeria> :)
+2015-06-01 01:27:51 [INFO] <usman> sishi b ha
+2015-06-01 01:27:54 [INFO] <usman> g
+2015-06-01 01:28:01 [INFO] <Javeria> thnx
+2015-06-01 01:28:02 [INFO] <Javeria> :)
+2015-06-01 01:28:39 [INFO] <Javeria> ma tower ay ja k uar say dekh lun apki lab?
+2015-06-01 01:28:47 [INFO] <Javeria> wahan balaen to tang nhi kren gi mja?
+2015-06-01 01:28:48 [INFO] <usman> g
+2015-06-01 01:30:43 [INFO] <Javeria> oayyyy glider lana chaiay tha :)
+2015-06-01 01:30:50 [INFO] <usman> :)
+2015-06-01 01:32:09 [INFO] <Javeria> yeh to nichay aa gya
+2015-06-01 01:32:11 [INFO] <Javeria> ura h  nhi
+2015-06-01 01:32:28 [INFO] <usman> g aista aista nichy ata ha
+2015-06-01 01:33:03 [INFO] <usman> bed
+2015-06-01 01:35:22 [INFO] <Javeria> upar say view or b piara ha hello )
+2015-06-01 01:36:07 [INFO] <usman> ye dekho
+2015-06-01 01:36:16 [INFO] <usman> is per chalo
+2015-06-01 01:36:40 [INFO] <Javeria> hello
+2015-06-01 01:36:46 [INFO] <Javeria> is pay sppeed taze nahi?
+2015-06-01 01:36:50 [INFO] <usman> han na
+2015-06-01 01:36:56 [INFO] <usman> ye concrete ha :)
+2015-06-01 01:37:06 [INFO] <Javeria> yeh to bhagta ha :)
+2015-06-01 01:39:31 [INFO] <usman> ider k liy kuch socho
+2015-06-01 01:39:31 [INFO] <Javeria> waoooo
+2015-06-01 01:40:11 [INFO] <usman> ye dekho
+2015-06-01 01:40:33 [INFO] <usman> jab pani end
+2015-06-01 01:40:37 [INFO] <usman> bag is my rakho
+2015-06-01 01:40:47 [INFO] <usman> or lever ak bar on off karo
+2015-06-01 01:40:52 [INFO] <usman> auto full
+2015-06-01 01:41:21 [INFO] <Javeria> such may ma asa hi soch rhi thi k bag bhi full hona chaoay bottles wali bri khuwai ha
+2015-06-01 01:41:21 [INFO] <usman> para ha khali bag
+2015-06-01 01:41:22 [INFO] <Javeria> :P
+2015-06-01 01:41:33 [INFO] <Javeria> nahi abhi abhi fill kiay dono
+2015-06-01 01:41:37 [INFO] <usman> han g :)
+2015-06-01 01:41:44 [INFO] <usman> chalo karna try :)
+2015-06-01 01:41:47 [INFO] <Javeria> :) bht mazay ki
+2015-06-01 01:41:53 [INFO] <Javeria> roz hi kuch new hota ha is may
+2015-06-01 01:42:40 [INFO] <usman> rice bahter ni ?
+2015-06-01 01:42:49 [INFO] <Javeria> rice say bread banti ha?
+2015-06-01 01:42:53 [INFO] <usman> g
+2015-06-01 01:42:53 [INFO] <Javeria> wahi to puch rhi thi
+2015-06-01 01:42:56 [INFO] <Javeria> is may bht mehnat ha
+2015-06-01 01:43:17 [INFO] <usman> sikhao
+2015-06-01 01:44:32 [INFO] <usman> asy
+2015-06-01 01:44:36 [INFO] <Javeria> bread ki jaga dough use hoegi
+2015-06-01 01:44:38 [INFO] <usman> bed
+2015-06-01 01:44:51 [INFO] <Javeria> mama bol rhihan
+2015-06-01 01:45:04 [INFO] <usman> ok then band :)
+2015-06-01 01:45:08 [INFO] <Javeria> :)
+2015-06-01 01:45:12 [INFO] <Javeria> :(
+2015-06-01 01:45:22 [INFO] <Javeria> ap nay subha poffice b kjana ha
+2015-06-01 01:45:23 [INFO] <usman> bye :)
+2015-06-01 01:45:29 [INFO] <Javeria> Good NIght Jan
+2015-06-01 01:45:33 [INFO] <usman> g jan ha
+2015-06-01 01:45:40 [INFO] <usman> good Night :)
+2015-06-01 01:46:19 [INFO] Javeria lost connection: disconnect.quitting
+2015-06-01 01:46:19 [INFO] Javeria left the game
+2015-06-01 01:46:21 [INFO] usman lost connection: disconnect.quitting
+2015-06-01 01:46:21 [INFO] usman left the game
+2015-06-01 01:46:33 [INFO] Stopping server
+2015-06-06 01:08:36 [INFO] Starting minecraft server version 1.6.4
+2015-06-06 01:08:51 [INFO] Loading properties
+2015-06-06 01:08:51 [INFO] Default game type: SURVIVAL
+2015-06-06 01:08:51 [INFO] Generating keypair
+2015-06-06 01:08:51 [INFO] Starting Minecraft server on *:25565
+2015-06-06 01:08:51 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-06-06 01:08:51 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-06-06 01:08:51 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-06-06 01:08:51 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-06-06 01:08:55 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-06-06 01:08:56 [INFO] Preparing start region for level 0
+2015-06-06 01:08:56 [INFO] Done (1.377s)! For help, type "help" or "?"
+2015-06-06 01:08:57 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:09:01 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:09:02 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:09:03 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:09:04 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:09:05 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:09:06 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:09:08 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:09:24 [SEVERE] Reached end of stream for /39.42.93.150
+2015-06-06 01:09:24 [SEVERE] Reached end of stream for /39.42.93.150
+2015-06-06 01:09:56 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:09:59 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:11:04 [INFO] Javeria[/39.42.93.150:49456] logged in with entity id 65 at (-144.00879992600727, 69.0, -227.3926986325822)
+2015-06-06 01:11:04 [INFO] Javeria joined the game
+2015-06-06 01:11:59 [INFO] usman[/127.0.0.1:59947] logged in with entity id 33789 at (-144.3333079928093, 69.5625, -225.45012162550103)
+2015-06-06 01:11:59 [INFO] usman joined the game
+2015-06-06 01:12:11 [INFO] usman lost connection: disconnect.quitting
+2015-06-06 01:12:11 [INFO] usman left the game
+2015-06-06 01:12:44 [INFO] Javeria lost connection: disconnect.genericReason
+2015-06-06 01:12:44 [INFO] Javeria left the game
+2015-06-06 01:13:08 [INFO] Stopping server
+2015-06-06 01:13:17 [INFO] Starting minecraft server version 1.6.4
+2015-06-06 01:13:31 [INFO] Loading properties
+2015-06-06 01:13:31 [INFO] Default game type: SURVIVAL
+2015-06-06 01:13:31 [INFO] Generating keypair
+2015-06-06 01:13:32 [INFO] Starting Minecraft server on *:25565
+2015-06-06 01:13:32 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-06-06 01:13:32 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-06-06 01:13:32 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-06-06 01:13:32 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-06-06 01:13:36 [INFO] Preparing level "Crash Landing 1_1_3_T1"
+2015-06-06 01:13:37 [INFO] Preparing start region for level 0
+2015-06-06 01:13:38 [INFO] Done (1.678s)! For help, type "help" or "?"
+2015-06-06 01:13:47 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:13:49 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:13:50 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:14:21 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:14:54 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:14:55 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:14:55 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:14:55 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:14:55 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:14:57 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:18:58 [INFO] usman[/127.0.0.1:60055] logged in with entity id 21 at (-144.3333079928093, 69.5625, -225.45012162550103)
+2015-06-06 01:18:58 [INFO] usman joined the game
+2015-06-06 01:19:05 [SEVERE] Reached end of stream for /46.16.33.237
+2015-06-06 01:19:30 [INFO] usman lost connection: disconnect.quitting
+2015-06-06 01:19:30 [INFO] usman left the game
+2015-06-06 01:20:42 [SEVERE] Reached end of stream for /46.16.33.237
+2015-06-06 01:21:18 [INFO] Javeria[/46.16.33.237:65457] logged in with entity id 12745 at (-146.48466419569402, 69.0, -222.90879092328154)
+2015-06-06 01:21:18 [INFO] Javeria joined the game
+2015-06-06 01:22:41 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:23:43 [INFO] usman[/127.0.0.1:60078] logged in with entity id 99297 at (-139.3632592249918, 73.0, -216.68411501908324)
+2015-06-06 01:23:43 [INFO] usman joined the game
+2015-06-06 01:25:20 [INFO] <Javeria> hello dough say bread kasay bnegi
+2015-06-06 01:25:24 [INFO] <Javeria> ?
+2015-06-06 01:25:30 [INFO] <usman> ferance
+2015-06-06 01:26:11 [INFO] <Javeria> waoooooo yeh to bht simple tha
+2015-06-06 01:27:06 [WARNING] Javeria moved wrongly!
+2015-06-06 01:29:25 [INFO] <Javeria> mri lag kr rhi ha
+2015-06-06 01:29:27 [INFO] <Javeria> :(
+2015-06-06 01:29:52 [INFO] <usman> yar aj net kuch slow ha mera b
+2015-06-06 01:30:02 [INFO] <usman> barish ke waja sy shaid :(
+2015-06-06 01:30:06 [INFO] <Javeria> :(
+2015-06-06 01:30:08 [INFO] <usman> bed
+2015-06-06 01:30:28 [INFO] <Javeria> bed
+2015-06-06 01:31:44 [INFO] <usman> ooo bohat masla ho rha ha ap ka to :(
+2015-06-06 01:32:04 [INFO] <Javeria> :(
+2015-06-06 01:32:09 [INFO] <Javeria> ja pta hi nhi lga k kab siya
+2015-06-06 01:32:30 [INFO] <usman> ma dekhat hun
+2015-06-06 01:33:45 [INFO] Javeria lost connection: disconnect.genericReason
+2015-06-06 01:33:45 [INFO] Javeria left the game
+2015-06-06 01:35:21 [SEVERE] Reached end of stream for /46.16.33.237
+2015-06-06 01:35:21 [INFO] /46.16.33.237:49257 lost connection
+2015-06-06 01:37:41 [SEVERE] Reached end of stream for /46.16.33.237
+2015-06-06 01:37:50 [INFO] usman lost connection: disconnect.quitting
+2015-06-06 01:37:50 [INFO] usman left the game
+2015-06-06 01:37:52 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:37:53 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:38:41 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:38:42 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:38:43 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:38:43 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:38:43 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:38:44 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:39:05 [INFO] Javeria[/46.16.33.237:49325] logged in with entity id 625461 at (-160.69516875755247, 73.0, -216.07606152198733)
+2015-06-06 01:39:05 [INFO] Javeria joined the game
+2015-06-06 01:39:56 [INFO] <Javeria> yeh camel pack fill nhi ho rha
+2015-06-06 01:40:38 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 01:40:53 [INFO] usman[/127.0.0.1:60403] logged in with entity id 690109 at (-143.8213535527103, 73.0, -219.7378766787703)
+2015-06-06 01:40:53 [INFO] usman joined the game
+2015-06-06 01:41:01 [INFO] <usman> ab sai hui?
+2015-06-06 01:41:08 [INFO] <Javeria> g
+2015-06-06 01:41:10 [INFO] <Javeria> :)
+2015-06-06 01:42:00 [INFO] Javeria lost connection: disconnect.genericReason
+2015-06-06 01:42:00 [INFO] Javeria left the game
+2015-06-06 01:42:20 [SEVERE] Reached end of stream for /46.16.33.237
+2015-06-06 01:42:20 [SEVERE] Reached end of stream for /46.16.33.237
+2015-06-06 01:42:21 [SEVERE] Reached end of stream for /46.16.33.237
+2015-06-06 01:42:22 [SEVERE] Reached end of stream for /46.16.33.237
+2015-06-06 01:42:59 [INFO] Javeria[/46.16.33.237:49382] logged in with entity id 748593 at (-160.34975382768306, 73.0, -216.14527420078653)
+2015-06-06 01:42:59 [INFO] Javeria joined the game
+2015-06-06 01:43:20 [INFO] <Javeria> hello
+2015-06-06 01:43:23 [INFO] <usman> hello
+2015-06-06 01:43:23 [INFO] <Javeria> pani nhi bhar rha
+2015-06-06 01:43:59 [INFO] <usman> ider ao
+2015-06-06 01:44:20 [INFO] <usman> yahan rakhna ha
+2015-06-06 01:44:41 [INFO] <Javeria> :)
+2015-06-06 01:44:42 [INFO] <usman> smaj ai ?
+2015-06-06 01:44:45 [INFO] <Javeria> g
+2015-06-06 01:44:48 [INFO] <Javeria> g
+2015-06-06 01:44:54 [INFO] <Javeria> bed
+2015-06-06 01:44:59 [INFO] <usman> ab choro
+2015-06-06 01:46:05 [INFO] <Javeria> compressor kasay use kertay han
+2015-06-06 01:46:26 [INFO] <usman> air compress hoti ha
+2015-06-06 01:50:52 [INFO] <Javeria> balaen nhi banoi
+2015-06-06 01:51:22 [INFO] <usman> bani han
+2015-06-06 01:55:40 [INFO] <usman> koi ha sat ??
+2015-06-06 02:04:35 [WARNING] usman moved wrongly!
+2015-06-06 02:05:04 [INFO] <usman> koi ha sat ?
+2015-06-06 02:05:08 [INFO] <Javeria> G
+2015-06-06 02:05:13 [INFO] <usman> kon?
+2015-06-06 02:05:17 [INFO] <Javeria> F M
+2015-06-06 02:05:28 [INFO] <usman> wo b dekh rhi han ??
+2015-06-06 02:05:32 [INFO] <Javeria> :)
+2015-06-06 02:05:33 [INFO] <Javeria> g
+2015-06-06 02:05:59 [INFO] <usman> chachi ko pata ni chala :p
+2015-06-06 02:06:14 [INFO] <Javeria> nhi aaj tv walay kamray may han
+2015-06-06 02:06:22 [INFO] <Javeria> :P wahan to permisssion nhi milni thi :(
+2015-06-06 02:06:29 [INFO] <Javeria> abhi bhi aa gai to shamat
+2015-06-06 02:06:47 [INFO] <usman> haha :)
+2015-06-06 02:11:09 [INFO] <Javeria> munna creeper bhi ha
+2015-06-06 02:11:29 [INFO] <usman> pass na jana bary pary han :p
+2015-06-06 02:11:46 [INFO] <Javeria> ma to shishay ay dekhti hun bus
+2015-06-06 02:11:59 [INFO] <Javeria> :) mujsay bra nahi sanbhalta to muna to or bhi khatarnak ha
+2015-06-06 02:14:32 [INFO] <Javeria> mja bhi kuch task ura krna ha
+2015-06-06 02:15:09 [INFO] <usman> chisel use karna aya ha?
+2015-06-06 02:15:21 [INFO] <Javeria> :)
+2015-06-06 02:15:22 [INFO] <Javeria> g
+2015-06-06 02:15:32 [INFO] <usman> kuch build karna ha ???
+2015-06-06 02:15:46 [INFO] <Javeria> nhi mja building nahi ati
+2015-06-06 02:15:48 [INFO] <Javeria> :(
+2015-06-06 02:16:15 [INFO] <usman> easy ho ga
+2015-06-06 02:18:30 [INFO] <Javeria> yeh kasay use kertay han?
+2015-06-06 02:18:51 [INFO] <Javeria> haw
+2015-06-06 02:18:58 [INFO] <usman> kya hua ?
+2015-06-06 02:18:59 [INFO] <Javeria> ma nay chare diya hello
+2015-06-06 02:19:09 [INFO] <Javeria> ma nay is pay right click kiya ha
+2015-06-06 02:19:16 [INFO] <Javeria> dekho apka kam na khrab ker sdiya ho
+2015-06-06 02:19:42 [INFO] <Javeria> yeh kasay use kertay han :P
+2015-06-06 02:19:50 [INFO] <usman> bed
+2015-06-06 02:23:02 [INFO] <Javeria> mja dhund len
+2015-06-06 02:23:14 [INFO] <Javeria> :)
+2015-06-06 02:26:39 [INFO] <usman> ??
+2015-06-06 02:26:42 [INFO] <usman> kya hua ?
+2015-06-06 02:26:44 [INFO] <Javeria> :P
+2015-06-06 02:26:48 [INFO] <Javeria> kuch nhi
+2015-06-06 02:27:30 [INFO] <Javeria> aj mra karnay k laiy kuch nhi ha :(
+2015-06-06 02:28:08 [INFO] <usman> soty han pher mujy nind a gai ha sakhat :p
+2015-06-06 02:28:24 [INFO] <Javeria> sai ha
+2015-06-06 02:28:29 [INFO] <Javeria> ma b bore ho rhi hun :P
+2015-06-06 02:29:05 [INFO] <Javeria> chalen phir bye bye
+2015-06-06 02:29:14 [INFO] <usman> bye :)
+2015-06-06 02:29:20 [INFO] usman lost connection: disconnect.quitting
+2015-06-06 02:29:20 [INFO] usman left the game
+2015-06-06 02:29:22 [INFO] Javeria lost connection: disconnect.quitting
+2015-06-06 02:29:22 [INFO] Javeria left the game
+2015-06-06 02:36:49 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 02:36:53 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 02:41:05 [SEVERE] Reached end of stream for /127.0.0.1
+2015-06-06 02:41:18 [INFO] Stopping server

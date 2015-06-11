@@ -1,0 +1,262 @@
+Getting global options for CARuins ...
+Probability of ruin generation attempt per chunk explored is 0.0, with 1 tries per chunk.
+Getting global options for GreatWallMod ...
+
+Loading building subfolder in /Users/Usman/Desktop/CrashLandingServer/config/generatormods/greatwall\buildings...
+Successfully loaded template apartment.tml with weight 1.
+Successfully loaded template Archway.tml with weight 5.
+Successfully loaded template BattleBasementEasy.tml with weight 2.
+Successfully loaded template BattleBasementHard.tml with weight 1.
+Successfully loaded template BattleBasementMedium.tml with weight 1.
+Successfully loaded template BlockHenge.tml with weight 1.
+Successfully loaded template BrickHouse.tml with weight 4.
+Successfully loaded template GuardHouse.tml with weight 2.
+Successfully loaded template LampPost.tml with weight 5.
+Successfully loaded template Mausoleum.tml with weight 2.
+Successfully loaded template NetherShrine.tml with weight 2.
+Successfully loaded template Obelisk.tml with weight 3.
+Successfully loaded template PortalShrine.tml with weight 2.
+Successfully loaded template ShortTower.tml with weight 1.
+Successfully loaded template SmallWell.tml with weight 1.
+Successfully loaded template SnowHenge.tml with weight 1.
+Successfully loaded template SnowHouse1.tml with weight 5.
+Successfully loaded template StoneHouse.tml with weight 6.
+Successfully loaded template TinyFarmField.tml with weight 5.
+Successfully loaded template TreeDungeon.tml with weight 1.
+Successfully loaded template WoodHouse.tml with weight 2.
+
+Loading wall styles from directory /Users/Usman/Desktop/CrashLandingServer/config/generatormods/greatwall...
+Successfully loaded template DerelictRoad.tml with weight 2000.
+
+Template loading complete.
+Probability of wall generation attempt per chunk explored is 0.0, with 1 tries per chunk.
+Getting global options for WalledCityMod ...
+
+Loading building subfolder in /Users/Usman/Desktop/CrashLandingServer/config/generatormods/walledcity\buildings...
+Successfully loaded template BattleBasementUnderground.tml with weight 5.
+Successfully loaded template PrisonTower.tml with weight 10.
+Successfully loaded template TowerDungeonWizards.tml with weight 10.
+Successfully loaded template WatchTowerWoodandStone.tml with weight 10.
+
+Loading wall styles from directory /Users/Usman/Desktop/CrashLandingServer/config/generatormods/walledcity...
+Successfully loaded template 10DeepCommercial.tml with weight 10.
+Warning, named checklist item not found:Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Warning, named checklist item not found: Frozen Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Successfully loaded template 10DeepIndustrial.tml with weight 5.
+Warning, named checklist item not found:Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Warning, named checklist item not found: Frozen Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Successfully loaded template 10DeepResidential.tml with weight 20.
+Warning, named checklist item not found:Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Warning, named checklist item not found: Frozen Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Successfully loaded template 4Deepcommercial .tml with weight 10.
+Warning, named checklist item not found:Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Warning, named checklist item not found: Frozen Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Successfully loaded template 4DeepIndustrial.tml with weight 5.
+Warning, named checklist item not found:Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Warning, named checklist item not found: Frozen Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Successfully loaded template 4DeepResidential.tml with weight 20.
+Warning, named checklist item not found:Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Warning, named checklist item not found: Frozen Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Successfully loaded template RuinedSandstoneCity.tml with weight 1.
+Warning, named checklist item not found:Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Warning, named checklist item not found: Frozen Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Successfully loaded template Town.tml with weight 45.
+Warning, named checklist item not found:Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Warning, named checklist item not found: Frozen Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+
+Loading streets subfolder in /Users/Usman/Desktop/CrashLandingServer/config/generatormods/walledcity/streets...
+
+Loading building subfolder in /Users/Usman/Desktop/CrashLandingServer/config/generatormods/walledcity/streets\buildings...
+Successfully loaded template apartment.tml with weight 25.
+Successfully loaded template apartment2.tml with weight 20.
+Successfully loaded template aptI10.tml with weight 5.
+Successfully loaded template aptI4.tml with weight 5.
+Successfully loaded template aptID10.tml with weight 3.
+Successfully loaded template aptID4.tml with weight 3.
+Successfully loaded template aptR10.tml with weight 25.
+Successfully loaded template aptR4.tml with weight 25.
+Successfully loaded template aptRD10.tml with weight 10.
+Successfully loaded template aptRD4.tml with weight 10.
+Successfully loaded template BattleBasementEasy.tml with weight 5.
+Successfully loaded template BattleBasementHard.tml with weight 5.
+Successfully loaded template BattleBasementMedium.tml with weight 5.
+Successfully loaded template BattleBasementUnderground.tml with weight 10.
+Successfully loaded template diner10C.tml with weight 3.
+Successfully loaded template diner10CD.tml with weight 2.
+Successfully loaded template diner10R.tml with weight 1.
+Successfully loaded template diner10RD.tml with weight 2.
+Successfully loaded template diner4C.tml with weight 3.
+Successfully loaded template diner4CD.tml with weight 2.
+Successfully loaded template diner4R.tml with weight 1.
+Successfully loaded template diner4RD.tml with weight 2.
+Successfully loaded template gov10C.tml with weight 2.
+Successfully loaded template gov10CD.tml with weight 1.
+Successfully loaded template gov10DR.tml with weight 1.
+Successfully loaded template gov10R.tml with weight 1.
+Successfully loaded template gov4C.tml with weight 2.
+Successfully loaded template gov4CD.tml with weight 1.
+Successfully loaded template gov4DR.tml with weight 1.
+Successfully loaded template gov4R.tml with weight 1.
+Successfully loaded template government.tml with weight 2.
+Successfully loaded template GraveyardHaunted.tml with weight 2.
+Successfully loaded template hi rise 10C.tml with weight 7.
+Successfully loaded template hi rise 10CD.tml with weight 3.
+Successfully loaded template hi rise 10DR.tml with weight 1.
+Successfully loaded template hi rise 10R.tml with weight 1.
+Successfully loaded template hi rise 2.tml with weight 3.
+Successfully loaded template hi rise.tml with weight 25.
+Successfully loaded template hi rise2.tml with weight 20.
+Successfully loaded template hi rise4C.tml with weight 7.
+Successfully loaded template hi rise4CD.tml with weight 3.
+Successfully loaded template hi rise4DR.tml with weight 8.
+Successfully loaded template hi rise4R.tml with weight 18.
+Successfully loaded template LampPost.tml with weight 5.
+Successfully loaded template loot.tml with weight 1.
+Successfully loaded template MarketStall.tml with weight 6.
+Successfully loaded template Mausoleum.tml with weight 2.
+Successfully loaded template MazeDungeon.tml with weight 10.
+Successfully loaded template MazeMansion.tml with weight 10.
+Successfully loaded template MelonFarm.tml with weight 14.
+Successfully loaded template MobTowerFiveTier.tml with weight 2.
+Successfully loaded template NetherPyramidlet.tml with weight 3.
+Successfully loaded template pneumatic 10I.tml with weight 3.
+Successfully loaded template pneumatic 10ID.tml with weight 3.
+Successfully loaded template pneumatic 4I.tml with weight 3.
+Successfully loaded template pneumatic 4ID.tml with weight 3.
+Successfully loaded template Pneumatic Craft Factory.tml with weight 3.
+Successfully loaded template power 10I.tml with weight 2.
+Successfully loaded template power 10ID.tml with weight 2.
+Successfully loaded template power 4I.tml with weight 2.
+Successfully loaded template power 4ID.tml with weight 2.
+Successfully loaded template Power Plant.tml with weight 3.
+Successfully loaded template rnd office 10C.tml with weight 10.
+Successfully loaded template rnd office 10CD.tml with weight 7.
+Successfully loaded template rnd office 10DR.tml with weight 1.
+Successfully loaded template rnd office 10R.tml with weight 2.
+Successfully loaded template rnd office4C.tml with weight 10.
+Successfully loaded template rnd office4CD.tml with weight 7.
+Successfully loaded template rnd office4DR.tml with weight 1.
+Successfully loaded template rnd office4R.tml with weight 2.
+Did not load Round tower 2s.tml, weight was zero.
+Successfully loaded template Round tower 3s.tml with weight 20.
+Successfully loaded template shop 2.tml with weight 3.
+Successfully loaded template shop.tml with weight 3.
+Successfully loaded template SmallWell.tml with weight 3.
+Successfully loaded template Smithy.tml with weight 15.
+Successfully loaded template sqr office 10C.tml with weight 10.
+Successfully loaded template sqr office 10CD.tml with weight 7.
+Successfully loaded template sqr office 10DR.tml with weight 1.
+Successfully loaded template sqr office 10R.tml with weight 2.
+Successfully loaded template sqr office4C.tml with weight 10.
+Successfully loaded template sqr office4CD.tml with weight 7.
+Successfully loaded template sqr office4DR.tml with weight 1.
+Successfully loaded template sqr office4I.tml with weight 10.
+Successfully loaded template sqr office4ID.tml with weight 7.
+Successfully loaded template sqr office4R.tml with weight 2.
+Did not load Square tower 2s.tml, weight was zero.
+Successfully loaded template Square tower 3s.tml with weight 20.
+Successfully loaded template StoneChurch1.tml with weight 15.
+Successfully loaded template store 10C.tml with weight 3.
+Successfully loaded template store 10CD.tml with weight 2.
+Successfully loaded template store 10DR.tml with weight 2.
+Successfully loaded template store 10R.tml with weight 1.
+Successfully loaded template store4C.tml with weight 3.
+Successfully loaded template store4CD.tml with weight 2.
+Successfully loaded template store4R.tml with weight 1.
+Successfully loaded template store4RD.tml with weight 2.
+Successfully loaded template subway 10C.tml with weight 1.
+Successfully loaded template subway 10CD.tml with weight 1.
+Successfully loaded template subway 10DI.tml with weight 1.
+Successfully loaded template subway 10DR.tml with weight 1.
+Successfully loaded template subway 10I.tml with weight 1.
+Successfully loaded template subway 10R.tml with weight 2.
+Successfully loaded template Subway Library.tml with weight 10.
+Successfully loaded template subway4C.tml with weight 1.
+Successfully loaded template subway4CD.tml with weight 1.
+Successfully loaded template subway4DR.tml with weight 1.
+Successfully loaded template subway4I.tml with weight 1.
+Successfully loaded template subway4ID.tml with weight 1.
+Successfully loaded template subway4R.tml with weight 2.
+Successfully loaded template Taverna.tml with weight 10.
+Successfully loaded template tcon 10C.tml with weight 3.
+Successfully loaded template tcon 10CD.tml with weight 3.
+Successfully loaded template tcon 10I.tml with weight 3.
+Successfully loaded template tcon 10ID.tml with weight 3.
+Successfully loaded template Tcon factory.tml with weight 5.
+Successfully loaded template tcon10DR.tml with weight 3.
+Successfully loaded template tcon10R.tml with weight 3.
+Successfully loaded template tcon4C.tml with weight 3.
+Successfully loaded template tcon4CD.tml with weight 3.
+Successfully loaded template tcon4DR.tml with weight 3.
+Successfully loaded template tcon4I.tml with weight 3.
+Successfully loaded template tcon4ID.tml with weight 3.
+Successfully loaded template tcon4R.tml with weight 3.
+Successfully loaded template TinyFarmField.tml with weight 10.
+Successfully loaded template Town apt.tml with weight 20.
+Successfully loaded template Town gas.tml with weight 10.
+Successfully loaded template Town house.tml with weight 20.
+Successfully loaded template Town movies.tml with weight 40.
+Successfully loaded template Town office.tml with weight 10.
+Successfully loaded template TownBuildings1.tml with weight 10.
+Successfully loaded template TownBuildings10.tml with weight 10.
+Successfully loaded template TownBuildings11.tml with weight 10.
+Successfully loaded template TownBuildings2.tml with weight 10.
+Successfully loaded template TownBuildings3.tml with weight 10.
+Successfully loaded template TownBuildings4.tml with weight 10.
+Successfully loaded template TownBuildings5.tml with weight 10.
+Successfully loaded template TownBuildings6.tml with weight 10.
+Successfully loaded template TownBuildings7.tml with weight 10.
+Successfully loaded template TownBuildings8.tml with weight 10.
+Successfully loaded template TownBuildings9.tml with weight 10.
+Successfully loaded template TownMarketAndShops.tml with weight 10.
+Successfully loaded template TownMarketLarge.tml with weight 10.
+Successfully loaded template TownpackBarn.tml with weight 1.
+Successfully loaded template TownpackWell.tml with weight 3.
+Successfully loaded template VanillaVillageChurch-p.tml with weight 10.
+Successfully loaded template VanillaVillageCobble-p.tml with weight 50.
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 30.
+Successfully loaded template VanillaVillageField-p.tml with weight 5.
+Successfully loaded template VanillaVillageFieldDouble-p.tml with weight 2.
+Successfully loaded template VanillaVillageFieldR-p.tml with weight 5.
+Successfully loaded template VanillaVillageForge-p.tml with weight 5.
+Successfully loaded template VanillaVillageHut-p.tml with weight 50.
+Successfully loaded template VanillaVillageLadder-p.tml with weight 50.
+Successfully loaded template VanillaVillageLamppost-p.tml with weight 30.
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 5.
+Successfully loaded template VanillaVillagePig-p.tml with weight 10.
+Successfully loaded template VanillaVillageWell-p.tml with weight 20.
+Successfully loaded template warehouse10I.tml with weight 12.
+Successfully loaded template warehouse10ID.tml with weight 12.
+Successfully loaded template warehouse4I.tml with weight 12.
+Successfully loaded template warehouse4ID.tml with weight 12.
+Successfully loaded template Ziggurat.tml with weight 10.
+
+Loading wall styles from directory /Users/Usman/Desktop/CrashLandingServer/config/generatormods/walledcity/streets...
+Successfully loaded template 10DeepCommercialStreet.tml with weight 1.
+Successfully loaded template 10DeepIndustrialStreet.tml with weight 1.
+Successfully loaded template 10DeepResidentialStreet.tml with weight 1.
+Successfully loaded template 4DeepCommercialStreet.tml with weight 1.
+Successfully loaded template 4DeepIndustrialStreet.tml with weight 1.
+Successfully loaded template 4DeepResidentialStreet.tml with weight 1.
+Successfully loaded template CobblestoneStreet.tml with weight 5.
+Successfully loaded template CobblestoneStreetHumansPlus.tml with weight 1.
+Successfully loaded template Loot.tml with weight 1.
+Successfully loaded template NetherStreet.tml with weight 1.
+Successfully loaded template NewStoneStreet.tml with weight 1.
+Warning, named checklist item not found:Frozen Ocean. Line:biomes=Forest,Swampland,Mushroom Island,Taiga,Sky,Jungle,Frozen Ocean
+Successfully loaded template RuinedMossyStreet1.tml with weight 4.
+Successfully loaded template RuinedMossyStreet2.tml with weight 4.
+Successfully loaded template RuinedSandstoneStreet.tml with weight 1.
+Warning, named checklist item not found:Ocean. Line:biomes=Desert,Ocean
+Successfully loaded template SandstoneStreet1.tml with weight 2.
+Successfully loaded template SandstoneStreet2.tml with weight 3.
+Successfully loaded template SandstoneStreetHumansPlus1.tml with weight 2.
+Successfully loaded template SandstoneStreetHumansPlus2.tml with weight 3.
+Successfully loaded template TownStreet.tml with weight 1.
+Successfully loaded template UndergroundObsidianStreet.tml with weight 3.
+Successfully loaded template UndergroundRuinedMossyStreet.tml with weight 7.
+Successfully loaded template VanillaVillage-pStreet.tml with weight 1.
+
+
+Template loading complete.
+Probability of city generation attempt per chunk explored is 0.005, with 1 tries per chunk.
